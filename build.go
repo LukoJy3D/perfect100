@@ -90,8 +90,8 @@ func main() {
 
 			guidePath := "/guides/" + gameTitle + "/" + modifiedAchiName + ".md"
 
-			markdown := fmt.Sprintf("<img style=\"float: right;\" src=\"%s\" width=\"128\" height=\"128\"> \n\n## %s ([guide](%s))\n\nOwned by **%s** of players\n\n_%s_\n\n---\n\n",
-				imageSrc, achieveTextH3, guidePath, achievePercent, achieveTextH5)
+			markdown := fmt.Sprintf("## %s ([guide](%s)) <img style=\"float: right;\" src=\"%s\" width=\"128\" height=\"128\">\n\nOwned by **%s** of players\n\n_%s_\n\n---\n\n",
+				achieveTextH3, guidePath, imageSrc, achievePercent, achieveTextH5)
 
 			if _, err = achievementList.WriteString(markdown); err != nil {
 				fmt.Println("Error:", err)
