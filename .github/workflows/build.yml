@@ -1,0 +1,24 @@
+name: Build
+
+on: pull_request
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Run Script
+        run: go run build.go
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@main
+        with:
+          add: guides/* achievements/*
+          default_author: github_actions
+          commit: --amend
+          message: ${{ github.event.pull_request.title }}
+          push: --force
