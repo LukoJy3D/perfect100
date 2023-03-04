@@ -1,0 +1,25 @@
+name: Build
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Run Script
+        run: go run build.go
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@main
+        with:
+          commit: '--amend'
+          message: '${{ github.event.pull_request.title }}'
+          new_branch: feat/add_beat_saber_update_readme
+          push: 'origin feat/add_beat_saber_update_readme --set-upstream --force'
+          
