@@ -1,6 +1,6 @@
 ## Pure ([guide](/guides/Beat_Saber/Pure.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="128" height="128">
 
-Owned by **81.0%** of players
+Owned by **80.9%** of players
 
 _Clear any level without any modifiers._
 
@@ -40,7 +40,7 @@ _Clear any level on hard difficulty and get at least 100 combo without any modif
 
 ## Expert ([guide](/guides/Beat_Saber/Expert.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="128" height="128">
 
-Owned by **47.4%** of players
+Owned by **47.3%** of players
 
 _Clear any level on expert difficulty without any modifiers._
 
