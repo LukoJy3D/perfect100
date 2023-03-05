@@ -1,9 +1,4 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/LukoJy3D/perfect100)](https://goreportcard.com/report/github.com/LukoJy3D/perfect100)
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 [![Star on GitHub](https://img.shields.io/github/stars/LukoJy3D/perfect100.svg?style=social)](https://github.com/LukoJy3D/perfect100/stargazers)
 
 Repo for those crazy achievement hunters who just love going for that 100%. After that grindy completion, nothing better as sharing the knowledge with others!
@@ -22,6 +17,7 @@ To keep all information more structured most parts of the process are automated.
 As we like polished steam profiles, we like neat Pull Requests and Issues just as well!
 
 1. Use proper commit names (according to [requirements](.github/workflows/commitlint.config.js)):
+
 - type is one of `games`, `guides`, `multi`, `tools`
 - subject is always Sentense-cased
 - Examples when editing games.json
@@ -42,18 +38,9 @@ As we like polished steam profiles, we like neat Pull Requests and Issues just a
 
 4. Use one commit per PR. Some functionalities depend on it, so if needed - squash those commits or even try using --amend flag when commiting. It's very handy thing to learn!
 
-## Contributors ✨
+## To do list
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-
-<!-- prettier-ignore-start -->
-
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+- [ ] Launch via github pages
+- [ ] More implementation with discord community
+- [ ] More contribution acknowledgemnt
+- [ ] Markdown linters?
