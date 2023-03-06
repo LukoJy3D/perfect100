@@ -1,12 +1,13 @@
-name: Build
+name: Build for PRs from forks
 
 on:
-  pull_request:
+  push:
+    branches:
+      - main
   pull_request_target:
-    condition: github.event.pull_request.head.repo.fork == false
 
 jobs:
-  build:
+  build_forked:
     runs-on: ubuntu-latest
     permissions:
       contents: write
