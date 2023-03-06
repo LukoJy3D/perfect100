@@ -216,7 +216,7 @@ __
 
 ## Ten out of Ten ([guide](/guides/Cyberpunk_2077/Ten_out_of_Ten.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="128" height="128">
 
-Owned by **13.5%** of players
+Owned by **13.6%** of players
 
 _Reach the max level in any skill._
 
@@ -320,7 +320,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 ## The Devil ([guide](/guides/Cyberpunk_2077/The_Devil.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" width="128" height="128">
 
-Owned by **5.6%** of players
+Owned by **5.7%** of players
 
 __
 
