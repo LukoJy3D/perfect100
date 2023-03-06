@@ -320,7 +320,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 ## The Devil ([guide](/guides/Cyberpunk_2077/The_Devil.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" width="128" height="128">
 
-Owned by **5.6%** of players
+Owned by **5.7%** of players
 
 __
 

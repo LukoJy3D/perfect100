@@ -1,6 +1,6 @@
 ## Pure ([guide](/guides/Beat_Saber/Pure.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="128" height="128">
 
-Owned by **80.9%** of players
+Owned by **81.0%** of players
 
 _Clear any level without any modifiers._
 
