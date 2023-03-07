@@ -40,7 +40,7 @@ __
 
 ## Reached Temple of the Art ([guide](/guides/Noita/Reached_Temple_of_the_Art.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" width="128" height="128">
 
-Owned by **12.6%** of players
+Owned by **12.7%** of players
 
 __
 
