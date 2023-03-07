@@ -99,18 +99,16 @@ func main() {
 			}
 
 			// Create a file with the achievement title as the name
-			f2, err := os.OpenFile("guides/"+gameTitle+"/"+modifiedAchiName+".md", os.O_CREATE|os.O_WRONLY, 0644)
-			if err != nil {
-				fmt.Println("Error:", err)
-				os.Exit(1)
+			if _, err := os.Stat("guides/" + gameTitle + "/" + modifiedAchiName + ".md"); err != nil {
+				f2, err := os.OpenFile("guides/"+gameTitle+"/"+modifiedAchiName+".md", os.O_CREATE|os.O_WRONLY|os.O_EXCL, 0644)
+				if err != nil {
+					fmt.Println("Error:", err)
+					os.Exit(1)
+				}
+				markdown2 := fmt.Sprintf("## %s\n\n_Add guide here_", achieveTextH3)
+				f2.WriteString(markdown2)
+				defer f2.Close()
 			}
-
-			markdown2 := fmt.Sprintf("## %s\n\n_Add guide here_", achieveTextH3)
-
-			// Add content to the file
-			f2.WriteString(markdown2)
-
-			defer f2.Close()
 		})
 	}
 }
