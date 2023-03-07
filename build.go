@@ -98,15 +98,17 @@ func main() {
 				os.Exit(1)
 			}
 
-			// Replace any spaces or other common characters
-			achieveTextH3 = ReplaceForbiddenCharacters(achieveTextH3)
-
 			// Create a file with the achievement title as the name
-			f2, err := os.OpenFile("guides/"+gameTitle+"/"+achieveTextH3+".md", os.O_CREATE|os.O_WRONLY, 0644)
+			f2, err := os.OpenFile("guides/"+gameTitle+"/"+modifiedAchiName+".md", os.O_CREATE|os.O_WRONLY, 0644)
 			if err != nil {
 				fmt.Println("Error:", err)
 				os.Exit(1)
 			}
+
+			markdown2 := fmt.Sprintf("## %s\n\n_Add guide here_", achieveTextH3)
+
+			// Add content to the file
+			f2.WriteString(markdown2)
 
 			defer f2.Close()
 		})
