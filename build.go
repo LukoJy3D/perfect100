@@ -6,8 +6,10 @@ import (
 	"net/http"
 	"os"
 	"strings"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/solywsh/chatgpt"
 )
 
 func main() {
@@ -98,6 +100,8 @@ func main() {
 				os.Exit(1)
 			}
 
+			api_key := os.Getenv("api_key")
+
 			// Create a file with the achievement title as the name
 			if _, err := os.Stat("guides/" + gameTitle + "/" + modifiedAchiName + ".md"); err != nil {
 				f2, err := os.OpenFile("guides/"+gameTitle+"/"+modifiedAchiName+".md", os.O_CREATE|os.O_WRONLY|os.O_EXCL, 0644)
@@ -105,7 +109,18 @@ func main() {
 					fmt.Println("Error:", err)
 					os.Exit(1)
 				}
-				markdown2 := fmt.Sprintf("## %s\n\n_Add guide here_", achieveTextH3)
+				// Create a new instance of the chatgpt client
+				chat := chatgpt.New(api_key, "", 30*time.Second)
+				defer chat.Close()
+
+				question := achieveTextH3 + " is a steam achievement in " + gameTitle + ". Can you please provide a guide on how to get it?"
+
+				answer, err := chat.Chat(question)
+				if err != nil {
+					fmt.Println(err)
+				}
+
+				markdown2 := fmt.Sprintf("## %s\n\n%s", achieveTextH3, answer)
 				f2.WriteString(markdown2)
 				defer f2.Close()
 			}

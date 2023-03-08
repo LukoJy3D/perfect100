@@ -23,6 +23,8 @@ jobs:
           configFile: .github/commitlint.config.js
 
       - name: Run Script
+        env:
+          api_key: ${{ secrets.CHATGPT_API_KEY }}
         run: go run build.go
 
       - name: Commit all changed files back to the repository
