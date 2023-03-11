@@ -1,21 +1,30 @@
 ## Flawless
 
-To get the Flawless achievement in Beat Saber, you must complete a song without any misses or bad scores. This can be done by hitting all notes accurately and avoiding any bombs. 
+To get the **Flawless** achievement in Beat Saber, most of the sources will say, "you must complete a song without any misses or bad swings". However, there is little headroom for mistakes, even on expert difficulty. Making 1 or 2 mistakes is still viable for the achievement if your accuracy is on point!
 
-Here are some tips to help you get the Flawless achievement:
+Score calculation:
+SS rank is granted when your score is above 90% of the possible total score. Each note you hit can give a maximum of 115 points. 100 of those come from the angle of your swing, and 15 come from the centrality (how close you are to the center of the note when you hit it). 
 
-1. Make sure your tracking is working correctly. Check your sensors and ensure that your headset tracking is stable. 
+For example, let's take the song "Legend". It has 289 notes on expert difficulty, and the max points you can get (excluding modifiers) would be `265880` points:
+```
+289 notes x 115 points per swing x 8 multiplayer for combo
+``` 
+So to get an SS rank on this song, you would need a minimum score of `239292` (Exactly 90%).
 
-2. Practice your accuracy on easier songs first, as they will require less precision to get perfect scores. 
+Few tips:
+1. Make sure your tracking is working correctly. Countless times, my saber got stuck or flew away because of bad tracking (low battery level, dark room, etc.)
+2. Practice your accuracy on easier difficulty first. If you can get a full combo on a hard, the expert difficulty will also be beatable. 
+3. Take a break when you are feeling frustrated. Trust me, a 5-minute break can save you an hour of grind.
+4. Go for full 160 degrees cut! This is very important when going for SS rank. You can combine your arm movements with the movements of your wrist to help with full swings. If you fully go out simply by arms, your shoulders will give up pretty quickly. There are quite a few online tutorials explaining these techniques, so look at them if you are struggling.
+5. Don't forget about the accuracy! Going for those center slices gives you a maximum of 15 points, so in the end, it adds up pretty nicely. The example above would give you extra ~4k points.
+6. Even though I said there is some headroom for mistakes - go for a full combo. SS rank is guaranteed if you get it, and your cut average is around 105 points.
+7. Choose a shorter song. It's easier to be consistent, and the song will be less annoying since you will have to play it a few tens of times.
 
-3. Avoid smashing the notes as this will mess up your accuracy. Aim for light taps and try to stay coordinated.
+Following these tips should help you achieve **Flawless** achievement. Good luck!
 
-4. Pay attention to the speed of the incoming notes along with the specific note type. The faster notes require more precise aim compared to the slower ones. 
+Nasty way (Create your own map):
+1. Open the map editor.
+2. Make a level or multiple ones with a single note.
+3. Play those levels.
 
-5. Don't hesitate when it comes to inputting notes, as delayed actions can lead to misses. 
-
-6. Know the different note types and their directions as this will help you prepare for any type of incoming note. 
-
-7. Pay attention to the beat and avoid rushing your timing. 
-
-Following these tips should help you get the Flawless achievement in Beat Saber. Good luck!
+But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.

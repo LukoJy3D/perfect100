@@ -1,5 +1,5 @@
 ## Drill
 
-To get the Drill achievement in Beat Saber, you'll need to complete each of the Expert Challenges on any song. To access the challenges, first select a song and difficulty. From the song selection screen, press RB on Xbox or R1 on PS4 to bring up the Expert Challenges menu. Then select whichever Challenge you wish to attempt. 
+**Drill** is a grind achievement. Focus on other achievements, and this will come alongside them.
 
-Once you've completed each of the Challenges for a particular song, you'll unlock the Drill achievement. Make sure to do this for any songs you wish to earn this achievement on. Good luck!
+To get a total of 10k good cuts or more will come naturally while playing the game. A good cut is simply correctly hitting the note based on its arrow direction, no matter how many points you earn.

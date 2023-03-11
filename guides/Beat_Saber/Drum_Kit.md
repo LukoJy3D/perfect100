@@ -1,7 +1,14 @@
 ## Drum Kit
 
-1. Go to the Challenges page in the Beat Saber “Extras” menu. 
-2. Select “Drum Kit” and make sure it is set to active.
-3. Play the Expert level of “Can’t Stop Now”.
-4. Be sure to hit all of the notes and hit each of the drums a minimum of 8 times each.
-5. Once this is done, the achievement should be unlocked.
+To unlock this achievement, you must not miss a single note on 15 different songs on hard difficulty. If you are good at the game, this is a no-brainer. If you are a beginner, it might take some time.
+
+Few tips:
+1. Start on easier levels and make sure you can beat them with a full combo before proceeding to harder difficulties.
+2. Some songs are easier than others, so choose levels that are less arm-breaking, such as "Legends", "Beat Saber", and the "100$ bills".
+
+Nasty way (Create your own map):
+1. Open the map editor.
+2. Make a level or multiple ones with a single note.
+3. Play those levels.
+
+But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.

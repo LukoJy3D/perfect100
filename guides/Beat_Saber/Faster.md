@@ -1,11 +1,12 @@
 ## Faster
 
-1. Make sure you have Beat Saber installed and up-to-date. 
+To achieve this, complete any song with the speed modifier equipped. The modifier will make the notes and the song 50% faster. It also gives you a slight increase in score multiplier which helps you unlock other achievements more quickly, such as **100 million**.
 
-2. Enable Expert+ mode through the settings of the game.
+Modifiers are found to the left of the screen during your song selection. Finish any song with this modifier equipped on any difficulty, and the achievement will pop.
 
-3. Select any song from the songs list.
+Nasty way (Create your own map):
+1. Open the map editor.
+2. Make a level or multiple ones with a single note.
+3. Play those levels.
 
-4. Finish the song without missing any notes, as accurately and quickly as possible.
-
-5. If you can finish the song in under 1 minute, you’ll unlock the Faster steam achievement.
+But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.

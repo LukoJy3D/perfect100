@@ -1,11 +1,5 @@
 ## Charge
 
-1. Make sure you have beaten all of the levels in the official campaign.
+To successfully unlock **Charge** achievement, you need to complete the level with a modifier called **4 lives** (Making 4 mistakes depletes all your energy).
 
-2. Go to the training sabers and practice your saber skills until you are confident.
-
-3. Once you are ready, go to the advanced sabers and choose the Charge song.
-
-4. Play through the entire song while maintaining speed and accuracy with your sabers.
-
-5. When you complete the song, the achievement should unlock and you will have successfully obtained Charge.
+Even though the achievement states that a _battery energy_ modifier should be used, this is inaccurate due to multiple game updates.
