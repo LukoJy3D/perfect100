@@ -1,7 +1,7 @@
 ## Day & Night
 
-1. Start playing Beat Saber in either Day or Night mode.
+**Day & Night** is a grind achievement. Focus on other achievements, and this will come alongside them.
 
-2. Complete five songs in the same mode, either Day or Night.
-
-3. The achievement will unlock when you have completed five songs in either Day or Night mode.
+Few tips
+1. Playtime only tracks when you are playing a song. The time you spend loading or sitting in a menu does not count towards the achievement, so usually, this will not align with the time shown by steam.
+2. This is usually unlocked along the way with the other achievements. However, if you want to get this achievement without properly playing, or you are tired of the grind, you can always use the _No Fail_ modifier on one of the longer songs (i.e., "Angel Voices") and sit afk (NOT CLASSY!)
