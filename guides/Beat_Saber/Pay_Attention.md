@@ -1,7 +1,3 @@
 ## Pay Attention
 
-1. Start up Beat Saber and select the song "Pay Attention" from the All Songs menu.
-
-2. Play through the entire song without failing a single obstacle.
-
-3. After completing the song, the achievement should unlock.
+To unlock this achievement, you just need to get 50 note combo an any normal difficulty map without modifiers. Tip - usually after you cut a note with a downswing, the next note will be an upswing and vice versa. After you get a feel for it, you essentially just need to see where to swing on the first note.
