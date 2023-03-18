@@ -1,4 +1,8 @@
-## No Mistakes
+# No Mistakes (1.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/071a27bff15d1f2a87461b29b7052ca4ace32586.jpg" width="96" height="96">
+
+_Get full combo on at least 15 different levels on expert difficulty (solo free play only)._
+
+---
 
 To unlock this achievement, you must not miss a single note on 15 different songs on expert difficulty. Very similar to **Drum Kit**, so the same tips apply:
 1. Start on easier levels and make sure you can beat them with a full combo before proceeding to harder difficulties.

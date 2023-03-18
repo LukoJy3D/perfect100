@@ -1,4 +1,8 @@
-## Drum Kit
+# Drum Kit (1.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/92f2c0d8d6a634a572ea8a277abcc670651f60cb.jpg" width="96" height="96">
+
+_Get full combo on at least 15 different levels on hard difficulty (solo free play only)._
+
+---
 
 To unlock this achievement, you must not miss a single note on 15 different songs on hard difficulty. If you are good at the game, this is a no-brainer. If you are a beginner, it might take some time.
 

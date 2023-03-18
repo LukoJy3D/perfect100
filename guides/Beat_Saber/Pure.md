@@ -1,4 +1,8 @@
-## Pure
+# Pure (81.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="96" height="96">
+
+_Clear any level without any modifiers._
+
+---
 
 1. Start up Beat Saber and select the song you want to play.
 

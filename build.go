@@ -92,7 +92,7 @@ func main() {
 
 			guidePath := "/guides/" + gameTitle + "/" + modifiedAchiName + ".md"
 
-			markdown := fmt.Sprintf("## %s ([guide](%s)) <img style=\"float: right;\" src=\"%s\" width=\"128\" height=\"128\">\n\nOwned by **%s** of players\n\n_%s_\n\n---\n\n",
+			markdown := fmt.Sprintf("# %s ([guide](%s)) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\n\nOwned by **%s** of players\n\n_%s_\n\n---\n\n",
 				achieveTextH3, guidePath, imageSrc, achievePercent, achieveTextH5)
 
 			if _, err = achievementList.WriteString(markdown); err != nil {
@@ -109,19 +109,52 @@ func main() {
 					fmt.Println("Error:", err)
 					os.Exit(1)
 				}
+
 				// Create a new instance of the chatgpt client
 				chat := chatgpt.New(api_key, "", 30*time.Second)
 				defer chat.Close()
 
-				question := achieveTextH3 + " is a steam achievement in " + gameTitle + ". Can you please provide a guide on how to get it?"
+				question := achieveTextH3 + " is a steam achievement in " + gameTitle +
+					". Can you please provide a guide on how to get it? Also add some related emojis readable in markdown!"
 
 				answer, err := chat.Chat(question)
 				if err != nil {
 					fmt.Println(err)
 				}
 
-				markdown2 := fmt.Sprintf("## %s\n\n%s", achieveTextH3, answer)
+				markdown2 := fmt.Sprintf("# %s <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\n\n_%s_\n\n---\n\n%s",
+					achieveTextH3, imageSrc, achieveTextH5, answer)
 				f2.WriteString(markdown2)
+				defer f2.Close()
+			} else {
+				//if file exists update achieveTextH3, imageSrc, achieveTextH5, but do not overwrite answer section under ---
+				fileread, err := os.ReadFile("guides/" + gameTitle + "/" + modifiedAchiName + ".md")
+				if err != nil {
+					fmt.Println("Error:", err)
+					os.Exit(1)
+				}
+
+				var part2 string
+
+				parts := strings.Split(string(fileread), "---")
+				part2 = parts[1]
+
+				f2, err := os.Create("guides/" + gameTitle + "/" + modifiedAchiName + ".md")
+				if err != nil {
+					fmt.Println("Error:", err)
+					os.Exit(1)
+				}
+
+				// update the variables
+				markdown3 := fmt.Sprintf("# %s (%s) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\n\n_%s_\n\n---%s",
+					achieveTextH3, achievePercent, imageSrc, achieveTextH5, part2)
+
+				// write the updated content to the file
+				if _, err = f2.WriteString(markdown3); err != nil {
+					fmt.Println("Error:", err)
+					os.Exit(1)
+				}
+
 				defer f2.Close()
 			}
 		})

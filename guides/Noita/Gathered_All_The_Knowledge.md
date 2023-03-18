@@ -1,4 +1,8 @@
-## Gathered All The Knowledge
+# Gathered All The Knowledge (2.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" width="96" height="96">
+
+__
+
+---
 
 Step 1: Ensure you have beaten the game at least once, and have access to the World Map.
 

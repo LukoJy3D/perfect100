@@ -1,4 +1,8 @@
-## The Gods Are Enraged
+# The Gods Are Enraged (4.4%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" width="96" height="96">
+
+__
+
+---
 
 1. First, you will need to find the Enraged God’s altar – it’s located in the Underwater Depths biome, which is accessed via a submerged cave entrance in the Ocean biome.
 

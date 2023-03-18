@@ -1,4 +1,8 @@
-## The World
+# The World (35.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
+
+_Complete the main storyline._
+
+---
 
 To get the "The World" achievement in Cyberpunk 2077, you need to finish all five main heists in the game. Here is a guide on how to do this:
 

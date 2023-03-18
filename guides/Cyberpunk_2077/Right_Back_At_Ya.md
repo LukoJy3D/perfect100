@@ -1,12 +1,10 @@
-## Right Back At Ya
+# Right Back At Ya (67.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-1. Begin the Cyberpsycho Sighting side job called “The Hunt” in Night City.
+_Kill or incapacitate an enemy who threw a grenade at you._
 
-
-2. Enter the West Wind Estate in Heywood to face off against the "Killing Machine" Cyberpsycho.
-
-
-3. Defeat the Cyberpsycho using any combination of stealth, hacking, and/or combat.
+---
 
 
-4. Once the Cyberpsycho is defeated, you will be rewarded with the Right Back at Ya achievement.
+
+
+

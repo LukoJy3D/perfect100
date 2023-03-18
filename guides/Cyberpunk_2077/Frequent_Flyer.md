@@ -1,4 +1,8 @@
-## Frequent Flyer
+# Frequent Flyer (15.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
+
+_Find all fast travel dataterms._
+
+---
 
 1. Talk to Panam Palmer at any time and follow her missions. 
 2. Head to the Maelstrom's headquarters and fight your way inside.

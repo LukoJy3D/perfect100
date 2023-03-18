@@ -1,4 +1,8 @@
-## Supreme
+# Supreme (13.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" width="96" height="96">
+
+_Get full combo on any level on expert difficulty without any modifiers._
+
+---
 
 The Supreme achievement in Beat Saber requires you to complete all Campaign levels on Expert difficulty. The steps to do this are as follows: 
 

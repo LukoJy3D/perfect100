@@ -1,4 +1,8 @@
-## The Lovers
+# The Lovers (70.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
+
+__
+
+---
 
 1. Start the mission “Ghost Town” and make sure to remain undetected while infiltrating the area.
 

@@ -1,4 +1,8 @@
-## Reached The Vault
+# Reached The Vault (17.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
+
+__
+
+---
 
 1. Activate the Monoliths - Before you attempt to access the vault, you need to activate the four monoliths scattered around the world. Once activated, they will open up a portal to the vault. To activate each monolith, find and interact with the four nerve clusters located underneath each of the monuments. 
 

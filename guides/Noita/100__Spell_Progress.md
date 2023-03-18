@@ -1,4 +1,8 @@
-## 100% Spell Progress
+# 100% Spell Progress (0.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/fc37560f3506ab3cfd5e4f5513d6c8c2885a40ec.jpg" width="96" height="96">
+
+__
+
+---
 
 1. Defeat all the bosses in the game, including the final boss.
 

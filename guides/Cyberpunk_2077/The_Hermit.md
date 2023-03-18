@@ -1,4 +1,8 @@
-## The Hermit
+# The Hermit (50.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
+
+__
+
+---
 
 This steam achievement is unlocked automatically when you earn the "Hermit" Perk from Johnny Silverhand. This is a part of the main quest in Cyberpunk 2077. In order to obtain the perk, you must complete the quest "Chippin' In" and then do 3 things:
 

@@ -30,4 +30,4 @@ jobs:
       - name: Commit all changed files back to the repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: ${{ github.event.pull_request.title }} amendment
+          commit_message: "multi: Achievement update by github actions"

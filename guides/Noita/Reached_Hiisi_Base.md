@@ -1,4 +1,8 @@
-## Reached Hiisi Base
+# Reached Hiisi Base (35.5%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
+
+__
+
+---
 
 Getting the "Reached Hiisi Base" achievement in Noita can be a bit tricky. However, with the right strategy, you can easily get it. Here's what you need to do:
 

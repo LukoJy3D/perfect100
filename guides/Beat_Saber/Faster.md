@@ -1,4 +1,8 @@
-## Faster
+# Faster (30.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" width="96" height="96">
+
+_Clear any level with faster song speed modifier._
+
+---
 
 To achieve this, complete any song with the speed modifier equipped. The modifier will make the notes and the song 50% faster. It also gives you a slight increase in score multiplier which helps you unlock other achievements more quickly, such as **100 million**.
 

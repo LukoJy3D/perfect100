@@ -1,4 +1,8 @@
-## Traveller
+# Traveller (30.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" width="96" height="96">
+
+_Get 100 kilometers travelled hand distance or more._
+
+---
 
 1. Start a new career in Beat Saber and select the Traveller song.
 2. Play through the song to earn at least 'A' rating on each of the levels.

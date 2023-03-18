@@ -1,4 +1,8 @@
-## 100% Enemy Progress
+# 100% Enemy Progress (0.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/18c76ae26e6cb5c0743863e8e31a45b203ce7fa9.jpg" width="96" height="96">
+
+__
+
+---
 
 Getting 100% Enemy Progress in Noita is a very time consuming task and can be quite difficult. The easiest way to go about it is to make sure you have the right loadout and items to help you defeat all the enemies in the game.
 
