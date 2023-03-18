@@ -1,4 +1,8 @@
-## Reached Coal Pits
+# Reached Coal Pits (68.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
+
+__
+
+---
 
 1. Collect all the Coal by breaking the rocks that have coal veins in them or barrels that contain the coal.
 

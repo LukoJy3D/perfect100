@@ -1,7 +1,7 @@
-## Memory
+# Memory (26.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" width="96" height="96">
 
-1. Load up Beat Saber.
-2. Head to the Challenges tab. From there, find the Memory challenge.
-3. In order to complete this challenge, you must play the Expert+ version of the track "Memory" at full speed for at least 50 seconds consecutively without accidentally restarting the song.
-4. As you can imagine, this is quite difficult. Make sure you are well familiar with the track before attempting it.
-5. If you complete the challenge, you will be rewarded with the Memory Steam Achievement.
+_Clear any level with disappearing arrows modifier._
+
+---
+
+To obtain this achievement, you just need to clear any level with disappearing arrows modifier.

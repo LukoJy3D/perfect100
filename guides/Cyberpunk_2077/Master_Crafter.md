@@ -1,4 +1,8 @@
-## Master Crafter
+# Master Crafter (24.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
+
+_Craft 3 Legendary items._
+
+---
 
 1. Work with a total of 10 or more crafting components in the same job
 2. Craft a Legendary item

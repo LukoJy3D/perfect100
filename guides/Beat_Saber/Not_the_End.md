@@ -1,7 +1,7 @@
-## Not the End
+# Not the End (3.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/bfa4d78e680ee50386e1a0dd5b87aecead55d74e.jpg" width="96" height="96">
 
-1. Start up BeatSaber.
-2. Go to the main menu and select “Free Play”.
-3. Select the song “Not The End” by ZG9 by clicking on it in the list of songs.
-4. Play the song and attempt to hit all of the arrows correctly while keeping a good combo.
-5. Once the song is finished, you will have unlocked the achievement “Not the End”.
+_Clear final mission in campaign._
+
+---
+
+To obtain this achievement, you need to clear the final mission in campaign. You don't need to beat all missions for this achievement.

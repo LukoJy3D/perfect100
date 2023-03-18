@@ -1,4 +1,8 @@
-## Full Body Conversion
+# Full Body Conversion (32.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
+
+_Install at least one implant in each system and body part._
+
+---
 
 1. Play the Mission: Organic Disaster 
 2. Hack into the security camera on the side of the building or use the camera on the inside.

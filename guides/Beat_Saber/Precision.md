@@ -1,4 +1,8 @@
-## Precision
+# Precision (6.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg" width="96" height="96">
+
+_Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
+
+---
 
 Precision is a Steam achievement obtainable in Beat Saber. To unlock it, you must earn an S+ rating on every song in either Expert or Expert+ mode.
 

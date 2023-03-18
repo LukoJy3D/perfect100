@@ -1,4 +1,8 @@
-## Bushido and Chill
+# Bushido and Chill (31.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
+
+__
+
+---
 
 1. Load up a save and head to the Samurai district in Westbrook. You can find it in the Japantown area in the northwest corner of the Watson district.
 

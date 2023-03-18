@@ -1,4 +1,8 @@
-## Christmas Tree Attack
+# Christmas Tree Attack (32.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
+
+_Complete a Breach Protocol with a minimum of 3 daemons uploaded._
+
+---
 
 1. Start a game in Street Kid mode. 
 2. Head to the eastern edge of Northside, located in Heywood.

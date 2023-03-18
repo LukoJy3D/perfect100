@@ -1,11 +1,11 @@
-## No Mistakes
+# No Mistakes (1.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/071a27bff15d1f2a87461b29b7052ca4ace32586.jpg" width="96" height="96">
 
-1. First, you need to make sure you have the Deluxe version of Beat Saber. This is the only way to unlock the achievement.
+_Get full combo on at least 15 different levels on expert difficulty (solo free play only)._
 
-2. Once you have the game, you'll need to play at least 5 custom songs without failing. Make sure you are playing on Expert difficulty for this achievement.
+---
 
-3. When you play the custom songs, try and avoid letting your saber miss. If it does, simply restart the song until you can complete it without any misses. 
-
-4. Once you've completed 5 custom songs without any misses, you'll unlock the achievement. You can find it in the Achievements tab of the main menu.
-
-Congratulations! You have just unlocked the No Mistakes Steam Achievement in Beat Saber.
+To unlock this achievement, you must not miss a single note on 15 different songs on expert difficulty. Very similar to **Drum Kit**, so the same tips apply:
+1. Start on easier levels and make sure you can beat them with a full combo before proceeding to harder difficulties.
+2. Some songs are easier than others, so choose levels that are less arm-breaking, such as "Legends", "Beat Saber", and the "100$ bills".
+3. Play the songs with "No obstacles", "No bombs" and "Slower song" modifiers.
+4. If you are having difficulty with stock maps, you can try installing custom ones.

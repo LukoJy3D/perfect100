@@ -1,4 +1,8 @@
-## The Wheel of Fortune
+# The Wheel of Fortune (54.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
+
+__
+
+---
 
 1. Complete all Side Jobs in the game.
 

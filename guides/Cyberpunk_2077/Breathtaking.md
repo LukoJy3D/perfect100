@@ -1,4 +1,8 @@
-## Breathtaking
+# Breathtaking (15.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
+
+_Collect all items that once belonged to Johnny Silverhand._
+
+---
 
 Step 1: Go to the Vista Del Rey district in the Santa Domingo region of the Night City map.
 

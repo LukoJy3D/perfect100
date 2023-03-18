@@ -1,10 +1,7 @@
-## On the Edge
+# On the Edge (7.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/d99b3519f13c52c7f883349ee8a04ea96a3a062b.jpg" width="96" height="96">
 
-1. Launch Beat Saber and select the “Get More Songs” option from the main menu.
-2. Choose the “On the Edge” campaign.
-3. Select the level “On the Edge” difficulty.
-4. Follow the arrows and slash through the notes with your sabers.
-5. To pass the level, you must keep up with the arrows and avoid missing too many notes.
-6. Upon completion of the level, you will earn the achievement On the Edge.
+_Clear any level with insta fail modifier._
 
-Congratulations!
+---
+
+To obtain this achievement, you just need to clear any level with insta fail modifier. Just pick a map that you can easily full combo and beat it with the modifier enabled.

@@ -1,4 +1,8 @@
-## The Devil
+# The Devil (5.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" width="96" height="96">
+
+__
+
+---
 
 1. Head to The Goat of Duty bar in Japantown and speak to the bartender to unlock the "Pact with a Devil" mission.
 

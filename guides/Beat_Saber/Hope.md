@@ -1,9 +1,11 @@
-## Hope
+# Hope (8.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/0693e44f919c00a3d798fd4a7861a1c7f83aa44f.jpg" width="96" height="96">
 
-Getting the Hope steam achievement in Beat Saber can be a bit challenging. However, with a few tips and tricks, it can be done quite easily. Here is a step by step guide on how to get the Hope steam achievement in Beat Saber: 
+_Get rank S on at least 15 different levels on expert difficulty (solo free play only)._
 
-1. Make sure you have installed the latest version of Beat Saber. To do this, open the Steam client, navigate to Library, then right-click Beat Saber, and select Properties. In the properties window, click on the Betas tab, select “Beta - Latest version” from the drop-down menu, and then click Close.
+---
 
-2. You will need to play a minimum of 30 minutes in order to unlock the Hope achievement. To do this, begin playing any song you like, making sure that you reach the one-hour mark before ending your session.
+To obtain this achievement, you need to get at least rank S on any 15 expert difficulty maps. Rank S is obtained when your overall accuracy is higher than 80%.
 
-3. Once you reach the one-hour mark, you can end your session and the Hope achievement will automatically be unlocked. Congratulations!
+Some tips:
+1. Try to make big swings, because you get rewarded more points.
+2. Try to hit the notes as close to the center as possible.

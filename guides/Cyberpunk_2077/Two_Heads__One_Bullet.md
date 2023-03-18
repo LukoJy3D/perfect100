@@ -1,4 +1,8 @@
-## Two Heads, One Bullet
+# Two Heads, One Bullet (26.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" width="96" height="96">
+
+_Kill or incapacitate 2 enemies with the same sniper rifle shot._
+
+---
 
 Step 1: 
 Start a mission called Tapeworm At Night located in Pacifica.

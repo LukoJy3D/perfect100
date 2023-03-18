@@ -1,9 +1,12 @@
-## Focus
+# Focus (13.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" width="96" height="96">
 
-Getting the Focus achievement in Beat Saber is not too difficult. Here's a step-by-step guide to help you get it:
+_Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
-1. Load up Beat Saber and select the Expert difficulty for any song.
+---
 
-2. Attempt the song and try to get a high combo score by avoiding missing notes and taking as few restarts as possible.
+To unlock the **Focus** achievement, you must get 500 note combo on any expert map without modifiers. Getting combos becomes pretty simple after getting used to how the game plays. 
 
-3. You should get the Focus achievement after completing the song with a high combo score and without taking any restarts.
+Few tips:
+1. Usually, after you cut a note with a downswing, the next note will be an upswing, and vice versa. After getting a feel for it, you only need to see where to swing on the first note, and muscle memory usually does the rest.
+2. Not all songs have 500 notes! 
+3. Choose longer songs. Longer songs will allow you to get 500 note combo even if you fail at the beginning.

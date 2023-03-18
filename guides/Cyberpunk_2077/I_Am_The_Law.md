@@ -1,4 +1,8 @@
-## I Am The Law
+# I Am The Law (18.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
+
+_Complete all Cyberpsycho Sightings._
+
+---
 
 In order to get the I am the Law achievement in Cyberpunk 2077, you will need to complete all 20 NCPD Patrol cases in Night City. NCPD Patrol cases are side missions which involve solving a crime or calming a volatile situation. You can start these NCPD Patrol cases on the Job board found outside any police station in the city. 
 

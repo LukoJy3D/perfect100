@@ -1,4 +1,9 @@
-## The Quick and the Dead
+# The Quick and the Dead (17.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
+
+_Kill or incapacitate 50 enemies while time is slowed._
+
+---
+
 
 1. Complete all Gun-For-Hire missions in Badlands. 
 
