@@ -112,7 +112,7 @@ _Get full combo on any level on expert difficulty without any modifiers._
 
 # Day & Night ([guide](/guides/Beat_Saber/Day___Night.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/83cc09fe8c596a49684738859ec04bb172594d5a.jpg" width="96" height="96">
 
-Owned by **11.5%** of players
+Owned by **11.6%** of players
 
 _Get total played time 24 hours or more._
 
