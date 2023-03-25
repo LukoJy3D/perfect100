@@ -8,7 +8,7 @@ __
 
 # The Lovers ([guide](/guides/Cyberpunk_2077/The_Lovers.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **70.7%** of players
+Owned by **70.6%** of players
 
 __
 
@@ -16,7 +16,7 @@ __
 
 # Right Back At Ya ([guide](/guides/Cyberpunk_2077/Right_Back_At_Ya.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **67.2%** of players
+Owned by **67.0%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -24,7 +24,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # The Wheel of Fortune ([guide](/guides/Cyberpunk_2077/The_Wheel_of_Fortune.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **54.8%** of players
+Owned by **54.6%** of players
 
 __
 
@@ -32,7 +32,7 @@ __
 
 # Stanislavski's Method ([guide](/guides/Cyberpunk_2077/Stanislavski_s_Method.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **52.3%** of players
+Owned by **52.1%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -40,7 +40,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # The Hermit ([guide](/guides/Cyberpunk_2077/The_Hermit.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **50.7%** of players
+Owned by **50.6%** of players
 
 __
 
@@ -48,7 +48,7 @@ __
 
 # The High Priestess ([guide](/guides/Cyberpunk_2077/The_High_Priestess.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **45.3%** of players
+Owned by **45.1%** of players
 
 __
 
@@ -56,7 +56,7 @@ __
 
 # True Soldier ([guide](/guides/Cyberpunk_2077/True_Soldier.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **42.0%** of players
+Owned by **41.9%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -64,7 +64,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # Life of the Road ([guide](/guides/Cyberpunk_2077/Life_of_the_Road.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **40.1%** of players
+Owned by **39.9%** of players
 
 __
 
@@ -72,7 +72,7 @@ __
 
 # Legend of The Afterlife ([guide](/guides/Cyberpunk_2077/Legend_of_The_Afterlife.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **38.1%** of players
+Owned by **38.0%** of players
 
 _Reach max Street Cred._
 
@@ -80,7 +80,7 @@ _Reach max Street Cred._
 
 # The World ([guide](/guides/Cyberpunk_2077/The_World.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **35.7%** of players
+Owned by **35.6%** of players
 
 _Complete the main storyline._
 
@@ -96,7 +96,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # Full Body Conversion ([guide](/guides/Cyberpunk_2077/Full_Body_Conversion.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **32.6%** of players
+Owned by **32.5%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -104,7 +104,7 @@ _Install at least one implant in each system and body part._
 
 # Bushido and Chill ([guide](/guides/Cyberpunk_2077/Bushido_and_Chill.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **31.9%** of players
+Owned by **31.8%** of players
 
 __
 
@@ -112,7 +112,7 @@ __
 
 # Judy vs Night City ([guide](/guides/Cyberpunk_2077/Judy_vs_Night_City.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **29.0%** of players
+Owned by **28.9%** of players
 
 __
 
@@ -120,7 +120,7 @@ __
 
 # True Warrior ([guide](/guides/Cyberpunk_2077/True_Warrior.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **29.0%** of players
+Owned by **28.9%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -128,7 +128,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # Two Heads, One Bullet ([guide](/guides/Cyberpunk_2077/Two_Heads__One_Bullet.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" width="96" height="96">
 
-Owned by **26.8%** of players
+Owned by **26.7%** of players
 
 _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -136,7 +136,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # To Protect and Serve ([guide](/guides/Cyberpunk_2077/To_Protect_and_Serve.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **26.4%** of players
+Owned by **26.3%** of players
 
 __
 
@@ -144,7 +144,7 @@ __
 
 # Master Crafter ([guide](/guides/Cyberpunk_2077/Master_Crafter.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **24.7%** of players
+Owned by **24.6%** of players
 
 _Craft 3 Legendary items._
 
@@ -152,7 +152,7 @@ _Craft 3 Legendary items._
 
 # Gun Fu ([guide](/guides/Cyberpunk_2077/Gun_Fu.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **23.0%** of players
+Owned by **23.1%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -160,7 +160,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 # The Wandering Fool ([guide](/guides/Cyberpunk_2077/The_Wandering_Fool.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" width="96" height="96">
 
-Owned by **20.1%** of players
+Owned by **20.0%** of players
 
 _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -192,7 +192,7 @@ __
 
 # Breathtaking ([guide](/guides/Cyberpunk_2077/Breathtaking.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **15.3%** of players
+Owned by **15.2%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -200,7 +200,7 @@ _Collect all items that once belonged to Johnny Silverhand._
 
 # Frequent Flyer ([guide](/guides/Cyberpunk_2077/Frequent_Flyer.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **15.2%** of players
+Owned by **15.1%** of players
 
 _Find all fast travel dataterms._
 
@@ -208,7 +208,7 @@ _Find all fast travel dataterms._
 
 # The Sun ([guide](/guides/Cyberpunk_2077/The_Sun.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" width="96" height="96">
 
-Owned by **14.7%** of players
+Owned by **14.6%** of players
 
 __
 
@@ -216,7 +216,7 @@ __
 
 # Ten out of Ten ([guide](/guides/Cyberpunk_2077/Ten_out_of_Ten.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **13.6%** of players
+Owned by **13.5%** of players
 
 _Reach the max level in any skill._
 
@@ -240,7 +240,7 @@ __
 
 # Must Be Rats ([guide](/guides/Cyberpunk_2077/Must_Be_Rats.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
 
-Owned by **10.0%** of players
+Owned by **9.9%** of players
 
 _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 
@@ -270,19 +270,19 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
-# Little Tokyo ([guide](/guides/Cyberpunk_2077/Little_Tokyo.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" width="96" height="96">
-
-Owned by **7.1%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in Westbrook._
-
----
-
 # The Jungle ([guide](/guides/Cyberpunk_2077/The_Jungle.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
 Owned by **7.1%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
+
+---
+
+# Little Tokyo ([guide](/guides/Cyberpunk_2077/Little_Tokyo.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" width="96" height="96">
+
+Owned by **7.0%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 ---
 
@@ -296,7 +296,7 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 # The Wasteland ([guide](/guides/Cyberpunk_2077/The_Wasteland.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
 
-Owned by **6.6%** of players
+Owned by **6.5%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 

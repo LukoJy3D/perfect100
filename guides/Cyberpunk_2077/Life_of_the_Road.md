@@ -1,4 +1,4 @@
-# Life of the Road (40.1%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
+# Life of the Road (39.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
 __
 
