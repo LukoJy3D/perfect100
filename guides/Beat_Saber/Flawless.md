@@ -1,4 +1,4 @@
-# Flawless (7.4%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e11d8f04cb9f2fbd8ec79a5218fc3a407aefacd9.jpg" width="96" height="96">
+# Flawless (7.4%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/e11d8f04cb9f2fbd8ec79a5218fc3a407aefacd9.jpg" width="96" height="96">
 
 _Get rank SS on any level on expert difficulty without any modifiers._
 

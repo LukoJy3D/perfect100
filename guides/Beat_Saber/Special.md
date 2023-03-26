@@ -1,4 +1,4 @@
-# Special (33.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f005c82f4be0b1385a9d6e4eac84d92d5d7fd85c.jpg" width="96" height="96">
+# Special (33.2%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/f005c82f4be0b1385a9d6e4eac84d92d5d7fd85c.jpg" width="96" height="96">
 
 _Get at least rank S on any level on hard difficulty without any modifiers._
 

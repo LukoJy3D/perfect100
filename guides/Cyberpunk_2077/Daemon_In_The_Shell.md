@@ -1,4 +1,4 @@
-# Daemon In The Shell (5.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg" width="96" height="96">
+# Daemon In The Shell (5.8%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg" width="96" height="96">
 
 _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 

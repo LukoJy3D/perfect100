@@ -1,4 +1,4 @@
-# Progress (5.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8a7800b32758c6857521c3bce6439bbe133d92af.jpg" width="96" height="96">
+# Progress (5.8%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/8a7800b32758c6857521c3bce6439bbe133d92af.jpg" width="96" height="96">
 
 _Clear 30 missions in campaign._
 

@@ -1,4 +1,4 @@
-# Greetings from Pacifica! (6.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
+# Greetings from Pacifica! (6.9%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
 
 _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 

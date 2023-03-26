@@ -1,4 +1,4 @@
-# On the Edge (7.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/d99b3519f13c52c7f883349ee8a04ea96a3a062b.jpg" width="96" height="96">
+# On the Edge (7.7%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/d99b3519f13c52c7f883349ee8a04ea96a3a062b.jpg" width="96" height="96">
 
 _Clear any level with insta fail modifier._
 

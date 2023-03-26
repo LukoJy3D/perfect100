@@ -1,4 +1,4 @@
-# 100 Million (11.1%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/cc071c3d9d6ef6584d3814b8f40c916efa86268f.jpg" width="96" height="96">
+# 100 Million (11.1%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/cc071c3d9d6ef6584d3814b8f40c916efa86268f.jpg" width="96" height="96">
 
 _Get total score 100 million or more._
 
