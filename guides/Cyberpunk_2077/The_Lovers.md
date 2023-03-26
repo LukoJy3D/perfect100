@@ -1,4 +1,4 @@
-# The Lovers (70.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
+# The Lovers (70.6%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
 __
 

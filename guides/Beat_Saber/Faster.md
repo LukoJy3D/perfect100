@@ -1,4 +1,4 @@
-# Faster (30.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" width="96" height="96">
+# Faster (30.8%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" width="96" height="96">
 
 _Clear any level with faster song speed modifier._
 

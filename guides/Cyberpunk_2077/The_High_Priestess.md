@@ -1,4 +1,4 @@
-# The High Priestess (45.1%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
+# The High Priestess (45.1%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
 __
 

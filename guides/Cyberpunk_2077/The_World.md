@@ -1,4 +1,4 @@
-# The World (35.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
+# The World (35.6%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
 _Complete the main storyline._
 
