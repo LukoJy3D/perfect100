@@ -4,13 +4,11 @@ _Get rank S on at least 15 different levels on hard difficulty (solo free play o
 
 ---
 
-Precision is a Steam achievement obtainable in Beat Saber. To unlock it, you must earn an S+ rating on every song in either Expert or Expert+ mode.
+To unlock this achievement, you must earn an S rating on 15 songs on hard difficulty. Meaning your score must be above 80% of the available score.
 
-1. Start by selecting the song you wish to play. 
-2. Change the difficulty from Normal or Hard to Expert or Expert+.
-3. Play the song and strive for perfection. 
-4. Hit the green sabers and the notes marked blue on the highest difficulty.
-5. Try not to miss any notes. When you do miss notes, try to fix your mistakes by continuing to hit the remaining notes perfectly.
-6. After you complete the song, look at your score. If you have earned an S+ rating, you will be rewarded with the Precision Steam achievement. 
+Tips:
+1. See the [Flawless achievement](Flawless.md) for more information on how to achieve a high rank on songs and how it is calculated.
+2. Go for full combos, as it will drastically increase your odds of getting S rank even if your slice centrality is not great.
+3. Play the song and strive for perfection. If you are comfortable with the game, go for SS rank directly so that S will come along the way.
 
-Good luck!
+After you complete your 15th (for some people, it's 16th) level, the achievement will pop. Good luck!

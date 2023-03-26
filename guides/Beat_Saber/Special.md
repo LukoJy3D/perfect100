@@ -4,10 +4,13 @@ _Get at least rank S on any level on hard difficulty without any modifiers._
 
 ---
 
-1. Launch Beat Saber and select 'Get Songs' from the main menu.
+This achievement is the same as [Precision](Precision.md), except instead of completing 15 songs, you only need to complete one.
 
-2. Search for 'Special' and purchase the song.
+Tips:
+1. See the [Flawless achievement](Flawless.md) for more information on how to achieve a high rank on songs and how it is calculated.
+2. Go for full combos, as it will drastically increase your odds of getting S rank even if your slice centrality is not great. Even with few missed notes, an S rank is possible.
+3. Play the song and strive for perfection. If you are comfortable with the game, go for SS rank directly so that S will come along the way.
+4. Full swings and centrality!
+5. Using modifiers voids the achievement, don't use it!
 
-3. Launch the song and make sure your difficulties are set to Expert or Expert Plus.
-
-4. Score at least 90% on the song and the Steam Achievement Special should pop up.
+After you complete the song, the achievement will pop. Good luck!

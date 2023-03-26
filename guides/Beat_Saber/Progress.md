@@ -4,8 +4,8 @@ _Clear 30 missions in campaign._
 
 ---
 
-1. Launch Beat Saber. 
-2. Go to the main menu and select “Play Campaign”. 
-3. Select the song “Progression” from the campaign playlist. 
-4. Play through the song and get at least an “A” rank. 
-5. Once you've completed the song, you'll receive the Progress steam achievement.
+The campaign is available from the start and consists of 51 levels of you playing songs with various objectives. Some missions will have two or more objectives, and you will have to complete them all to beat the mission. I strongly recommend playing the full campaign if you are a beginner. It will unlock multiple achievements and give you a nice head start in learning the art of cube slicing.
+
+See [Peace](Peace.md) for more information on available objectives and their explanations.
+
+After you complete your 30th campaign mission, this achievement will pop.
