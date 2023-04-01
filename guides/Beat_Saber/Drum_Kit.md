@@ -1,4 +1,4 @@
-# Drum Kit (1.9%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/92f2c0d8d6a634a572ea8a277abcc670651f60cb.jpg" width="96" height="96">
+# Drum Kit (1.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/92f2c0d8d6a634a572ea8a277abcc670651f60cb.jpg" width="96" height="96">
 
 _Get full combo on at least 15 different levels on hard difficulty (solo free play only)._
 

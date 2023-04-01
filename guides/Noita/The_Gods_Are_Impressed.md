@@ -1,4 +1,4 @@
-# The Gods Are Impressed (2.4%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" width="96" height="96">
+# The Gods Are Impressed (2.4%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" width="96" height="96">
 
 __
 

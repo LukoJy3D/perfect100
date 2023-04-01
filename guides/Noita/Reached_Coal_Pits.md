@@ -1,4 +1,4 @@
-# Reached Coal Pits (68.9%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
+# Reached Coal Pits (68.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
 
 __
 

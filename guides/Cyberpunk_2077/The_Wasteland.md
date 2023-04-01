@@ -1,4 +1,4 @@
-# The Wasteland (6.5%) <img style="float: right;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
+# The Wasteland (6.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
 
 _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
