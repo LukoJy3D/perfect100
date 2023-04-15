@@ -8,7 +8,7 @@ __
 
 # The Lovers ([guide](/guides/Cyberpunk_2077/The_Lovers.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **70.7%** of players
+Owned by **70.6%** of players
 
 __
 
@@ -16,7 +16,7 @@ __
 
 # Right Back At Ya ([guide](/guides/Cyberpunk_2077/Right_Back_At_Ya.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **67.1%** of players
+Owned by **67.0%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -72,7 +72,7 @@ __
 
 # Legend of The Afterlife ([guide](/guides/Cyberpunk_2077/Legend_of_The_Afterlife.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **38.0%** of players
+Owned by **38.1%** of players
 
 _Reach max Street Cred._
 
@@ -144,7 +144,7 @@ __
 
 # Master Crafter ([guide](/guides/Cyberpunk_2077/Master_Crafter.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **24.6%** of players
+Owned by **24.7%** of players
 
 _Craft 3 Legendary items._
 
@@ -152,7 +152,7 @@ _Craft 3 Legendary items._
 
 # Gun Fu ([guide](/guides/Cyberpunk_2077/Gun_Fu.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **23.2%** of players
+Owned by **23.3%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -168,7 +168,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # I Am The Law ([guide](/guides/Cyberpunk_2077/I_Am_The_Law.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **18.7%** of players
+Owned by **18.8%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -224,7 +224,7 @@ _Reach the max level in any skill._
 
 # To Bad Decisions! ([guide](/guides/Cyberpunk_2077/To_Bad_Decisions_.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
 
-Owned by **12.2%** of players
+Owned by **12.3%** of players
 
 __
 
@@ -248,9 +248,17 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 # City Lights ([guide](/guides/Cyberpunk_2077/City_Lights.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
 
-Owned by **7.7%** of players
+Owned by **7.8%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in City Center._
+
+---
+
+# Mean Streets ([guide](/guides/Cyberpunk_2077/Mean_Streets.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
+
+Owned by **7.3%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
@@ -259,14 +267,6 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 Owned by **7.3%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Watson._
-
----
-
-# Mean Streets ([guide](/guides/Cyberpunk_2077/Mean_Streets.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
-
-Owned by **7.2%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
