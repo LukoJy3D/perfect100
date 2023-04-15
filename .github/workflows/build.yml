@@ -23,7 +23,7 @@ jobs:
           configFile: .github/commitlint.config.js
 
       - name: Setup nomic-ai/gpt4all
-        run: setup_ai.sh
+        run: bash setup_ai.sh
 
       - name: Run Script
         env:
