@@ -1,4 +1,4 @@
-# I Am The Law (18.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
+# I Am The Law (18.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
 _Complete all Cyberpsycho Sightings._
 

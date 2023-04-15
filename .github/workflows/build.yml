@@ -22,6 +22,9 @@ jobs:
         with:
           configFile: .github/commitlint.config.js
 
+      - name: Setup nomic-ai/gpt4all
+        run: setup_ai.sh
+
       - name: Run Script
         env:
           api_key: ${{ secrets.CHATGPT_API_KEY }}

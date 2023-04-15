@@ -12,7 +12,9 @@ You may help by participating in the following ways:
 
 ## To-do list
 
-- [ ] Make a separation between human and AI-made guides
+- [x] Generate guides with open-source AI
+- [x] Make a separation between human and AI-made guides
+- [ ] Don't track cdn changes in image sources
 - [ ] Launch via GitHub pages
 - [ ] More implementation with the discord community
 - [ ] More contribution acknowledgment

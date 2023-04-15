@@ -1,4 +1,4 @@
-# City Lights (7.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
+# City Lights (7.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
 
 _Complete all gigs and NCPD Scanner Hustles in City Center._
 

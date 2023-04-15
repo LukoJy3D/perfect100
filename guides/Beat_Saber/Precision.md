@@ -1,4 +1,4 @@
-# Precision (6.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg" width="96" height="96">
+# Precision (6.4%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg" width="96" height="96">
 
 _Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
 

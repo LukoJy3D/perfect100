@@ -48,7 +48,7 @@ _Clear any level on expert difficulty without any modifiers._
 
 # You Are Ready ([guide](/guides/Beat_Saber/You_Are_Ready.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg" width="96" height="96">
 
-Owned by **40.9%** of players
+Owned by **41.0%** of players
 
 _Finish the tutorial._
 
@@ -72,7 +72,7 @@ _Clear 100 levels or more._
 
 # Faster ([guide](/guides/Beat_Saber/Faster.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" width="96" height="96">
 
-Owned by **30.8%** of players
+Owned by **30.7%** of players
 
 _Clear any level with faster song speed modifier._
 
@@ -104,7 +104,7 @@ _Clear any level on expert difficulty and get at least 500 combo without any mod
 
 # Supreme ([guide](/guides/Beat_Saber/Supreme.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" width="96" height="96">
 
-Owned by **13.3%** of players
+Owned by **13.2%** of players
 
 _Get full combo on any level on expert difficulty without any modifiers._
 
@@ -160,7 +160,7 @@ _Clear any level with battery energy modifier._
 
 # Precision ([guide](/guides/Beat_Saber/Precision.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg" width="96" height="96">
 
-Owned by **6.3%** of players
+Owned by **6.4%** of players
 
 _Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
 
