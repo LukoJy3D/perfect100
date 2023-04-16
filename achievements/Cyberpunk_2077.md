@@ -254,19 +254,19 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ---
 
-# Mean Streets ([guide](/guides/Cyberpunk_2077/Mean_Streets.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
-
-Owned by **7.3%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in Heywood._
-
----
-
 # It's Elementary ([guide](/guides/Cyberpunk_2077/It_s_Elementary.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
 
 Owned by **7.3%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Watson._
+
+---
+
+# Mean Streets ([guide](/guides/Cyberpunk_2077/Mean_Streets.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
+
+Owned by **7.2%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
