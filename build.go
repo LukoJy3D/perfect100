@@ -111,7 +111,11 @@ func main() {
 					os.Exit(1)
 				}
 
-				// Command to run the gpt4all-lora-quantized-win64.exe binary
+				//run ai setup only before guide generation
+				sh := exec.Command("bash", "./setup_ai.sh")
+				sh.Run()
+
+				// Command to run the gpt4all-lora-quantized binary
 				cmd := exec.Command("./gpt4all/chat/gpt4all-lora-quantized-linux-x86", "-p", fmt.Sprintf(
 					"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
 					achieveTextH3, gameTitle, achieveTextH5))
