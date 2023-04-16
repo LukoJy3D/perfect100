@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"os"
 	"os/exec"
+	"path"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -84,7 +85,8 @@ func main() {
 		}
 
 		doc.Find(".achieveRow").Each(func(i int, selection *goquery.Selection) {
-			imageSrc := selection.Find(".achieveImgHolder img").AttrOr("src", "")
+			imageSrcBase := path.Base(selection.Find(".achieveImgHolder img").AttrOr("src", ""))
+			imageSrc := "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/" + game.ID + "/" + imageSrcBase
 			achievePercent := selection.Find(".achievePercent").Text()
 			achieveTextH3 := selection.Find(".achieveTxt h3").Text()
 			achieveTextH5 := selection.Find(".achieveTxt h5").Text()
