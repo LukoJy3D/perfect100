@@ -24,7 +24,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # The Wheel of Fortune ([guide](/guides/Cyberpunk_2077/The_Wheel_of_Fortune.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **54.7%** of players
+Owned by **54.6%** of players
 
 __
 
@@ -40,7 +40,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # The Hermit ([guide](/guides/Cyberpunk_2077/The_Hermit.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **50.7%** of players
+Owned by **50.6%** of players
 
 __
 
@@ -56,7 +56,7 @@ __
 
 # True Soldier ([guide](/guides/Cyberpunk_2077/True_Soldier.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **42.0%** of players
+Owned by **41.9%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -72,7 +72,7 @@ __
 
 # Legend of The Afterlife ([guide](/guides/Cyberpunk_2077/Legend_of_The_Afterlife.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **38.1%** of players
+Owned by **38.0%** of players
 
 _Reach max Street Cred._
 
@@ -144,7 +144,7 @@ __
 
 # Master Crafter ([guide](/guides/Cyberpunk_2077/Master_Crafter.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **24.7%** of players
+Owned by **24.6%** of players
 
 _Craft 3 Legendary items._
 
@@ -168,7 +168,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # I Am The Law ([guide](/guides/Cyberpunk_2077/I_Am_The_Law.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **18.8%** of players
+Owned by **18.7%** of players
 
 _Complete all Cyberpsycho Sightings._
 

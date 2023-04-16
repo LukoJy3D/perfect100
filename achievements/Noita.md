@@ -24,7 +24,7 @@ __
 
 # Reached Underground Jungle ([guide](/guides/Noita/Reached_Underground_Jungle.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" width="96" height="96">
 
-Owned by **21.7%** of players
+Owned by **21.8%** of players
 
 __
 
