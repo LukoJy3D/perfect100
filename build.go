@@ -97,6 +97,8 @@ func main() {
 			markdown := fmt.Sprintf("# %s ([guide](%s)) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\n\nOwned by **%s** of players\n\n_%s_\n\n---\n\n",
 				achieveTextH3, guidePath, imageSrc, achievePercent, achieveTextH5)
 
+			fmt.Printf("Populating achievement list - Game: \"%s\", Achievement: \"%s\"...\n", gameTitle, achieveTextH3)
+
 			//markdown content
 			if _, err = achievementList.WriteString(markdown); err != nil {
 				fmt.Println("Error:", err)
@@ -105,6 +107,7 @@ func main() {
 
 			// Create a file with the achievement title as the name
 			if _, err := os.Stat("guides/" + gameTitle + "/" + modifiedAchiName + ".md"); err != nil {
+
 				f2, err := os.OpenFile("guides/"+gameTitle+"/"+modifiedAchiName+".md", os.O_CREATE|os.O_WRONLY|os.O_EXCL, 0644)
 				if err != nil {
 					fmt.Println("Error:", err)
@@ -114,6 +117,8 @@ func main() {
 				//run ai setup only before guide generation
 				sh := exec.Command("bash", "./setup_ai.sh")
 				sh.Run()
+
+				fmt.Printf("Generating guide using AI - Game: \"%s\", Achievement: \"%s\"...\n", gameTitle, achieveTextH3)
 
 				// Command to run the gpt4all-lora-quantized binary
 				cmd := exec.Command("./gpt4all/chat/gpt4all-lora-quantized-linux-x86", "-p", fmt.Sprintf(
@@ -153,6 +158,8 @@ func main() {
 					fmt.Println("Error:", err)
 					os.Exit(1)
 				}
+
+				fmt.Printf("Updating guide stats - Game: \"%s\", Achievement: \"%s\"...\n", gameTitle, achieveTextH3)
 
 				// update the variables
 				markdown3 := fmt.Sprintf("# %s (%s) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\n\n_%s_\n\n---%s",
