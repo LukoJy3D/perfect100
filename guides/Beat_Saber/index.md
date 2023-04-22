@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Guides
+title: Beat Saber
+parent: Guides
 has_children: true
 ---
 
