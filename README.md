@@ -4,6 +4,10 @@
 Repo is for those crazy achievement hunters who love going for that 100%. After that grinding completion, nothing better than sharing the knowledge with others!
 Feel free to contribute, make feature/guide requests, and ask for help with hard achievements. This repo is and probably will always be a work-in-progress type of thing for me, so I hope we will find more minds alike :]
 
+Read guides on:
+[Github Pages](https://lukojy3d.github.io/perfect100/)
+[Raw Markdown](/guides/index.md)
+
 ## Contributing
 
 You may help by participating in the following ways:
@@ -14,7 +18,7 @@ You may help by participating in the following ways:
 
 - [x] Generate guides with open-source AI
 - [x] Make a separation between human and AI-made guides
-- [ ] Don't track cdn changes in image sources
+- [x] Don't track cdn changes in image sources
 - [ ] Launch via GitHub pages
 - [ ] More implementation with the discord community
 - [ ] More contribution acknowledgment
