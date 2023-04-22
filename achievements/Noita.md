@@ -16,7 +16,7 @@ __
 
 # Reached Hiisi Base ([guide](/guides/Noita/Reached_Hiisi_Base.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
 
-Owned by **35.7%** of players
+Owned by **35.8%** of players
 
 __
 
@@ -56,7 +56,7 @@ _Victory_
 
 # The Gods Are Enraged ([guide](/guides/Noita/The_Gods_Are_Enraged.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 __
 

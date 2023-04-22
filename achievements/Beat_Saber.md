@@ -24,7 +24,7 @@ _Get total 10 000 good cuts or more._
 
 # Good Enough ([guide](/guides/Beat_Saber/Good_Enough.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/fbc0983f37696e78b519b738979f137fa01f42a5.jpg" width="96" height="96">
 
-Owned by **59.0%** of players
+Owned by **59.1%** of players
 
 _Get at least rank A on any level on normal difficulty without any modifiers._
 
