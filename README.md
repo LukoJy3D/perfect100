@@ -1,3 +1,9 @@
+---
+layout: default
+title: perfect100
+has_children: true
+---
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/LukoJy3D/perfect100)](https://goreportcard.com/report/github.com/LukoJy3D/perfect100)
 [![Star on GitHub](https://img.shields.io/github/stars/LukoJy3D/perfect100.svg?style=social)](https://github.com/LukoJy3D/perfect100/stargazers)
 

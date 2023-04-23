@@ -64,17 +64,26 @@ func main() {
 		gameTitle = ReplaceForbiddenCharacters(gameTitle)
 
 		// Create a folder with the game title
-		if _, err := os.Stat("guides/" + gameTitle); err == nil {
+		if _, err := os.Stat(gameTitle + "/guides"); err == nil {
 			// Folder already exists, no need to create
 		} else {
 			if os.IsNotExist(err) {
-				err := os.Mkdir("guides/"+gameTitle, os.ModePerm)
+				err := os.Mkdir(gameTitle+"/guides", os.ModePerm)
 				if err != nil {
 					fmt.Println("Error:", err)
 					os.Exit(1)
 				}
 			}
 		}
+
+		// Create a achievement list file
+		guideList, err := os.Create(gameTitle + "/index.md")
+		if err != nil {
+			fmt.Println("Error:", err)
+			os.Exit(1)
+		}
+
+		defer guideList.Close()
 
 		doc.Find(".achieveRow").Each(func(i int, selection *goquery.Selection) {
 			imageSrcBase := path.Base(selection.Find(".achieveImgHolder img").AttrOr("src", ""))
@@ -83,11 +92,26 @@ func main() {
 			achieveTextH3 := selection.Find(".achieveTxt h3").Text()
 			achieveTextH5 := selection.Find(".achieveTxt h5").Text()
 			modifiedAchiName := ReplaceForbiddenCharacters(achieveTextH3)
+			guidePath := gameTitle + "/guides/" + modifiedAchiName + ".md"
+
+			// Front matter information
+			frontMatter := fmt.Sprintf("---\nlayout: default\ntitle: %s\nparent: perfect100\n---\n\n", gameTitle)
+
+			markdown := fmt.Sprintf("# %s ([guide](%s)) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\n\nOwned by **%s** of players\n\n_%s_\n\n---\n\n",
+				achieveTextH3, guidePath, imageSrc, achievePercent, achieveTextH5)
+
+			fmt.Printf("Populating achievement list - Game: \"%s\", Achievement: \"%s\"...\n", gameTitle, achieveTextH3)
+
+			//markdown content with front matter
+			if _, err = guideList.WriteString(frontMatter + markdown); err != nil {
+				fmt.Println("Error:", err)
+				os.Exit(1)
+			}
 
 			// Create a file with the achievement title as the name
-			if _, err := os.Stat("guides/" + gameTitle + "/" + modifiedAchiName + ".md"); err != nil {
+			if _, err := os.Stat(gameTitle + "/guides/" + modifiedAchiName + ".md"); err != nil {
 
-				f2, err := os.OpenFile("guides/"+gameTitle+"/"+modifiedAchiName+".md", os.O_CREATE|os.O_WRONLY|os.O_EXCL, 0644)
+				f2, err := os.OpenFile(gameTitle+"/guides/"+modifiedAchiName+".md", os.O_CREATE|os.O_WRONLY|os.O_EXCL, 0644)
 				if err != nil {
 					fmt.Println("Error:", err)
 					os.Exit(1)
@@ -121,7 +145,7 @@ func main() {
 
 			} else {
 				//if file exists update achieveTextH3, imageSrc, achieveTextH5, but do not overwrite answer section under ---
-				fileread, err := os.ReadFile("guides/" + gameTitle + "/" + modifiedAchiName + ".md")
+				fileread, err := os.ReadFile(gameTitle + "/guides/" + modifiedAchiName + ".md")
 				if err != nil {
 					fmt.Println("Error:", err)
 					os.Exit(1)
@@ -132,7 +156,7 @@ func main() {
 				parts := strings.Split(string(fileread), "---")
 				part2 = parts[1]
 
-				f2, err := os.Create("guides/" + gameTitle + "/" + modifiedAchiName + ".md")
+				f2, err := os.Create(gameTitle + "/guides/" + modifiedAchiName + ".md")
 				if err != nil {
 					fmt.Println("Error:", err)
 					os.Exit(1)
