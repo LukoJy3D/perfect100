@@ -8,6 +8,7 @@ import (
 	"os"
 	"os/exec"
 	"path"
+	"runtime"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -93,16 +94,38 @@ func main() {
 					os.Exit(1)
 				}
 
+				//run ai setup only before guide generation
+				filename := "gpt4all-lora-quantized.bin"
+				url := "https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized.bin"
+
+				if _, err := os.Stat(filename); os.IsNotExist(err) {
+					fmt.Println("Downloading gpt4all binary...")
+					cmd := exec.Command("curl", "-L", "-o", filename, url)
+					if err := cmd.Run(); err != nil {
+						fmt.Println("Error downloading file:", err)
+						return
+					}
+				} else {
+					fmt.Println("File already exists")
+				}
+
 				fmt.Printf("Generating guide using AI - Game: \"%s\", Achievement: \"%s\"...\r\n", gameTitle, achieveTextH3)
 
-				//run ai setup only before guide generation
-				sh := exec.Command("bash", "./setup_ai.sh")
-				sh.Run()
-
 				// Command to run the gpt4all-lora-quantized binary
-				cmd := exec.Command("./gpt4all/chat/gpt4all-lora-quantized-linux-x86", "-p", fmt.Sprintf(
-					"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
-					achieveTextH3, gameTitle, achieveTextH5))
+				var cmd *exec.Cmd
+
+				if runtime.GOOS == "windows" {
+					cmd = exec.Command("./gpt4all/chat/gpt4all-lora-quantized-win64.exe", "-p", fmt.Sprintf(
+						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
+						achieveTextH3, gameTitle, achieveTextH5))
+				} else if runtime.GOOS == "linux" {
+					cmd = exec.Command("./gpt4all/chat/gpt4all-lora-quantized-linux", "-p", fmt.Sprintf(
+						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
+						achieveTextH3, gameTitle, achieveTextH5))
+				} else {
+					fmt.Println("Unsupported operating system, add additional if statement for your OS")
+					return
+				}
 
 				// Capture the output of the command
 				out, err := cmd.Output()
