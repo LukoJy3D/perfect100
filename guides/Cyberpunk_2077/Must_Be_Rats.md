@@ -1,4 +1,4 @@
-# Must Be Rats (9.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
+# Must Be Rats (10.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
 
 _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 

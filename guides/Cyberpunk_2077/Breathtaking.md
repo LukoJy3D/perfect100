@@ -1,4 +1,4 @@
-# Breathtaking (15.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
+# Breathtaking (15.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
 _Collect all items that once belonged to Johnny Silverhand._
 
