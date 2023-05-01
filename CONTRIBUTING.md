@@ -28,8 +28,7 @@ git checkout -b <NEW-BRANCH-NAME>
 ### 3. Running guide generation (local development)
 
 1. Set up Golang depending on your platform.
-2. Run `./setup_ai.sh`. This bash script will clone the nomic-ai/gpt4all repo and download the needed binary (This takes around 10 minutes)
-3. Add game title and id in [games.json](games.json). Example
+2. Add game title and id in [games.json](games.json). Example
 ```json
 ...
     {
@@ -39,8 +38,8 @@ git checkout -b <NEW-BRANCH-NAME>
 ...
 ```
 _You can find the Game ID on the Steam store page or steamdb.info_
-4. Do `go run .\build.go`.
-5. Script will populate the achievement list and guide folder contents after a script successfully runs.
+3. Do `go run .\build.go`.
+4. Script will populate the achievement list and guide folder contents after a script successfully runs.
 
 ### 4. Making changes without local setup
 
@@ -62,7 +61,7 @@ git commit -m "<COMMIT-MESSAGE>"
 git push
 ```
 
-### 7. Open a Pull Request
+### 6. Open a Pull Request
 
 You can now create a pull request on the GitHub webpage of your repository. As we like polished Steam profiles, we also like neat Pull Requests and Issues! So we have a few requirements:
 
@@ -86,6 +85,6 @@ You can now create a pull request on the GitHub webpage of your repository. As w
 
 3. Use one commit per PR. Some functionalities depend on it, so if needed - squash those commits or even try using the --amend flag when committing. It's a very handy thing to learn!
 
-## Create an issue
+### 7. Create an issue
 
 Not everyone is familiar with GitHub, and it might be difficult for first-time contributors to follow such a workflow. In such cases, write your content in an issue, and we will help you turn that issue into a pull request.
