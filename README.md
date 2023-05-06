@@ -13,7 +13,7 @@ Read guides on [Github Pages](https://lukojy3d.github.io/perfect100/)
 
 You may help by participating in the following ways:
 1. [Leaving a Star ⭐](https://github.com/lukojy3d/perfect100/stargazers) to show your like and support.
-2. Posting an issue or submitting a Pull Request by following [Contributing](CONTRIBUTING.md) guidelines.
+2. Posting an issue or submitting a Pull Request by following [Contributing](https://github.com/LukoJy3D/perfect100/blob/main/CONTRIBUTING.md) guidelines.
 
 ## List of available guides
 - [Beat Saber](Beat_Saber/Beat_Saber.md)

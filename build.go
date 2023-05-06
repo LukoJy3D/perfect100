@@ -101,7 +101,7 @@ func main() {
 			achieveTextH3 := selection.Find(".achieveTxt h3").Text()
 			achieveTextH5 := selection.Find(".achieveTxt h5").Text()
 			modifiedAchiName := ReplaceForbiddenCharacters(achieveTextH3)
-			guidePath := gameTitle + "/guides/" + modifiedAchiName + ".md"
+			guidePath := "guides/" + modifiedAchiName + ".md"
 
 			markdown := fmt.Sprintf("# %s ([guide](%s)) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\n\nOwned by **%s** of players\n\n_%s_\n\n---\n\n",
 				achieveTextH3, guidePath, imageSrc, achievePercent, achieveTextH5)
