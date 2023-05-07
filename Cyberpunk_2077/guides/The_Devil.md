@@ -10,12 +10,15 @@ __
 
 ***
 
-1. Head to The Goat of Duty bar in Japantown and speak to the bartender to unlock the "Pact with a Devil" mission.
+:trophy: **Guide written by a human**:
 
-2. Follow the mission's instructions and visit three other areas in Night City (Banana Bay, Westbrook and Heywood) to collect Satan statues.
+_Add guide here_
 
-3. Bring the three statues back to the Goat of Duty bar and place them on the table in front of the bar.
+:robot: **AI hallucinations**:
 
-4. Speak to the bartender again, who will then start a ritual to summon the devil.
-
-5. Complete the ritual to get the "Pact with a Devil" achievement and unlock the "Devil" steam achievement.
+1) To obtain The Devil achievement, you need to complete the main storyline of Cyberspace 3. This will take around 45 hours and can be done on any difficulty level. You'll also have access to all missions in the game after completing it.
+2) Once you finish with the main quest line, head over to the Night City Police Department (NCPD). There are three tasks that need completion:
+   * Complete a series of challenges at NCRP Headquarters for 50% XP bonus and unlockable items such as weapons or vehicles. This can be done on any difficulty level but requires high-level characters to succeed in the missions. You'll also get access to all side quests after completing this task
+3) To obtain The Devil achievement, you need to complete a series of challenges at NCRP Headquarters for 50% XP bonus and unlockable items such as weapons or vehicles. This can be done on any difficulty level but requires high-level characters to succeed in the missions. You'll also get access to all side quests after completing this task
+4) To obtain The Devil achievement, you need to complete a series of challenges at NCRP Headquarters for 50% XP bonus and unlockable items such as weapons or vehicles. This can be done on any difficulty level but requires high-level characters to succeed in the missions. You'll also get access to all side quests after completing this task
+   * Complete a series of challenges at NCRP Headquarters for 50% XP bonus and unlockable items such as weapons or vehicles. This can be done on any difficulty level but requires high-level characters to succeed in the missions. You'll also get access to all side quests after completing this task

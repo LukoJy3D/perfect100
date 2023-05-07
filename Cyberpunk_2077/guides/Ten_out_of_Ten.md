@@ -10,12 +10,10 @@ _Reach the max level in any skill._
 
 ***
 
-1. To unlock the Ten Out of Ten achievement in Cyberpunk 2077, you must complete all 10 gigs in Healers Questline.
+:trophy: **Guide written by a human**:
 
-2. You can start these gigs by talking to Regina Jones at the south entrance to Charter Hill.
+_Add guide here_
 
-3. Each gig requires you to complete various objectives such as finding or delivering items, or dealing with a particular situation.
+:robot: **AI hallucinations**:
 
-4. Once you finish each gig, return to Regina and collect the reward.
-
-5. After completing all 10 gigs, the achievement should be unlocked.
+To reach Level 10 with all skills, you need to complete quests and earn XP. You can also purchase Skill Books from merchants that will increase your character's stats or unlock new abilities for a particular skill tree. Once you have reached level ten in any of the available trees (there are currently 10), you should be able to access all skills at their maximum levels, which would make it possible to achieve 'Ten out of Ten'.

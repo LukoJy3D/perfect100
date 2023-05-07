@@ -10,26 +10,12 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 ***
 
-1. Complete all Gun-For-Hire missions in Badlands. 
+:trophy: **Guide written by a human**:
 
-2. Complete all NCPD Scanner Hustles in City Center and Watson. 
+_Add guide here_
 
-3. Influence Keanu Reeves to join you in the "Rescue Turner" Side Job.
+:robot: **AI hallucinations**:
 
-4. Reach level 25 and complete the Militech Raid on Skyline. 
-
-5. Purchase the "Fast and Furious" weapon mod from the Afterlife vendor in Westbrook. 
-
-6. Upgrade the weapon mod to level 2 or higher. 
-
-7. Defeat 24 enemies using Quickhacks in a single playthrough. 
-
-8. Get at least 3 headshots with the upgraded weapon mod in a single playthrough. 
-
-9. Kill 8 enemies in 10 seconds with the upgraded weapon mod in a single playthrough. 
-
-10. Defeat 50 enemies total with the upgraded weapon mod in a single playthrough. 
-
-11. Defeat 100 enemies total with the upgraded weapon mod in a single playthrough. 
-
-12. Finally, earn the "The Quick and the Dead" Steam Achievement.
+1. Open Cybersport mode on your console/PC, select The Quick & the Dead achievement and start playing through any of the available missions in Cyberpunk_2077 game. You can also choose to play solo or with a teammate if you want more support during this task.
+2. Once inside the mission area, look for enemies that are marked as red on your map screen (these will be highlighted). Kill them by any means possible and make sure they die before time runs out which is 5 minutes in total or when all of their health bars deplete whichever comes first
+3. Once you have killed enough foes, the achievement should unlock automatically as long as it's your first playthrough on that mission mode (if not then repeat steps until completion).

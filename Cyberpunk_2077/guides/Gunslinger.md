@@ -10,10 +10,12 @@ _Shoot an enemy grenade in midair with a revolver._
 
 ***
 
-1. Load up the mission "Tapeworm" in Pacifica and make sure to go for the Gig mode.
+:trophy: **Guide written by a human**:
 
-2. Make your way to the end of the street and find a group of enemies.
+_Add guide here_
 
-3. Defeat all of the enemies with headshots.
+:robot: **AI hallucinations**:
 
-4. Once they are all defeated, the achievement will be unlocked.
+1. To shoot the grenade, you will need to have acquired it first by either picking up or looting its remains after being shot down from above. Once obtained, equip your Revolver and aim at where you think the enemy is located in mid-air (you can use a radar if available).
+2. Pull back on the trigger until the grenade explodes to confirm that it was successfully fired upon by using the game's physics engine or other visual cues such as smoke, debris and/or damage indicators. 
+3. Congratulations! You have now unlocked 'Gunslinger'.

@@ -10,12 +10,11 @@ __
 
 ***
 
-This steam achievement is unlocked automatically when you earn the "Hermit" Perk from Johnny Silverhand. This is a part of the main quest in Cyberpunk 2077. In order to obtain the perk, you must complete the quest "Chippin' In" and then do 3 things:
+:trophy: **Guide written by a human**:
 
-1. Free up Johnny's body: By talking to Dum Dum, a fixer in Watson, you can progress this side mission.
+_Add guide here_
 
-2. Buy the equipment for Johnny: With the credits remaining after buying the equipment for Johnny, buy a safehouse in Santo Domingo.
+:robot: **AI hallucinations**:
 
-3. Use the life path: Decide which life path to take and make sure you follow it to the end.
-
-Once you complete the above tasks, Johnny will give you access to the Hermit perk which unlocks this achievement.
+1) To unlock The Hermit achievement, you need to complete the quest "A New Dawn" which is available from your character creation screen. 
+2) Once completed, you will receive an email notification that informs about this new accomplishment and provides a link for claiming it on Steam or GOG Gamespy servers respectively.  

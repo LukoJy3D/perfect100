@@ -10,20 +10,12 @@ __
 
 ***
 
-1. Start the mission “Ghost Town” and make sure to remain undetected while infiltrating the area.
+:trophy: **Guide written by a human**:
 
-2. Reach the upper floor of the bar, where Royce is located.
+_Add guide here_
 
-3. Talk to Royce and choose the dialogue options to gain his trust.
+:robot: **AI hallucinations**:
 
-4. When Royce turns his back to you, go up the stairs and through the door.
-
-5. Pick up the explosive from the table and place it in the room with the bed.
-
-6. Go back to the bar and talk to Royce again.
-
-7. Choose the dialogue options to lead him to the bedroom.
-
-8. When he sits on the bed, detonate the explosive to kill him.
-
-9. Speak with Takemura and the mission will be completed, granting you the achievement.
+1. Players need to complete the tutorial missions and learn how to play before attempting any of these tasks, as they are not meant for beginners or novices who have just started playing Cyperpunk 2077.
+2. Once players become familiar with gameplay mechanics such as combat, stealth, hacking etc., then it's time to start exploring the world and completing side missions that will unlock new areas of Night City for further investigation or quests.
+3. Players can also try their hand at various activities like driving cars around town, taking part in races against other players online or even engaging with NPC's who have unique dialogue options to explore and experience the world differently than others would do so. 4. The Lovers should be aware that there are multiple endings available for Cyberpunk 2077 based on their actions, choices made during gameplay such as whom they choose to align with or how they approach missions etc., which can affect what happens in the final moments of playthroughs.

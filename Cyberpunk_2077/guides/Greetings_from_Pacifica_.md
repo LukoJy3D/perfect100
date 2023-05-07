@@ -10,9 +10,10 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ***
 
+:trophy: **Guide written by a human**:
 
-1. Go to the Pacifica area in Cyberpunk 2077. 
-2. Activate your scanner and look for the Steam achievement on the mini-map. 
-3. Move towards the indicated location on the map. 
-4. When you reach at the spot, you will receive a prompt saying "Greetings from Pacifica!" 
-5. Accept the prompt and you will complete the achievement.
+_Add guide here_
+
+:robot: **AI hallucinations**:
+
+To complete the achievement of "Greetings From Pacifica!" you need to do two things. First, you must finish every single quest or mission that is available within Pacifica's city limits. This means completing all quests and missions from NPCs as well as any sidequests given by other characters in the game world itself (i.e., not just those found on your map). Secondly, you must complete every single NCPD Scanner Husstle that is available within Pacifica's city limits. This means completing all of them without dying or using cheats/hacks to do so.

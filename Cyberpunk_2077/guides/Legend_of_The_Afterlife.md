@@ -10,26 +10,11 @@ _Reach max Street Cred._
 
 ***
 
-Step 1: 
-Complete all side jobs in the Badlands region.
+:trophy: **Guide written by a human**:
 
-Step 2: 
-Visit all landmarks in the Badlands region (marked on the map).
+_Add guide here_
 
-Step 3: 
-Complete all "Street Stories" missions in the Badlands region.
+:robot: **AI hallucinations**:
 
-Step 4: 
-Purchase the Legend of the Afterlife perk at a Ripperdoc.
-
-Step 5: 
-Reach Street Cred Level 15.
-
-Step 6: 
-Travel to the Abandoned Factory in Westbrook (marked on the map next to Little China).
-
-Step 7: 
-You will find a secret doorway inside the factory. Enter it and complete the mission you find there.  
-
-Step 8: 
-Successfully complete the mission and you will receive the achievement!
+To reach the Legends Of Cyberspace achievement, you need to have reached level 15 with your character. Once this is done, head over to the Night City Police Department and speak to Officer Kaminski in his office on Level B2 of the police station building. He will give you a Street Cred rating task that requires you to complete various tasks around Cyberpunk's world.
+To unlock Legends Of The Afterlife achievement, simply reach level 15 with your character and then head over to Officer Kaminski in his office on Level B2 of the police station building where he will give you a Street Cred rating task that requires completing various tasks around Cyberpunk's world.

@@ -10,12 +10,11 @@ _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 ***
 
-1. Visit Night City and go to the Arasaka Industrial Area.
+:trophy: **Guide written by a human**:
 
-2. Look for a tall, red tower labeled “Little Tokyo” in the corner of the map.
+_Add guide here_
 
-3. When you enter the area, you will see a temple on the left side. Walk towards it, and you should find a shrine that is guarded by statues.
+:robot: **AI hallucinations**:
 
-4. Interact with the shrine and perform a simple ceremony.
-
-5. Once you've completed the ceremony, you will be rewarded with the steam achievement Little Tokyo.
+1. To complete the Gigs, you need to visit each of the locations listed on your map (orange markers). Each location will have a unique task that needs completing before it can be marked as completed. 
+2. Once all gigs are done, return to Westbrook Police Department Scanner HQ and speak with Officer Kaminsky for an NCPD Scanner Husstle reward.

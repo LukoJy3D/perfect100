@@ -10,15 +10,14 @@ _Craft 3 Legendary items._
 
 ***
 
-1. Work with a total of 10 or more crafting components in the same job
-2. Craft a Legendary item
-3. Reach level 80 in Crafting 
-4. Reach level 30 in Melee Weapons, Ranged Weapons, and Personal Defense
-5. Complete 20 side jobs in total
-6. Unlock the Quickhacking Tier 4 Perk
-7. Finish the main story of Cyberpunk 2077
-8. Visit all 11 crafting benches in Night City
-9. Buy all available Legendary items from shops
-10. Craft 3 Legendary items within a single job
-11. Craft 50 items in total
-12. Spend 200 Components on crafting
+:trophy: **Guide written by a human**:
+
+_Add guide here_
+
+:robot: **AI hallucinations**:
+
+To craft three legendary items, you will need the following materials:
+1. X amount of Y material (specify what each item needs)
+* For example - To make a legendary sword with steel and adamantium requires 50 units of iron ore and 20 units of diamond dust.
+   
+You can find these items by exploring the world or completing quests/missions that require them as rewards, but you may also need to purchase some materials from merchants in town if they are not found naturally during your adventures.

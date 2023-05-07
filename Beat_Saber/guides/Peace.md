@@ -10,6 +10,8 @@ _Clear all missions in campaign._
 
 ***
 
+:trophy: **Guide written by a human**:
+
 To unlock this achievement, you need to clear all the campaign missions. The campaign consists of 51 levels with various objectives. Remember that some levels will have two or more objective requirements in one, and you must complete them all to pass the mission.
 
 Tips on how to beat those challenges:
@@ -23,3 +25,10 @@ Tips on how to beat those challenges:
 - **Maximum Bad Cuts**: Some songs only allow you to have a specific amount of bad cuts; don't exceed this threshold. For example, level 20b requires 15 bad cuts at the minimum and 20 bad cuts at the maximum, so you purposely need to slice in the wrong direction quite a few times while keeping your health from depleting.
 - **Minimum Distance Traveled**: Some songs require you to travel a certain distance with your sabers before the song ends. The ones requiring you to travel are easy because you can flail your arms around like a windmill, even in the first seconds of the song where no notes are coming in
 - **Maximum Distance Traveled**: Some songs require your saber to travel as little as possible. The best strategy is to lock your shoulders and slice only with your wrists.
+
+:robot: **AI hallucinations**:
+
+To clear missions and win the Beat Saver Campaign, you need to complete each level by defeating its boss. Here are some steps that can help unlock peace achievement: 
+1) Start with Level One - Defeat Boss (Spike). 
+2) Clear all levels in campaign mode until reaching a point where the game is too difficult for your current skill set, and you need to start over again from level one. This will require defeating bosses on each subsequent run through of the same mission. Keep repeating this process as needed until clearing every single level becomes possible without dying or restarting at any given time in campaign mode. 
+3) Once all levels have been cleared, you can then move onto other achievements and unlocks that may be available within Beat Saver's gameplay mechanics.

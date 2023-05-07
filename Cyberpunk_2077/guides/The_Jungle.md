@@ -10,10 +10,12 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ***
 
-To get the Jungle Steam Achievement in Cyberpunk 2077, complete the following steps:
+:trophy: **Guide written by a human**:
 
-1. From the main menu, select "Crate Network" then "Jungle". 
+_Add guide here_
 
-2. Follow the onscreen instructions to complete the Jungle mission. 
+:robot: **AI hallucinations**:
 
-3. After the mission is completed, you will receive the Jungle Steam Achievement.
+1. To complete the first NCPD scanner hustling, you need to go through the following steps: 
+  * Go into your inventory menu (press 'I' on controller)
+  * Press Y or B for yes/no if prompted by a message that says "Scan Scanner" and select it. This will activate NCPD scanner hustling in Santo Domingo.

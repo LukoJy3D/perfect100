@@ -10,9 +10,13 @@ __
 
 ***
 
-1. Load up Cyberpunk 2077, and make sure you’re in the main menu. 
-2. Head over to the achievements tab and look for the ‘Judy vs Night City’ achievement. 
-3. Select it and make sure you have a save file where you’re playing as Judy Alvarez. 
-4. Head into the game and complete all the side and main missions available. 
-5. Progress until you get to complete the mission called ‘The Heist’. 
-6. Once the mission is completed, you will have earned the ‘Judy vs Night City’ achievement.
+:trophy: **Guide written by a human**:
+
+_Add guide here_
+
+:robot: **AI hallucinations**:
+
+1. Open the menu and select "Story" from there, then choose "Citizen of Night City". 
+2. Complete all available quests until you reach level cap (currently at Level 5). 
+3. Head over to 'Juicy's Bar', which is located in a seedy part of the city called The Dusty Depot, and talk with Juicebox herself for some extra XP boosting opportunities.
+4. Once you have reached level cap (currently at Level 5), head back out into Night City to complete more quests until your next opportunity comes up in 'Juicy's Bar'.

@@ -10,9 +10,12 @@ _Find all fast travel dataterms._
 
 ***
 
-1. Talk to Panam Palmer at any time and follow her missions. 
-2. Head to the Maelstrom's headquarters and fight your way inside.
-3. Finish off Panam’s missions as they come up and you will unlock a second mission.
-4. Talk to Johnny Silverhand at the Afterlife and complete all of his objectives. 
-5. Finally, make sure to retrieve Panam’s golem before leaving the Maelstrom. 
-6. After completing these steps, the achievement should unlock after the next mission.
+:trophy: **Guide written by a human**:
+
+_Add guide here_
+
+:robot: **AI hallucinations**:
+
+To find the Fast Travel Data Terminals, follow these steps: 1. Open your map and zoom out until you can see where each terminal is located on the worldmap screen. You will notice that some of them are marked with a blue dot while others have no marker at all (these ones do not exist).
+2. Once you've identified which Fast Travel Data Terminals don’t appear to be working, click on their names in your map and see if they take you anywhere when clicked upon or activated by the cursor. If it doesn’t work, then that terminal is most likely non-existent (i.e., not functional).
+3. Now go back through each Fast Travel Data Terminal one at a time until all of them have been found and tested to see if they take you anywhere or activate any functionality when clicked upon/activated by the cursor, as this will confirm that none are missing from your gameplay experience.

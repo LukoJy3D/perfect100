@@ -10,6 +10,8 @@ _Clear any level with insta fail modifier._
 
 ***
 
+:trophy: **Guide written by a human**:
+
 You must clear any level with the "Insta Fail" modifier to obtain this achievement.
 
 The "Insta Fail" modifier makes it so that you will instantly fail the song if you miss a note. This achievement is considered the hardest of the modifier-related achievements but is still super easy to get if you pick a map that you can easily full combo.
@@ -21,3 +23,11 @@ Tips:
 4. Don't worry about the score, and don't go for full swings. Focus on hitting your notes
 
 The achievement will pop at the end of the song.
+
+:robot: **AI hallucinations**:
+
+To clear levels of Beat Saver without using Instafail modifier, you can follow these steps:
+1. Start playing and try your best not to use the Modifier
+2. If it is too difficult for you then switch off the game
+3. After some time when you are able to play better than before
+4. Try again but this time with no insta fail5. Continue until all levels of Beat Saver have been cleared without using Instafail modifier

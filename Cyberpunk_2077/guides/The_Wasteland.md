@@ -10,16 +10,14 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ***
 
-To get the Wasteland achievement, you need to locate and complete five of the secret missions scattered throughout Night City. The five missions are called “The Hand of Glory”, “The Chisel”, “The White Swan”, “The Flesh Tailor”, and “The Angel of Mercy”. 
+:trophy: **Guide written by a human**:
 
-1. The Hand of Glory: Located in Watson, you'll need to talk to your fixer, Kerry Eurodyne. He'll give you a mission to steal some valuable items from a mob boss in the Watson district. Once completed, the achievement will unlock. 
+_Add guide here_
 
-2. The Chisel: Located in Heywood, this mission requires you to talk to a certain character named Francis. He'll task you with recovering an artifact from an abandoned building in the area. Complete the mission and the achievement will be unlocked. 
+:robot: **AI hallucinations**:
 
-3. The White Swan: Located in City Center, you'll need to look for a white swan sculpture near a large fountain. Talk to the nearby street vendor to get information on what needs to be done. Once completed, the achievement will be unlocked. 
-
-4. The Flesh Tailor: Located in Santo Domingo, this mission requires you to find and eliminate a rogue biohacker who is operating out of an abandoned apartment building. Once killed, the achievement will unlock. 
-
-5. The Angel of Mercy: Located in Pacifica, you will need to find and rescue a missing girl from a cult compound. Once completed, the achievement will be unlocked. 
-
-Good luck and have fun!
+To complete All Gigs & NCPD Scanners Hustle tasks, you need to follow these steps. 
+1) Go into your game's settings menu > Options > Advanced Settings > Gameplay > Achievements and unlock all achievement slots by completing the required number of gigs or scanner hustles in each slot (you can check this on a separate screen).
+2) Once you have completed these tasks, go to your game's map menu. 
+3) Select 'Badlands', then click on any marker that says "Gigs" and select the one with the most XP available for completion. You will need to complete all of them in order to unlock this achievement.
+4) Once you have completed these tasks, go back into your game's map menu > Select 'Badlands', then click on any marker that says "Scanner Hustles" and select the one with the most XP available for completion. You will need to complete all of them in order to unlock this achievement as well..

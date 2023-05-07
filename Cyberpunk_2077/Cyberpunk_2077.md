@@ -54,7 +54,7 @@ __
 
 # The High Priestess ([guide](guides/The_High_Priestess.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **45.2%** of players
+Owned by **45.3%** of players
 
 __
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # Life of the Road ([guide](guides/Life_of_the_Road.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **40.0%** of players
+Owned by **40.1%** of players
 
 __
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # The World ([guide](guides/The_World.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **35.7%** of players
+Owned by **35.8%** of players
 
 _Complete the main storyline._
 
@@ -102,7 +102,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # Full Body Conversion ([guide](guides/Full_Body_Conversion.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **32.6%** of players
+Owned by **32.7%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -110,7 +110,7 @@ _Install at least one implant in each system and body part._
 
 # Bushido and Chill ([guide](guides/Bushido_and_Chill.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **31.9%** of players
+Owned by **32.0%** of players
 
 __
 
@@ -166,7 +166,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 # The Wandering Fool ([guide](guides/The_Wandering_Fool.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" width="96" height="96">
 
-Owned by **20.1%** of players
+Owned by **20.2%** of players
 
 _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -190,7 +190,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # The Star ([guide](guides/The_Star.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg" width="96" height="96">
 
-Owned by **16.9%** of players
+Owned by **17.0%** of players
 
 __
 
