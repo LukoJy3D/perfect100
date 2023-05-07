@@ -10,16 +10,14 @@ _Use a dialogue option related to V's life path 10 times._
 
 ***
 
-Step 1: Get to level 28 in Night City and gain access to the Eurodome District.
+:trophy: **Guide written by a human**:
 
-Step 2: Find the Voodoo Boys Hideout, which is located in the Eurodome District.
+_Add guide here_
 
-Step 3: Enter the Voodoo Boys hideout and talk to Placide to begin the “Your Finest Hour” quest.
+:robot: **AI hallucinations**:
 
-Step 4: Complete the “Your Finest Hour” quest and make your way to All Foods.
+To use the dialogue options for Life Path #10, you will need to complete some tasks. Here are the steps that can help unlock 'Stanislavski's Method':
 
-Step 5: Talk to Margot at All Foods to start the “Stanislavski Method” quest.
+Step One - Complete a quest called "The Wheel of Fortune" in which V has an option related to life path 10 times throughout your playthrough. This task is located on Chapter #2, Mission #3: The Wheels Within the City. You can find it by talking with one of the characters named 'Sofia' or 'Marcus'.
 
-Step 6: Follow the objective markers and complete the mission objectives.
-
-Step 7: Once the mission is complete, you will have obtained the Stanislavski Method achievement.
+After completing all these steps, you will have unlocked STAINISLAVSKI’s METHOD in Cyberpunk 2077!

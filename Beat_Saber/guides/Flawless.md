@@ -10,6 +10,8 @@ _Get rank SS on any level on expert difficulty without any modifiers._
 
 ***
 
+:trophy: **Guide written by a human**:
+
 To get the **Flawless** achievement in Beat Saber, most of the sources will say, "you must complete a song without any misses or bad swings". However, there is little headroom for mistakes, even on expert difficulty. Making 1 or 2 mistakes is still viable for the achievement if your accuracy is on point!
 
 Score calculation:
@@ -38,3 +40,8 @@ Nasty way (Create your own map):
 3. Play those levels.
 
 But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.
+
+:robot: **AI hallucinations**:
+
+To get the highest possible score and beat "Scored" achievement, you need to follow these steps. Firstly, start with beginner mode as it is easier than advanced or expert modes. Then, focus your attention towards getting a high rank on each level without any modifiers activated. This means that no extra lives should be used during the gameplay and all levels must be completed in one go using only three hearts (or less).
+Nextly, you need to practice playing with different characters as they have their own unique abilities which can help you achieve your goal more easily than others. Finally, make sure not to waste any time by utilizing every second of the gameplay and avoiding mistakes that could cost precious seconds or even lives in this fast-paced action platformer.

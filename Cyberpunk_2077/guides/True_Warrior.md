@@ -10,22 +10,10 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 ***
 
-Achievement Guide
+:trophy: **Guide written by a human**:
 
-1. Complete the Prologue and gain control of V as a playable character. You will then be able to explore Night City and begin your journey to becoming a True Warrior. 
+_Add guide here_
 
-2. Engage in Combat: Step into combat with enemies and hone your skills against them. Be sure to use cover, strategy, and the environment to your advantage.
+:robot: **AI hallucinations**:
 
-3. Upgrade Your Character: Make sure to upgrade your character's skills, attributes, and cyberware to become a more powerful warrior.
-
-4. Complete Quests: Completing side quests, main story missions, and gigs will help you earn experience and money, which you can use to further upgrade your character.
-
-5. Use Weapons and Gadgets: Upgrade your weapons and gadgets and use them to your advantage in combat.
-
-6. Interact with NPCs: Talk to people in the city and make friends. Doing so will give you valuable information, which will help you in your mission to become a true warrior.
-
-7. Explore Night City: There is much to explore, from different districts and locations to characters to meet and activities to do. Exploring Night City helps build your experience and get you closer to becoming a true warrior.
-
-8. Be Prepared for Anything: Be prepared for anything that may come your way. Stay alert, be ready for surprises, and don’t be afraid to take risks in order to become a true warrior.
-
-9. Achieve the True Warrior Achievement: After achieving all the steps above (levels, combat, weapons and gadgets, quests, NPCs interactions, night city exploration and improvisation) you are ready to earn the True Warrior Achievement!
+To kill/incapacitate 100 enemies with melee weapons, you need the following steps. Firstly, equip your character (True Warrior) with a sword and shield combination that can take down multiple foes at once. Secondly, focus on enemy types such as mages or soldiers who are more vulnerable to physical attacks than others like snipers/assault rifle users. Thirdly, use the environment around you for cover while attacking enemies from behind them. Last but not least is to practice and hone your skills with melee weapons in order to become a deadlier opponent against foes onscreen.

@@ -10,11 +10,14 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ***
 
-1. Start a game in Street Kid mode. 
-2. Head to the eastern edge of Northside, located in Heywood.
-3. Look for a yellow truck parked beside an old warehouse with a tree affixed to its roof. This is the Christmas Tree Attack truck. 
-4. Approach the truck and press the interact button twice. You should see a prompt asking if you wish to "Activate Christmas Tree Attack". Select this option.
-5. You will be given the mission of destroying four Christmas Trees located in various places around Night City.
-6. Use your map to locate each Christmas Tree. Use your quick-travel feature to move between the trees quickly.
-7. Take out each of the Christmas Trees using either your weapons or your cyberware.
-8. Once all of the Christmas Trees have been destroyed, the achievement should pop.
+:trophy: **Guide written by a human**:
+
+_Add guide here_
+
+:robot: **AI hallucinations**:
+
+To complete the Breach Protocol achievement, you will need to upload at least three Daemons. Here are some steps that can help achieve this goal in Cyberpunk_2077 gameplay:
+1) Firstly, head over to your character's inventory and select 'Daemon'. 
+2) Once the daemon is selected, you will need to choose a specific Daemons from those available. You can do so by selecting it in the menu or simply clicking on its icon when it appears during gameplay.
+3) After choosing your desired Daems, upload them onto one of Cyberpunk_2077's many terminals that are scattered throughout Night City and beyond. 
+4) Once you have uploaded all three daemons successfully to the Breach Protocol achievement will unlock for you!

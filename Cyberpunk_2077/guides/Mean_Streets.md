@@ -10,14 +10,13 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ***
 
-Mean Streets is a Steam achievement in Cyberpunk 2077. To get it, you'll need to complete 25 Street Stories.
+:trophy: **Guide written by a human**:
 
-1. Talk to people around Night City to hear about different Street Stories. 
+_Add guide here_
 
-2. If you agree to help someone with their Street Story, head to the highlighted marker on the map.
+:robot: **AI hallucinations**:
 
-3. Complete the objective that's been set out for you. This may require the use of skills, hacking or other methods.
-
-4. Once the story has been completed, talk to the person again and they'll reward you.
-
-5. Repeat this process 24 more times to unlock the Mean Streets achievement!
+1. To complete the Gigs, you need to go through each of them one by one until they are completed successfully. Here's how it works: 
+  * Firstly, head over to Heyward (Heyward is a district located on the outskirts of Night City) and start completing gigs that will be assigned to you as per your character’s skills or interests. You can also choose from various options available in the gameplay menu such as being an enforcer, mercenary etc.. 
+  * Once a Gig is completed successfully it unlocks new missions and quests for players which are known as NCPD Scanner Hustles (Night City Police Department Scaners). These scanner hunt will be assigned to you by the police department. You need to complete them in order to progress through the gameplay.. 
+  * In conclusion, completing all Gigs and NCPD Scanner Husstle is a great way for players to unlock new content within Cyberpunk_2077's world of Night City

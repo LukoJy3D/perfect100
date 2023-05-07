@@ -10,12 +10,13 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 ***
 
-1. Complete the "Trouble in Little China" side job.
+:trophy: **Guide written by a human**:
 
-2. Go to the locked door and interact with it to lockpick it.
+_Add guide here_
 
-3. Once inside, head towards the back and interact with the terminal to access the Gun Fu mission.
+:robot: **AI hallucinations**:
 
-4. Proceed through the mission and defeat the enemies within the time limit.
-
-5. Once you have completed the mission, you will receive the Gun Fu achievement.
+1. To start, you will need to equip your weapon of choice (revolvers and/or pistols) for the task at hand - which is killing three opponents within seconds using Gun Fu techniques such as bullet-time evasion maneuver or a quick draw technique with an empty chambered revolver.
+2. Once you have equipped yourself, head to one of Cyberpunk 2077's many locations and look for enemies that are close enough in proximity so they can be killed within seconds using your weaponry - preferably those who pose a threat or represent an obstacle on the way forward.
+3. Once you have found three opponents, start engaging them with quick burst of fire from either revolvers or pistols to take down all three targets in succession before they can react and retaliate against your attack - preferably using bullet-time evasion maneuver if available for the task at hand.
+4. Once you have successfully killed/incapacitated 3 enemies, congratulations! You've unlocked Gun Fu achievement on Cyberpunk_2077 and can now move forward to your next objective or mission in this game.

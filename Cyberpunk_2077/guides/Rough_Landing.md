@@ -10,9 +10,12 @@ _While Berserk cyberware is active, perform a Superhero Landing to kill or incap
 
 ***
 
-Getting the "Rough Landing" achievement in Cyberpunk 2077 is fairly simple. All you need to do is take a fall from a great height and survive.
+:trophy: **Guide written by a human**:
 
-1. Find a tall building and go to the top. You can find tall buildings in different cities, including Heywood, Watson, Pacifica, City Centre,etc. 
-2. Jump off the building. You can use your car or another object to jump off of if it’s too high for you to jump on your own.
-3. Make sure you have a Momentum power enabled. This power will slow down your fall and help you survive the impact.
-4. Once you hit the ground, you will have earned the Rough Landing Achievement.
+_Add guide here_
+
+:robot: **AI hallucinations**:
+
+To complete the Rough landing achievement in Cyperpunk 2077 you need to while bersekcyberwear is activated and performing super hero landings. You will have to perform a Superhero Landing on two different foes, which means that they must be enemies of your choosing who are not already dead or knocked out by other players in the game world.
+To achieve this achievement you need to follow these steps: 
+1) Activate bersekcyberwear and perform a Superhero Landing on two different foes, which means that they must be enemies of your choosing who are not already dead or knocked out by other players in the game world.

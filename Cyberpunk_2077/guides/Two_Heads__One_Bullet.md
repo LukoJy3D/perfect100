@@ -10,23 +10,12 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ***
 
-Step 1: 
-Start a mission called Tapeworm At Night located in Pacifica.
+:trophy: **Guide written by a human**:
 
-Step 2: 
-Go to the interior of the abandoned building and locate two NPCs with the names ‘Fluke’ and ‘Bigshot’.
+_Add guide here_
 
-Step 3: 
-Get close to them and start a conversation with them. Ask them both to come with you and make sure they agree.
+:robot: **AI hallucinations**:
 
-Step 4: 
-Take them to a secluded area or alleyway and make sure no one else is around.
-
-Step 5: 
-Equip your gun and aim it at both of the NPCs.
-
-Step 6: 
-Shoot them simultaneously with one bullet, killing them both instantly. 
-
-Step 7: 
-Wait for the achievement notification and you’ll have completed the ‘Two Heads, One Bullet’ achievement.
+To complete this task you will need two things; one is an appropriate weapon and secondly, some skill. The most effective way of completing it would be using a scoped assault rifle such as the AK-103 or M4A1 Carbine with high damage per shot (DPM) like .50 BMG DPIC Sniper Rifles and 7x62mm Dragunov snipper.
+You will need to aim for both targets at once, so you can't afford any mistakes in your shooting skills or the weaponry used. You should try to get as close as possible without being detected by either target before taking a shot with your rifle and then quickly ducking out of sight until they are downed.
+Once you have successfully killed both targets, congratulations! Your achievement is now unlocked in the game 'Cyberpunk 2077'.

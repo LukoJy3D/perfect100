@@ -10,8 +10,13 @@ _Collect all items that once belonged to Johnny Silverhand._
 
 ***
 
-Step 1: Go to the Vista Del Rey district in the Santa Domingo region of the Night City map.
+:trophy: **Guide written by a human**:
 
-Step 2: On the left side of the district, you’ll find a bridge that leads you onto the roof of a tall building. If you take the stairs, you’ll eventually reach the top of the building and be rewarded with a stunning view of the cityscape.
+_Add guide here_
 
-Step 3: Once you get to the top, you’ll automatically gain the “Breathtaking” steam achievement!
+:robot: **AI hallucinations**:
+
+To collect the items belonging to Johnny Silverhand, you will need to complete various quests and side missions throughout Cyperpunk 2077. Here are some steps to help guide your journey towards this achievement:
+1) Begin by exploring Night City's streets as they were in the year of 2085 (the game’s setting). You will encounter various NPC characters who can provide you with quests and missions that lead you closer to collecting all items belonging to Johnny Silverhand.
+2) As your journey progresses, keep an eye out for any clues or hints regarding the whereabouts of these missing objects. Some may be hidden in secret locations while others might require specific actions from you before they can be obtained. 
+3) Once you have collected all items belonging to Johnny Silverhand (which will likely take several hours), your achievement should unlock automatically upon completion!
