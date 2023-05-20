@@ -6,7 +6,7 @@ has_children: true
 
 # The Fool ([guide](guides/The_Fool.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg" width="96" height="96">
 
-Owned by **89.5%** of players
+Owned by **89.6%** of players
 
 __
 
@@ -14,7 +14,7 @@ __
 
 # The Lovers ([guide](guides/The_Lovers.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **70.6%** of players
+Owned by **70.7%** of players
 
 __
 
@@ -22,7 +22,7 @@ __
 
 # Right Back At Ya ([guide](guides/Right_Back_At_Ya.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **67.0%** of players
+Owned by **67.1%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # The Wheel of Fortune ([guide](guides/The_Wheel_of_Fortune.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **54.7%** of players
+Owned by **54.8%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # Stanislavski's Method ([guide](guides/Stanislavski_s_Method.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **52.2%** of players
+Owned by **52.3%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # The Hermit ([guide](guides/The_Hermit.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **50.7%** of players
+Owned by **50.8%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # The High Priestess ([guide](guides/The_High_Priestess.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **45.3%** of players
+Owned by **45.4%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # True Soldier ([guide](guides/True_Soldier.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **41.9%** of players
+Owned by **42.0%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # Life of the Road ([guide](guides/Life_of_the_Road.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **40.1%** of players
+Owned by **40.2%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # Legend of The Afterlife ([guide](guides/Legend_of_The_Afterlife.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **38.1%** of players
+Owned by **38.2%** of players
 
 _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # The World ([guide](guides/The_World.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **35.8%** of players
+Owned by **35.9%** of players
 
 _Complete the main storyline._
 
@@ -94,7 +94,7 @@ _Complete the main storyline._
 
 # Christmas Tree Attack ([guide](guides/Christmas_Tree_Attack.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **33.0%** of players
+Owned by **33.1%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -102,7 +102,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # Full Body Conversion ([guide](guides/Full_Body_Conversion.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **32.7%** of players
+Owned by **32.8%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -110,7 +110,7 @@ _Install at least one implant in each system and body part._
 
 # Bushido and Chill ([guide](guides/Bushido_and_Chill.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **32.0%** of players
+Owned by **32.1%** of players
 
 __
 
@@ -118,7 +118,7 @@ __
 
 # Judy vs Night City ([guide](guides/Judy_vs_Night_City.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **29.0%** of players
+Owned by **29.1%** of players
 
 __
 
@@ -126,7 +126,7 @@ __
 
 # True Warrior ([guide](guides/True_Warrior.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **29.0%** of players
+Owned by **29.1%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -142,7 +142,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # To Protect and Serve ([guide](guides/To_Protect_and_Serve.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **26.4%** of players
+Owned by **26.5%** of players
 
 __
 
@@ -150,7 +150,7 @@ __
 
 # Master Crafter ([guide](guides/Master_Crafter.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **24.7%** of players
+Owned by **24.8%** of players
 
 _Craft 3 Legendary items._
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 # Gun Fu ([guide](guides/Gun_Fu.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **23.5%** of players
+Owned by **23.6%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -174,7 +174,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # I Am The Law ([guide](guides/I_Am_The_Law.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **18.9%** of players
+Owned by **19.0%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -182,7 +182,7 @@ _Complete all Cyberpsycho Sightings._
 
 # The Quick and the Dead ([guide](guides/The_Quick_and_the_Dead.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **17.2%** of players
+Owned by **17.3%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -198,7 +198,7 @@ __
 
 # Breathtaking ([guide](guides/Breathtaking.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **15.3%** of players
+Owned by **15.4%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -222,7 +222,7 @@ __
 
 # Ten out of Ten ([guide](guides/Ten_out_of_Ten.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **13.6%** of players
+Owned by **13.7%** of players
 
 _Reach the max level in any skill._
 
@@ -230,7 +230,7 @@ _Reach the max level in any skill._
 
 # To Bad Decisions! ([guide](guides/To_Bad_Decisions_.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
 
-Owned by **12.3%** of players
+Owned by **12.4%** of players
 
 __
 
@@ -276,19 +276,19 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
+# Little Tokyo ([guide](guides/Little_Tokyo.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" width="96" height="96">
+
+Owned by **7.2%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in Westbrook._
+
+---
+
 # The Jungle ([guide](guides/The_Jungle.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
 Owned by **7.2%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
-
----
-
-# Little Tokyo ([guide](guides/Little_Tokyo.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" width="96" height="96">
-
-Owned by **7.1%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 ---
 
@@ -318,7 +318,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 # Daemon In The Shell ([guide](guides/Daemon_In_The_Shell.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg" width="96" height="96">
 
-Owned by **5.8%** of players
+Owned by **5.9%** of players
 
 _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
@@ -326,7 +326,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # The Devil ([guide](guides/The_Devil.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" width="96" height="96">
 
-Owned by **5.7%** of players
+Owned by **5.8%** of players
 
 __
 
@@ -350,7 +350,7 @@ _Shoot an enemy grenade in midair with a revolver._
 
 # Rough Landing ([guide](guides/Rough_Landing.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" width="96" height="96">
 
-Owned by **2.5%** of players
+Owned by **2.6%** of players
 
 _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
