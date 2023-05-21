@@ -38,7 +38,7 @@ git checkout -b <NEW-BRANCH-NAME>
 ...
 ```
 _You can find the Game ID on the Steam store page or steamdb.info_
-3. Do `go run .\build.go`.
+3. Do `go run main.go`.
 4. Script will populate the achievement list and guide folder contents after a script successfully runs.
 
 ### 4. Making changes without local setup
@@ -79,7 +79,7 @@ You can now create a pull request on the GitHub webpage of your repository. As w
   - multi: Add 'Fall Guys' guides and update commitlint config
 - Examples when changing scripts, readme, workflows, etc.
   - tools: Improve commitlint workflow
-  - tools: Make build.go mo dynamic
+  - tools: Make golang more dynamic
 
 2. Let's do quality over quantity! It's always better to take time and make clear, informative, and structured guides instead of confusing wallpaper-length paragraphs or simple lazy one-liners.
 
