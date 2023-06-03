@@ -6,7 +6,7 @@ has_children: true
 
 # Pure ([guide](guides/Pure.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="96" height="96">
 
-Owned by **81.0%** of players
+Owned by **81.1%** of players
 
 _Clear any level without any modifiers._
 
@@ -46,7 +46,7 @@ _Clear any level on hard difficulty and get at least 100 combo without any modif
 
 # Expert ([guide](guides/Expert.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="96" height="96">
 
-Owned by **47.3%** of players
+Owned by **47.2%** of players
 
 _Clear any level on expert difficulty without any modifiers._
 
@@ -70,7 +70,7 @@ _Get at least rank S on any level on hard difficulty without any modifiers._
 
 # Warm-up ([guide](guides/Warm_up.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" width="96" height="96">
 
-Owned by **32.3%** of players
+Owned by **32.2%** of players
 
 _Clear 100 levels or more._
 
@@ -126,7 +126,7 @@ _Get total played time 24 hours or more._
 
 # 100 Million ([guide](guides/100_Million.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/cc071c3d9d6ef6584d3814b8f40c916efa86268f.jpg" width="96" height="96">
 
-Owned by **11.1%** of players
+Owned by **11.2%** of players
 
 _Get total score 100 million or more._
 
