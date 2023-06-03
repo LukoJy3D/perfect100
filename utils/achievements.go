@@ -1,4 +1,4 @@
-package main
+package utils
 
 import (
 	"encoding/json"
@@ -14,7 +14,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-func main() {
+func Achievements() {
 
 	// Struct to represent the JSON data
 	type GamesData struct {
@@ -209,34 +209,4 @@ func main() {
 			}
 		})
 	}
-}
-
-func ReplaceForbiddenCharacters(s string) string {
-	s = strings.Replace(s, " ", "_", -1)
-	s = strings.Replace(s, ":", "_", -1)
-	s = strings.Replace(s, "?", "_", -1)
-	s = strings.Replace(s, "*", "_", -1)
-	s = strings.Replace(s, "!", "_", -1)
-	s = strings.Replace(s, "[", "_", -1)
-	s = strings.Replace(s, "]", "_", -1)
-	s = strings.Replace(s, "\"", "_", -1)
-	s = strings.Replace(s, "/", "_", -1)
-	s = strings.Replace(s, "\\", "_", -1)
-	s = strings.Replace(s, ".", "_", -1)
-	s = strings.Replace(s, ",", "_", -1)
-	s = strings.Replace(s, "'", "_", -1)
-	s = strings.Replace(s, "@", "_", -1)
-	s = strings.Replace(s, "#", "_", -1)
-	s = strings.Replace(s, "$", "_", -1)
-	s = strings.Replace(s, "%", "_", -1)
-	s = strings.Replace(s, "^", "_", -1)
-	s = strings.Replace(s, "&", "_", -1)
-	s = strings.Replace(s, "(", "_", -1)
-	s = strings.Replace(s, ")", "_", -1)
-	s = strings.Replace(s, "+", "_", -1)
-	s = strings.Replace(s, "-", "_", -1)
-	s = strings.Replace(s, "=", "_", -1)
-	s = strings.Replace(s, "<", "_", -1)
-	s = strings.Replace(s, ">", "_", -1)
-	return s
 }

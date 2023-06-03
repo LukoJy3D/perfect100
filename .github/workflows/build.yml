@@ -23,9 +23,7 @@ jobs:
           configFile: .github/commitlint.config.js
 
       - name: Run Script
-        env:
-          api_key: ${{ secrets.CHATGPT_API_KEY }}
-        run: go run build.go
+        run: go run main.go
 
       - name: Commit all changed files back to the repository
         uses: stefanzweifel/git-auto-commit-action@v4
