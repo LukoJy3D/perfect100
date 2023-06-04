@@ -6,7 +6,7 @@ has_children: true
 
 # Reached Coal Pits ([guide](guides/Reached_Coal_Pits.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
 
-Owned by **69.1%** of players
+Owned by **69.2%** of players
 
 __
 
@@ -14,7 +14,7 @@ __
 
 # Reached Snowy Depths ([guide](guides/Reached_Snowy_Depths.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" width="96" height="96">
 
-Owned by **56.9%** of players
+Owned by **57.0%** of players
 
 __
 
@@ -22,7 +22,7 @@ __
 
 # Reached Hiisi Base ([guide](guides/Reached_Hiisi_Base.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
 
-Owned by **35.8%** of players
+Owned by **36.0%** of players
 
 __
 
@@ -30,7 +30,7 @@ __
 
 # Reached Underground Jungle ([guide](guides/Reached_Underground_Jungle.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" width="96" height="96">
 
-Owned by **21.9%** of players
+Owned by **22.0%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # Reached The Vault ([guide](guides/Reached_The_Vault.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
 
-Owned by **18.0%** of players
+Owned by **18.1%** of players
 
 __
 
@@ -46,7 +46,7 @@ __
 
 # Reached Temple of the Art ([guide](guides/Reached_Temple_of_the_Art.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" width="96" height="96">
 
-Owned by **13.0%** of players
+Owned by **13.1%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # Victory ([guide](guides/Victory.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" width="96" height="96">
 
-Owned by **9.9%** of players
+Owned by **10.0%** of players
 
 _Victory_
 
@@ -62,7 +62,7 @@ _Victory_
 
 # The Gods Are Enraged ([guide](guides/The_Gods_Are_Enraged.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" width="96" height="96">
 
-Owned by **4.6%** of players
+Owned by **4.7%** of players
 
 __
 
@@ -70,7 +70,7 @@ __
 
 # The Gods Are Impressed ([guide](guides/The_Gods_Are_Impressed.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" width="96" height="96">
 
-Owned by **2.5%** of players
+Owned by **2.6%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # Gathered All The Knowledge ([guide](guides/Gathered_All_The_Knowledge.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" width="96" height="96">
 
-Owned by **2.0%** of players
+Owned by **2.1%** of players
 
 __
 

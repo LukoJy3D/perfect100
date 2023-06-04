@@ -1,7 +1,6 @@
 package utils
 
 import (
-	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
@@ -12,30 +11,27 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
+	"gopkg.in/yaml.v2"
 )
 
 func Achievements() {
 
-	// Struct to represent the JSON data
 	type GamesData struct {
 		Games []struct {
-			ID   string `json:"id"`
-			Name string `json:"name"`
-		} `json:"games"`
+			ID string `yaml:"id"`
+		} `yaml:"games"`
 	}
 
-	// Read the file into a byte slice
-	jsonData, err := os.ReadFile("games.json")
+	yamlData, err := os.ReadFile("games.yml")
 	if err != nil {
 		fmt.Println("Error:", err)
-		os.Exit(1)
+		return
 	}
 
-	// Unmarshal the JSON data into a struct
 	var data GamesData
-	if err := json.Unmarshal(jsonData, &data); err != nil {
+	if err := yaml.Unmarshal(yamlData, &data); err != nil {
 		fmt.Println("Error:", err)
-		os.Exit(1)
+		return
 	}
 
 	// Loop through the games and make the HTTP request for each one
