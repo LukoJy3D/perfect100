@@ -6,7 +6,7 @@ has_children: true
 
 # Reached Coal Pits ([guide](guides/Reached_Coal_Pits.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
 
-Owned by **69.2%** of players
+Owned by **69.3%** of players
 
 __
 
@@ -14,7 +14,7 @@ __
 
 # Reached Snowy Depths ([guide](guides/Reached_Snowy_Depths.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" width="96" height="96">
 
-Owned by **57.0%** of players
+Owned by **57.1%** of players
 
 __
 

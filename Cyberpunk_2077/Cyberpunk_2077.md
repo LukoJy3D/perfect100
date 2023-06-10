@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # The Hermit ([guide](guides/The_Hermit.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **50.9%** of players
+Owned by **51.0%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # Legend of The Afterlife ([guide](guides/Legend_of_The_Afterlife.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **38.3%** of players
+Owned by **38.4%** of players
 
 _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # The World ([guide](guides/The_World.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **36.0%** of players
+Owned by **36.1%** of players
 
 _Complete the main storyline._
 
@@ -150,7 +150,7 @@ __
 
 # Master Crafter ([guide](guides/Master_Crafter.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **24.8%** of players
+Owned by **24.9%** of players
 
 _Craft 3 Legendary items._
 
@@ -174,7 +174,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # I Am The Law ([guide](guides/I_Am_The_Law.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **19.1%** of players
+Owned by **19.2%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -222,7 +222,7 @@ _Find all fast travel dataterms._
 
 # Ten out of Ten ([guide](guides/Ten_out_of_Ten.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **13.7%** of players
+Owned by **13.8%** of players
 
 _Reach the max level in any skill._
 
@@ -294,7 +294,7 @@ _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 # Greetings from Pacifica! ([guide](guides/Greetings_from_Pacifica_.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
 
-Owned by **7.0%** of players
+Owned by **7.1%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
@@ -342,7 +342,7 @@ _Buy all vehicles available for purchase._
 
 # Gunslinger ([guide](guides/Gunslinger.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
 
-Owned by **5.2%** of players
+Owned by **5.3%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
 
