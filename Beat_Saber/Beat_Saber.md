@@ -22,7 +22,7 @@ _Clear any level on normal difficulty and get at least 50 combo without any modi
 
 # Drill ([guide](guides/Drill.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" width="96" height="96">
 
-Owned by **63.0%** of players
+Owned by **62.9%** of players
 
 _Get total 10 000 good cuts or more._
 
@@ -38,7 +38,7 @@ _Get at least rank A on any level on normal difficulty without any modifiers._
 
 # Concentrate ([guide](guides/Concentrate.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e3507956238120eb713300d3dc2e225744779b36.jpg" width="96" height="96">
 
-Owned by **57.8%** of players
+Owned by **57.7%** of players
 
 _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 
@@ -78,7 +78,7 @@ _Clear 100 levels or more._
 
 # Faster ([guide](guides/Faster.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" width="96" height="96">
 
-Owned by **30.7%** of players
+Owned by **30.6%** of players
 
 _Clear any level with faster song speed modifier._
 
@@ -150,7 +150,7 @@ _Clear any level with insta fail modifier._
 
 # Flawless ([guide](guides/Flawless.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e11d8f04cb9f2fbd8ec79a5218fc3a407aefacd9.jpg" width="96" height="96">
 
-Owned by **7.4%** of players
+Owned by **7.5%** of players
 
 _Get rank SS on any level on expert difficulty without any modifiers._
 

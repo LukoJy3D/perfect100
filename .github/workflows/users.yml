@@ -1,0 +1,30 @@
+name: Build user list
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 'User ID'
+        required: true
+      name:
+        description: 'User Name'
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Existing ID
+        id: check
+        run: |
+          grep -q "^${{ github.event.inputs.id }}:" users.yml && echo "::set-output name=exists::true" || echo "::set-output name=exists::false"
+
+      - name: Append to File
+        if: steps.check.outputs.exists != 'true'
+        run: |
+          echo "- id: '${{ github.event.inputs.id }}' #${{ github.event.inputs.name }}" >> users.yml
+          echo "File updated successfully"
+
+      - name: Display File Contents
+        run: |
+          cat users.yml
