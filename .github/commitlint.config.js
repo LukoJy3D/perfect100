@@ -11,6 +11,7 @@ module.exports = {
         "guides",
         "multi",
         "tools",
+        "users",
       ],
     ],
     "subject-empty": [2, "never"],

@@ -1,0 +1,47 @@
+name: My Workflow
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 'User ID'
+        required: true
+      name:
+        description: 'User Name'
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Existing ID
+        id: check
+        run: |
+          grep -q "^${{ github.event.inputs.id }}:" ../../users.yml && echo "::set-output name=exists::true" || echo "::set-output name=exists::false"
+
+      - name: Append to File
+        if: steps.check.outputs.exists != 'true'
+        run: |
+          echo "- id: '${{ github.event.inputs.id }}' #${{ github.event.inputs.name }}" >> ../../users.yml
+          echo "File updated successfully"
+
+      - name: Display File Contents
+        run: |
+          cat ../../users.yml
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add ../../users.yml
+          git commit -m "users: Add ${{ github.event.inputs.name }} user to users.yaml"
+          git push origin ${{ github.ref }}
+
+      - name: Open Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.PAT }}
+          branch: ${{ github.ref }}
+          base: main
+          title: "users: Add ${{ github.event.inputs.name }} user to users.yaml"
+          body: "Automated pull request to update users.yaml with ${{ github.event.inputs.name }} user"

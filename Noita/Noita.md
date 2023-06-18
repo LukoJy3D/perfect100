@@ -38,7 +38,7 @@ __
 
 # Reached The Vault ([guide](guides/Reached_The_Vault.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
 
-Owned by **18.1%** of players
+Owned by **18.2%** of players
 
 __
 
@@ -62,7 +62,7 @@ _Victory_
 
 # The Gods Are Enraged ([guide](guides/The_Gods_Are_Enraged.md)) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" width="96" height="96">
 
-Owned by **4.7%** of players
+Owned by **4.8%** of players
 
 __
 
