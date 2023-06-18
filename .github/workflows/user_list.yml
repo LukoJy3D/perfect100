@@ -1,4 +1,4 @@
-name: My Workflow
+name: User list build
 on:
   workflow_dispatch:
     inputs:
@@ -14,34 +14,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+
       - name: Check Existing ID
         id: check
         run: |
-          grep -q "^${{ github.event.inputs.id }}:" ../../users.yml && echo "::set-output name=exists::true" || echo "::set-output name=exists::false"
+          grep -q "^${{ github.event.inputs.id }}:" users.yml && echo "::set-output name=exists::true" || echo "::set-output name=exists::false"
 
       - name: Append to File
         if: steps.check.outputs.exists != 'true'
         run: |
-          echo "- id: '${{ github.event.inputs.id }}' #${{ github.event.inputs.name }}" >> ../../users.yml
+          echo "- id: '${{ github.event.inputs.id }}' #${{ github.event.inputs.name }}" >> users.yml
           echo "File updated successfully"
 
       - name: Display File Contents
         run: |
-          cat ../../users.yml
+          cat users.yml
 
-      - name: Commit and Push Changes
-        run: |
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add ../../users.yml
-          git commit -m "users: Add ${{ github.event.inputs.name }} user to users.yaml"
-          git push origin ${{ github.ref }}
-
-      - name: Open Pull Request
-        uses: peter-evans/create-pull-request@v3
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.PAT }}
-          branch: ${{ github.ref }}
+          branch: feat/add_new_user_with_id_${{ github.event.inputs.id }}
           base: main
+          commit-message: "users: Add ${{ github.event.inputs.name }} user to users.yaml"
           title: "users: Add ${{ github.event.inputs.name }} user to users.yaml"
           body: "Automated pull request to update users.yaml with ${{ github.event.inputs.name }} user"
