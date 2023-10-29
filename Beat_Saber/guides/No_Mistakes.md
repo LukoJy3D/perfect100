@@ -4,7 +4,7 @@ title: No Mistakes
 parent: Beat Saber
 ---
 
-# No Mistakes (1.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/071a27bff15d1f2a87461b29b7052ca4ace32586.jpg" width="96" height="96">
+# No Mistakes (1.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/071a27bff15d1f2a87461b29b7052ca4ace32586.jpg" width="96" height="96">
 
 _Get full combo on at least 15 different levels on expert difficulty (solo free play only)._
 
