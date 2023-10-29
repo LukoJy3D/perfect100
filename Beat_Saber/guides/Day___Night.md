@@ -4,7 +4,7 @@ title: Day & Night
 parent: Beat Saber
 ---
 
-# Day & Night (11.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/83cc09fe8c596a49684738859ec04bb172594d5a.jpg" width="96" height="96">
+# Day & Night (11.5%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/83cc09fe8c596a49684738859ec04bb172594d5a.jpg" width="96" height="96">
 
 _Get total played time 24 hours or more._
 

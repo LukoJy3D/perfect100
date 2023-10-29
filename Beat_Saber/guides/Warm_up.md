@@ -4,7 +4,7 @@ title: Warm-up
 parent: Beat Saber
 ---
 
-# Warm-up (32.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" width="96" height="96">
+# Warm-up (31.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" width="96" height="96">
 
 _Clear 100 levels or more._
 
