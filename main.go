@@ -1,7 +1,7 @@
 package main
 
 import (
-	"perfect100/utils"
+	utils "perfect100/.utils"
 )
 
 func main() {

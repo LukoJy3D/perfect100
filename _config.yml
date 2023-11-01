@@ -3,4 +3,6 @@ aux_links:
     - "//github.com/lukojy3d/perfect100"
 exclude:
   - gpt4all
+plugins:
+  - jemoji
 remote_theme: just-the-docs/just-the-docs
