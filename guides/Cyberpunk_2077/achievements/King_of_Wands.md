@@ -4,7 +4,7 @@ title: King of Wands
 parent: Cyberpunk 2077
 ---
 
-# King of Wands (3.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
+# King of Wands (3.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
 __
 

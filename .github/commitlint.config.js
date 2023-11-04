@@ -12,7 +12,9 @@ module.exports = {
         "multi",
         "tools",
         "users",
-        "build"
+        "build",
+        "fix",
+        "chore"
       ],
     ],
     "subject-empty": [2, "never"]

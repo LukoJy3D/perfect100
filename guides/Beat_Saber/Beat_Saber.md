@@ -110,7 +110,7 @@ _Clear any level on expert difficulty and get at least 500 combo without any mod
 
 # [Supreme](achievements/Supreme.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" width="96" height="96">
 
-Owned by **13.1%** of players
+Owned by **13.0%** of players
 
 _Get full combo on any level on expert difficulty without any modifiers._
 
@@ -142,7 +142,7 @@ _Get rank S on at least 15 different levels on expert difficulty (solo free play
 
 # [On the Edge](achievements/On_the_Edge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/d99b3519f13c52c7f883349ee8a04ea96a3a062b.jpg" width="96" height="96">
 
-Owned by **7.7%** of players
+Owned by **7.6%** of players
 
 _Clear any level with One Life modifier._
 
