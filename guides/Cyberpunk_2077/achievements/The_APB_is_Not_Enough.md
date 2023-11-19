@@ -4,7 +4,7 @@ title: The APB is Not Enough
 parent: Cyberpunk 2077
 ---
 
-# The APB is Not Enough (2.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
+# The APB is Not Enough (2.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
 
 _Become Dogtown's most wanted criminal._
 

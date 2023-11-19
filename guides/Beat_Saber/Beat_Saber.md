@@ -22,7 +22,7 @@ _Clear any level on normal difficulty and get at least 50 combo without any modi
 
 # [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" width="96" height="96">
 
-Owned by **62.7%** of players
+Owned by **62.6%** of players
 
 _Get total 10 000 good cuts or more._
 
@@ -46,7 +46,7 @@ _Clear any level on hard difficulty and get at least 100 combo without any modif
 
 # [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="96" height="96">
 
-Owned by **46.9%** of players
+Owned by **46.8%** of players
 
 _Clear any level on expert difficulty without any modifiers._
 
@@ -94,7 +94,7 @@ _Get 100 kilometers travelled hand distance or more._
 
 # [Memory](achievements/Memory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" width="96" height="96">
 
-Owned by **25.7%** of players
+Owned by **25.6%** of players
 
 _Clear any level with disappearing arrows modifier._
 
@@ -102,7 +102,7 @@ _Clear any level with disappearing arrows modifier._
 
 # [Focus](achievements/Focus.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" width="96" height="96">
 
-Owned by **13.5%** of players
+Owned by **13.4%** of players
 
 _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
@@ -126,7 +126,7 @@ _Get total played time 24 hours or more._
 
 # [100 Million](achievements/100_Million.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/cc071c3d9d6ef6584d3814b8f40c916efa86268f.jpg" width="96" height="96">
 
-Owned by **11.2%** of players
+Owned by **11.1%** of players
 
 _Get total score 100 million or more._
 
@@ -174,7 +174,7 @@ _Get rank S on at least 15 different levels on hard difficulty (solo free play o
 
 # [Progress](achievements/Progress.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8a7800b32758c6857521c3bce6439bbe133d92af.jpg" width="96" height="96">
 
-Owned by **5.8%** of players
+Owned by **5.7%** of players
 
 _Clear 30 missions in campaign._
 
