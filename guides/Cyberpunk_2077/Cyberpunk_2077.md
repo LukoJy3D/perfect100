@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.6%** of players
+Owned by **52.7%** of players
 
 __
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **37.7%** of players
+Owned by **37.8%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **21.8%** of players
+Owned by **21.9%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -174,7 +174,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **21.8%** of players
+Owned by **21.9%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -198,7 +198,7 @@ _Reach the max level in any skill._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **19.4%** of players
+Owned by **19.5%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -390,7 +390,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
-Owned by **4.0%** of players
+Owned by **4.1%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
