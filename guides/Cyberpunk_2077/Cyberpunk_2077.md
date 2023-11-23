@@ -14,7 +14,7 @@ __
 
 # [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.4%** of players
+Owned by **71.3%** of players
 
 __
 
@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.4%** of players
+Owned by **68.3%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.5%** of players
+Owned by **56.4%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **54.1%** of players
+Owned by **54.0%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.7%** of players
+Owned by **52.6%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **45.1%** of players
+Owned by **45.0%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.7%** of players
+Owned by **41.6%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **40.9%** of players
+Owned by **40.8%** of players
 
 _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **37.8%** of players
+Owned by **37.7%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **37.3%** of players
+Owned by **37.2%** of players
 
 _Complete the main storyline._
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.3%** of players
+Owned by **36.2%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -118,7 +118,7 @@ __
 
 # [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **32.1%** of players
+Owned by **32.0%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -142,7 +142,7 @@ __
 
 # [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" width="96" height="96">
 
-Owned by **29.6%** of players
+Owned by **29.5%** of players
 
 _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.8%** of players
+Owned by **27.7%** of players
 
 __
 
@@ -198,7 +198,7 @@ _Reach the max level in any skill._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **19.8%** of players
+Owned by **20.1%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -238,7 +238,7 @@ __
 
 # [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **14.2%** of players
+Owned by **14.1%** of players
 
 _Find all fast travel dataterms._
 
@@ -326,7 +326,7 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 
 # [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
 
-Owned by **8.6%** of players
+Owned by **8.5%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
@@ -382,7 +382,7 @@ __
 
 # [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 _Unlock all Perks in the Relic Perk tree._
 
@@ -446,7 +446,7 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 # [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" width="96" height="96">
 
-Owned by **2.1%** of players
+Owned by **2.2%** of players
 
 __
 
