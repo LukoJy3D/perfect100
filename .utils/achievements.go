@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 func Achievements() {

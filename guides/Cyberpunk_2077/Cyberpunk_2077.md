@@ -190,7 +190,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **21.3%** of players
+Owned by **21.2%** of players
 
 _Reach the max level in any skill._
 
@@ -286,7 +286,7 @@ _Shoot an enemy grenade in midair with a revolver._
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **9.9%** of players
+Owned by **10.0%** of players
 
 _Save President Myers._
 
@@ -350,7 +350,7 @@ __
 
 # [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
 
-Owned by **7.3%** of players
+Owned by **7.2%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
@@ -382,7 +382,7 @@ __
 
 # [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
 
-Owned by **4.6%** of players
+Owned by **4.7%** of players
 
 _Unlock all Perks in the Relic Perk tree._
 
@@ -422,7 +422,7 @@ __
 
 # [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" width="96" height="96">
 
-Owned by **2.5%** of players
+Owned by **2.6%** of players
 
 __
 
