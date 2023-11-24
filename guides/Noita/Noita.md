@@ -22,7 +22,7 @@ __
 
 # [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
 
-Owned by **36.0%** of players
+Owned by **35.9%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
 
-Owned by **18.2%** of players
+Owned by **18.1%** of players
 
 __
 
