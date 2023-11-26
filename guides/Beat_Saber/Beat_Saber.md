@@ -86,7 +86,7 @@ _Clear any level with faster song speed modifier._
 
 # [Traveller](achievements/Traveller.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" width="96" height="96">
 
-Owned by **29.8%** of players
+Owned by **29.7%** of players
 
 _Get 100 kilometers travelled hand distance or more._
 
