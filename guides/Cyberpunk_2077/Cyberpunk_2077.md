@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.4%** of players
+Owned by **41.3%** of players
 
 __
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.1%** of players
+Owned by **36.0%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -126,7 +126,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **31.8%** of players
+Owned by **31.9%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.6%** of players
+Owned by **27.5%** of players
 
 __
 
@@ -182,7 +182,7 @@ _Complete all Cyberpsycho Sightings._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **21.5%** of players
+Owned by **21.7%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -308,19 +308,19 @@ _While Berserk cyberware is active, perform a Superhero Landing to kill or incap
 
 ---
 
-# [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
-
-Owned by **9.4%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in City Center._
-
----
-
 # [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
 
 Owned by **9.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Watson._
+
+---
+
+# [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
+
+Owned by **9.3%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ---
 
