@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **37.6%** of players
+Owned by **37.7%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.0%** of players
+Owned by **36.1%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -116,19 +116,19 @@ __
 
 ---
 
+# [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
+
+Owned by **32.0%** of players
+
+_Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
+
+---
+
 # [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
 Owned by **31.9%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
-
----
-
-# [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
-
-Owned by **31.9%** of players
-
-_Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
 ---
 
@@ -164,9 +164,17 @@ _Craft 3 Legendary items._
 
 ---
 
+# [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
+
+Owned by **21.9%** of players
+
+_After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
+
+---
+
 # [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **21.8%** of players
+Owned by **21.9%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -180,14 +188,6 @@ _Complete all Cyberpsycho Sightings._
 
 ---
 
-# [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
-
-Owned by **21.7%** of players
-
-_After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
-
----
-
 # [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" width="96" height="96">
 
 Owned by **21.4%** of players
@@ -198,7 +198,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **21.2%** of players
+Owned by **21.1%** of players
 
 _Reach the max level in any skill._
 
@@ -286,7 +286,7 @@ _Shoot an enemy grenade in midair with a revolver._
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **10.1%** of players
+Owned by **10.2%** of players
 
 _Save President Myers._
 
@@ -294,7 +294,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **10.0%** of players
+Owned by **10.1%** of players
 
 __
 
@@ -382,7 +382,7 @@ __
 
 # [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
 
-Owned by **4.9%** of players
+Owned by **5.0%** of players
 
 _Unlock all Perks in the Relic Perk tree._
 
@@ -398,7 +398,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **3.9%** of players
+Owned by **4.0%** of players
 
 __
 
@@ -454,7 +454,7 @@ __
 
 # [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" width="96" height="96">
 
-Owned by **1.4%** of players
+Owned by **1.5%** of players
 
 __
 
