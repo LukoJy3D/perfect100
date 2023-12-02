@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.1%** of players
+Owned by **56.2%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **44.8%** of players
+Owned by **44.9%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **40.6%** of players
+Owned by **40.7%** of players
 
 _Reach max Street Cred._
 
@@ -118,7 +118,7 @@ __
 
 # [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **32.0%** of players
+Owned by **32.1%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **22.0%** of players
+Owned by **22.2%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -198,7 +198,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **21.1%** of players
+Owned by **21.2%** of players
 
 _Reach the max level in any skill._
 
@@ -382,7 +382,7 @@ __
 
 # [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
 
-Owned by **5.0%** of players
+Owned by **5.1%** of players
 
 _Unlock all Perks in the Relic Perk tree._
 
