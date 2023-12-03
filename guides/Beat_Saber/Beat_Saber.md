@@ -14,7 +14,7 @@ _Clear any level without any modifiers._
 
 # [Pay Attention](achievements/Pay_Attention.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/7412a3bf9be32f8ad14949382586349b16dc77f2.jpg" width="96" height="96">
 
-Owned by **68.3%** of players
+Owned by **68.4%** of players
 
 _Clear any level on normal difficulty and get at least 50 combo without any modifiers._
 
