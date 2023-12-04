@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.8%** of players
+Owned by **53.9%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -118,7 +118,7 @@ __
 
 # [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **32.2%** of players
+Owned by **32.3%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **22.4%** of players
+Owned by **22.6%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -174,7 +174,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 # [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **21.9%** of players
+Owned by **22.0%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -260,6 +260,14 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ---
 
+# [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
+
+Owned by **10.9%** of players
+
+_Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
+
+---
+
 # [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
 
 Owned by **10.8%** of players
@@ -268,17 +276,9 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
-# [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
-
-Owned by **10.8%** of players
-
-_Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
-
----
-
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **10.3%** of players
+Owned by **10.4%** of players
 
 _Save President Myers._
 
@@ -382,7 +382,7 @@ __
 
 # [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
 
-Owned by **5.2%** of players
+Owned by **5.3%** of players
 
 _Unlock all Perks in the Relic Perk tree._
 
