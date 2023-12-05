@@ -54,7 +54,7 @@ __
 
 # [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.5%** of players
+Owned by **47.6%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **44.9%** of players
+Owned by **45.0%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.1%** of players
+Owned by **36.2%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -118,7 +118,7 @@ __
 
 # [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **32.3%** of players
+Owned by **32.4%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **22.6%** of players
+Owned by **22.8%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -182,7 +182,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **21.8%** of players
+Owned by **21.9%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -246,7 +246,7 @@ _Find all fast travel dataterms._
 
 # [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" width="96" height="96">
 
-Owned by **12.9%** of players
+Owned by **13.0%** of players
 
 __
 
@@ -284,19 +284,19 @@ _Save President Myers._
 
 ---
 
+# [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
+
+Owned by **10.3%** of players
+
+__
+
+---
+
 # [Gunslinger](achievements/Gunslinger.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
 
 Owned by **10.3%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
-
----
-
-# [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
-
-Owned by **10.2%** of players
-
-__
 
 ---
 
@@ -374,7 +374,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **5.4%** of players
+Owned by **5.5%** of players
 
 __
 
@@ -398,7 +398,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **4.0%** of players
+Owned by **4.1%** of players
 
 __
 
