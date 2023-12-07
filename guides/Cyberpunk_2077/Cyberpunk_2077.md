@@ -14,7 +14,7 @@ __
 
 # [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.2%** of players
+Owned by **71.1%** of players
 
 __
 
@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.3%** of players
+Owned by **56.2%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.6%** of players
+Owned by **47.5%** of players
 
 __
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.5%** of players
+Owned by **41.4%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **40.8%** of players
+Owned by **40.7%** of players
 
 _Reach max Street Cred._
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **22.9%** of players
+Owned by **22.8%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -238,7 +238,7 @@ __
 
 # [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **14.0%** of players
+Owned by **13.9%** of players
 
 _Find all fast travel dataterms._
 
@@ -246,7 +246,7 @@ _Find all fast travel dataterms._
 
 # [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" width="96" height="96">
 
-Owned by **13.0%** of players
+Owned by **12.9%** of players
 
 __
 
@@ -278,7 +278,7 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **10.5%** of players
+Owned by **10.6%** of players
 
 _Save President Myers._
 
@@ -286,7 +286,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **10.4%** of players
+Owned by **10.5%** of players
 
 __
 
@@ -297,14 +297,6 @@ __
 Owned by **10.3%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
-
----
-
-# [Rough Landing](achievements/Rough_Landing.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" width="96" height="96">
-
-Owned by **9.4%** of players
-
-_While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
 ---
 
@@ -321,6 +313,14 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 Owned by **9.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Watson._
+
+---
+
+# [Rough Landing](achievements/Rough_Landing.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" width="96" height="96">
+
+Owned by **9.3%** of players
+
+_While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
 ---
 
@@ -358,7 +358,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 # [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" width="96" height="96">
 
-Owned by **7.0%** of players
+Owned by **7.1%** of players
 
 _Buy all vehicles available for purchase._
 
