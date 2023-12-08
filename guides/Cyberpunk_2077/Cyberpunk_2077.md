@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.2%** of players
+Owned by **68.1%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.2%** of players
+Owned by **56.1%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.9%** of players
+Owned by **53.8%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.4%** of players
+Owned by **52.3%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **45.0%** of players
+Owned by **44.9%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **37.9%** of players
+Owned by **37.8%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -182,7 +182,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **21.9%** of players
+Owned by **21.8%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -190,7 +190,7 @@ _Complete all Cyberpsycho Sightings._
 
 # [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" width="96" height="96">
 
-Owned by **21.5%** of players
+Owned by **21.4%** of players
 
 _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -198,7 +198,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **21.2%** of players
+Owned by **21.1%** of players
 
 _Reach the max level in any skill._
 
@@ -260,14 +260,6 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ---
 
-# [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
-
-Owned by **10.9%** of players
-
-_Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
-
----
-
 # [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
 
 Owned by **10.8%** of players
@@ -276,9 +268,17 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
+# [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
+
+Owned by **10.8%** of players
+
+_Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
+
+---
+
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **10.6%** of players
+Owned by **10.7%** of players
 
 _Save President Myers._
 
@@ -286,7 +286,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **10.5%** of players
+Owned by **10.6%** of players
 
 __
 
@@ -297,14 +297,6 @@ __
 Owned by **10.3%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
-
----
-
-# [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
-
-Owned by **9.4%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ---
 
@@ -321,6 +313,14 @@ _Complete all gigs and NCPD Scanner Hustles in Watson._
 Owned by **9.3%** of players
 
 _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
+
+---
+
+# [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
+
+Owned by **9.3%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ---
 
@@ -428,19 +428,19 @@ __
 
 ---
 
+# [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
+
+Owned by **2.5%** of players
+
+_Become Dogtown's most wanted criminal._
+
+---
+
 # [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
 
 Owned by **2.4%** of players
 
 _Eliminate three bosses from the "Increased criminal activity" category._
-
----
-
-# [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
-
-Owned by **2.4%** of players
-
-_Become Dogtown's most wanted criminal._
 
 ---
 
