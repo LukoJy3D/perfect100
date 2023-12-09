@@ -14,7 +14,7 @@ __
 
 # [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.1%** of players
+Owned by **71.0%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.5%** of players
+Owned by **47.4%** of players
 
 __
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **37.0%** of players
+Owned by **36.9%** of players
 
 _Complete the main storyline._
 
@@ -118,7 +118,7 @@ __
 
 # [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **32.4%** of players
+Owned by **32.3%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -126,7 +126,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 # [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **32.0%** of players
+Owned by **31.9%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -142,7 +142,7 @@ __
 
 # [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" width="96" height="96">
 
-Owned by **29.4%** of players
+Owned by **29.3%** of players
 
 _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.6%** of players
+Owned by **27.5%** of players
 
 __
 
@@ -222,7 +222,7 @@ __
 
 # [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" width="96" height="96">
 
-Owned by **16.2%** of players
+Owned by **16.1%** of players
 
 __
 
@@ -254,7 +254,7 @@ __
 
 # [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
-Owned by **11.9%** of players
+Owned by **11.8%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -278,7 +278,7 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **10.7%** of players
+Owned by **10.8%** of players
 
 _Save President Myers._
 
@@ -374,7 +374,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **5.5%** of players
+Owned by **5.6%** of players
 
 __
 
