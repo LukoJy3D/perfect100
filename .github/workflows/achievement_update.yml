@@ -16,16 +16,11 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
         with:
           repository: ${{ github.repository }}
           ref: ${{ github.head_ref }}
           fetch-depth: 0
-
-      - name: Lint commit messages
-        uses: wagoid/commitlint-github-action@master
-        with:
-          configFile: .github/commitlint.config.js
 
       - name: Run Script
         run: go run main.go achievements
