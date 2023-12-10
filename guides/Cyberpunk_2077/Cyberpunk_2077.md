@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.8%** of players
+Owned by **53.7%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.4%** of players
+Owned by **41.3%** of players
 
 __
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **37.8%** of players
+Owned by **37.9%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -110,7 +110,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.4%** of players
+Owned by **33.3%** of players
 
 __
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **30.6%** of players
+Owned by **30.5%** of players
 
 __
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **22.8%** of players
+Owned by **22.7%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -206,7 +206,7 @@ _Reach the max level in any skill._
 
 # [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **18.2%** of players
+Owned by **18.1%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -214,7 +214,7 @@ _Collect all items that once belonged to Johnny Silverhand._
 
 # [The Star](achievements/The_Star.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg" width="96" height="96">
 
-Owned by **17.7%** of players
+Owned by **17.6%** of players
 
 __
 
@@ -260,6 +260,14 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ---
 
+# [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
+
+Owned by **10.9%** of players
+
+_Save President Myers._
+
+---
+
 # [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
 
 Owned by **10.8%** of players
@@ -276,17 +284,9 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 ---
 
-# [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
-
-Owned by **10.8%** of players
-
-_Save President Myers._
-
----
-
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **10.6%** of players
+Owned by **10.7%** of players
 
 __
 
@@ -390,7 +390,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
-Owned by **4.4%** of players
+Owned by **4.5%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
