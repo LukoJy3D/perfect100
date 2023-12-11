@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.3%** of players
+Owned by **52.2%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **40.7%** of players
+Owned by **40.6%** of players
 
 _Reach max Street Cred._
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.2%** of players
+Owned by **36.3%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -238,7 +238,7 @@ __
 
 # [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **13.9%** of players
+Owned by **13.8%** of players
 
 _Find all fast travel dataterms._
 
@@ -262,7 +262,7 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **10.9%** of players
+Owned by **11.0%** of players
 
 _Save President Myers._
 
@@ -286,7 +286,7 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **10.7%** of players
+Owned by **10.8%** of players
 
 __
 
@@ -342,7 +342,7 @@ _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 # [The Devil](achievements/The_Devil.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" width="96" height="96">
 
-Owned by **7.8%** of players
+Owned by **7.7%** of players
 
 __
 
@@ -366,7 +366,7 @@ _Buy all vehicles available for purchase._
 
 # [Daemon In The Shell](achievements/Daemon_In_The_Shell.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg" width="96" height="96">
 
-Owned by **6.3%** of players
+Owned by **6.2%** of players
 
 _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
@@ -382,7 +382,7 @@ __
 
 # [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
 
-Owned by **5.3%** of players
+Owned by **5.4%** of players
 
 _Unlock all Perks in the Relic Perk tree._
 
@@ -398,7 +398,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **4.1%** of players
+Owned by **4.2%** of players
 
 __
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 # [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **2.8%** of players
+Owned by **2.9%** of players
 
 __
 
@@ -422,9 +422,17 @@ __
 
 # [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" width="96" height="96">
 
-Owned by **2.7%** of players
+Owned by **2.8%** of players
 
 __
+
+---
+
+# [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
+
+Owned by **2.5%** of players
+
+_Eliminate three bosses from the "Increased criminal activity" category._
 
 ---
 
@@ -433,14 +441,6 @@ __
 Owned by **2.5%** of players
 
 _Become Dogtown's most wanted criminal._
-
----
-
-# [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
-
-Owned by **2.4%** of players
-
-_Eliminate three bosses from the "Increased criminal activity" category._
 
 ---
 
