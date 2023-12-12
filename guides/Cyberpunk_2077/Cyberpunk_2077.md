@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **36.9%** of players
+Owned by **36.8%** of players
 
 _Complete the main storyline._
 
@@ -268,6 +268,14 @@ _Save President Myers._
 
 ---
 
+# [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
+
+Owned by **10.9%** of players
+
+__
+
+---
+
 # [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
 
 Owned by **10.8%** of players
@@ -284,27 +292,11 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 ---
 
-# [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
-
-Owned by **10.8%** of players
-
-__
-
----
-
 # [Gunslinger](achievements/Gunslinger.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
 
-Owned by **10.3%** of players
+Owned by **10.2%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
-
----
-
-# [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
-
-Owned by **9.4%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ---
 
@@ -324,6 +316,14 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ---
 
+# [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
+
+Owned by **9.3%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in Watson._
+
+---
+
 # [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
 
 Owned by **8.5%** of players
@@ -334,7 +334,7 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 # [Little Tokyo](achievements/Little_Tokyo.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" width="96" height="96">
 
-Owned by **8.0%** of players
+Owned by **7.9%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
@@ -374,7 +374,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **5.6%** of players
+Owned by **5.7%** of players
 
 __
 
@@ -406,7 +406,7 @@ __
 
 # [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **3.8%** of players
+Owned by **3.9%** of players
 
 _Complete every Gig in Dogtown._
 
@@ -446,7 +446,7 @@ _Become Dogtown's most wanted criminal._
 
 # [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" width="96" height="96">
 
-Owned by **2.3%** of players
+Owned by **2.4%** of players
 
 __
 
