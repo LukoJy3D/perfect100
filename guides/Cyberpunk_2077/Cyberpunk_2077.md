@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.1%** of players
+Owned by **56.0%** of players
 
 __
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.3%** of players
+Owned by **36.4%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -158,7 +158,7 @@ __
 
 # [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **26.9%** of players
+Owned by **27.0%** of players
 
 _Craft 3 Legendary items._
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **22.7%** of players
+Owned by **22.6%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -174,7 +174,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 # [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **22.0%** of players
+Owned by **22.1%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -262,7 +262,7 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **11.0%** of players
+Owned by **11.1%** of players
 
 _Save President Myers._
 
@@ -276,19 +276,19 @@ __
 
 ---
 
-# [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
-
-Owned by **10.8%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in Heywood._
-
----
-
 # [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
 
 Owned by **10.8%** of players
 
 _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
+
+---
+
+# [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
+
+Owned by **10.7%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
@@ -454,7 +454,7 @@ __
 
 # [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" width="96" height="96">
 
-Owned by **1.5%** of players
+Owned by **1.6%** of players
 
 __
 
