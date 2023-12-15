@@ -14,7 +14,7 @@ __
 
 # [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.0%** of players
+Owned by **71.1%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.7%** of players
+Owned by **53.8%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **44.9%** of players
+Owned by **45.0%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **36.8%** of players
+Owned by **36.9%** of players
 
 _Complete the main storyline._
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.4%** of players
+Owned by **36.5%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -126,7 +126,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 # [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **31.9%** of players
+Owned by **32.0%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -182,7 +182,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **21.8%** of players
+Owned by **21.9%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -270,7 +270,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **11.0%** of players
+Owned by **11.1%** of players
 
 __
 
@@ -390,7 +390,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
@@ -398,7 +398,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **4.2%** of players
+Owned by **4.3%** of players
 
 __
 
@@ -428,19 +428,19 @@ __
 
 ---
 
+# [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
+
+Owned by **2.6%** of players
+
+_Become Dogtown's most wanted criminal._
+
+---
+
 # [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
 
 Owned by **2.5%** of players
 
 _Eliminate three bosses from the "Increased criminal activity" category._
-
----
-
-# [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
-
-Owned by **2.5%** of players
-
-_Become Dogtown's most wanted criminal._
 
 ---
 
