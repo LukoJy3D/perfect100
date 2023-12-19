@@ -4,7 +4,7 @@ title: The Quick and the Dead
 parent: Cyberpunk 2077
 ---
 
-# The Quick and the Dead (22.2%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
+# The Quick and the Dead (22.3%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
