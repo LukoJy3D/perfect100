@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.4%** of players
+Owned by **52.5%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.5%** of players
+Owned by **47.6%** of players
 
 __
 
@@ -110,7 +110,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.4%** of players
+Owned by **33.5%** of players
 
 __
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **30.6%** of players
+Owned by **30.7%** of players
 
 __
 
@@ -270,7 +270,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **11.3%** of players
+Owned by **11.4%** of players
 
 __
 
@@ -446,7 +446,7 @@ _Become Dogtown's most wanted criminal._
 
 # [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" width="96" height="96">
 
-Owned by **2.4%** of players
+Owned by **2.5%** of players
 
 __
 
