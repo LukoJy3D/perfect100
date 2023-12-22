@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **45.2%** of players
+Owned by **45.3%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.7%** of players
+Owned by **36.8%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -174,7 +174,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 # [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **22.3%** of players
+Owned by **22.4%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -182,7 +182,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **22.0%** of players
+Owned by **22.1%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -198,7 +198,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **21.1%** of players
+Owned by **21.2%** of players
 
 _Reach the max level in any skill._
 
@@ -270,7 +270,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **11.4%** of players
+Owned by **11.5%** of players
 
 __
 
@@ -300,6 +300,14 @@ _Shoot an enemy grenade in midair with a revolver._
 
 ---
 
+# [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
+
+Owned by **9.4%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in City Center._
+
+---
+
 # [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
 
 Owned by **9.4%** of players
@@ -313,14 +321,6 @@ _Complete all gigs and NCPD Scanner Hustles in Watson._
 Owned by **9.3%** of players
 
 _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
-
----
-
-# [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
-
-Owned by **9.3%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ---
 
@@ -358,7 +358,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 # [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" width="96" height="96">
 
-Owned by **7.1%** of players
+Owned by **7.2%** of players
 
 _Buy all vehicles available for purchase._
 
@@ -374,7 +374,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **5.9%** of players
+Owned by **6.0%** of players
 
 __
 
@@ -390,7 +390,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
-Owned by **4.7%** of players
+Owned by **4.8%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
