@@ -22,7 +22,7 @@ _Clear any level on normal difficulty and get at least 50 combo without any modi
 
 # [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" width="96" height="96">
 
-Owned by **62.6%** of players
+Owned by **62.5%** of players
 
 _Get total 10 000 good cuts or more._
 
@@ -46,7 +46,7 @@ _Clear any level on hard difficulty and get at least 100 combo without any modif
 
 # [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="96" height="96">
 
-Owned by **46.8%** of players
+Owned by **46.7%** of players
 
 _Clear any level on expert difficulty without any modifiers._
 
@@ -94,7 +94,7 @@ _Get 100 kilometers travelled hand distance or more._
 
 # [Memory](achievements/Memory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" width="96" height="96">
 
-Owned by **25.6%** of players
+Owned by **25.5%** of players
 
 _Clear any level with disappearing arrows modifier._
 

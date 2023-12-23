@@ -4,7 +4,7 @@ title: Expert
 parent: Beat Saber
 ---
 
-# Expert (46.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="96" height="96">
+# Expert (46.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="96" height="96">
 
 _Clear any level on expert difficulty without any modifiers._
 
