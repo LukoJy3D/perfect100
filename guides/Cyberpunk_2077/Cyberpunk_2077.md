@@ -14,7 +14,7 @@ __
 
 # [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.1%** of players
+Owned by **71.0%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.9%** of players
+Owned by **53.8%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.5%** of players
+Owned by **41.4%** of players
 
 __
 
@@ -102,7 +102,7 @@ _Complete the main storyline._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.7%** of players
+Owned by **36.8%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -126,7 +126,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 # [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **32.1%** of players
+Owned by **32.0%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **30.7%** of players
+Owned by **30.6%** of players
 
 __
 
@@ -206,7 +206,7 @@ _Reach the max level in any skill._
 
 # [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **18.2%** of players
+Owned by **18.1%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -230,7 +230,7 @@ __
 
 # [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
 
-Owned by **15.2%** of players
+Owned by **15.1%** of players
 
 __
 
@@ -294,17 +294,9 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 # [Gunslinger](achievements/Gunslinger.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
 
-Owned by **10.3%** of players
+Owned by **10.2%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
-
----
-
-# [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
-
-Owned by **9.4%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ---
 
@@ -313,6 +305,14 @@ _Complete all gigs and NCPD Scanner Hustles in Watson._
 Owned by **9.3%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in City Center._
+
+---
+
+# [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
+
+Owned by **9.3%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ---
 
@@ -342,7 +342,7 @@ _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 # [The Devil](achievements/The_Devil.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" width="96" height="96">
 
-Owned by **7.8%** of players
+Owned by **7.7%** of players
 
 __
 
@@ -358,7 +358,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 # [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" width="96" height="96">
 
-Owned by **7.2%** of players
+Owned by **7.1%** of players
 
 _Buy all vehicles available for purchase._
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 # [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **3.0%** of players
+Owned by **3.1%** of players
 
 __
 
