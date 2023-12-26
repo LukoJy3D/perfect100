@@ -46,7 +46,7 @@ __
 
 # [Reached Temple of the Art](achievements/Reached_Temple_of_the_Art.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" width="96" height="96">
 
-Owned by **13.3%** of players
+Owned by **13.2%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # [Gathered All The Knowledge](achievements/Gathered_All_The_Knowledge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" width="96" height="96">
 
-Owned by **2.2%** of players
+Owned by **2.1%** of players
 
 __
 

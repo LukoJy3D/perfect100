@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.2%** of players
+Owned by **68.1%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.2%** of players
+Owned by **56.1%** of players
 
 __
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.4%** of players
+Owned by **52.3%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.5%** of players
+Owned by **47.4%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **45.2%** of players
+Owned by **45.1%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **40.9%** of players
+Owned by **40.8%** of players
 
 _Reach max Street Cred._
 
@@ -142,7 +142,7 @@ __
 
 # [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" width="96" height="96">
 
-Owned by **29.4%** of players
+Owned by **29.3%** of players
 
 _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.6%** of players
+Owned by **27.5%** of players
 
 __
 
@@ -252,6 +252,14 @@ __
 
 ---
 
+# [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
+
+Owned by **11.9%** of players
+
+_Save President Myers._
+
+---
+
 # [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
 Owned by **11.8%** of players
@@ -260,17 +268,9 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ---
 
-# [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
-
-Owned by **11.8%** of players
-
-_Save President Myers._
-
----
-
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **11.6%** of players
+Owned by **11.7%** of players
 
 __
 
@@ -326,7 +326,7 @@ _While Berserk cyberware is active, perform a Superhero Landing to kill or incap
 
 # [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
 
-Owned by **8.5%** of players
+Owned by **8.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
@@ -366,7 +366,7 @@ _Buy all vehicles available for purchase._
 
 # [Daemon In The Shell](achievements/Daemon_In_The_Shell.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg" width="96" height="96">
 
-Owned by **6.3%** of players
+Owned by **6.2%** of players
 
 _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
@@ -374,7 +374,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **6.0%** of players
+Owned by **6.1%** of players
 
 __
 
@@ -406,7 +406,7 @@ __
 
 # [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **4.1%** of players
+Owned by **4.2%** of players
 
 _Complete every Gig in Dogtown._
 
@@ -422,9 +422,17 @@ __
 
 # [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" width="96" height="96">
 
-Owned by **2.9%** of players
+Owned by **3.0%** of players
 
 __
+
+---
+
+# [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
+
+Owned by **2.7%** of players
+
+_Eliminate three bosses from the "Increased criminal activity" category._
 
 ---
 
@@ -433,14 +441,6 @@ __
 Owned by **2.7%** of players
 
 _Become Dogtown's most wanted criminal._
-
----
-
-# [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
-
-Owned by **2.6%** of players
-
-_Eliminate three bosses from the "Increased criminal activity" category._
 
 ---
 
