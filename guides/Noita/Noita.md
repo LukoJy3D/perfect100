@@ -30,7 +30,7 @@ __
 
 # [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" width="96" height="96">
 
-Owned by **22.0%** of players
+Owned by **21.9%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # [Victory](achievements/Victory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" width="96" height="96">
 
-Owned by **9.8%** of players
+Owned by **9.7%** of players
 
 _Victory_
 

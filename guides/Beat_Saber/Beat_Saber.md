@@ -62,7 +62,7 @@ _Finish the tutorial._
 
 # [Special](achievements/Special.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f005c82f4be0b1385a9d6e4eac84d92d5d7fd85c.jpg" width="96" height="96">
 
-Owned by **33.1%** of players
+Owned by **33.0%** of players
 
 _Get at least rank S on any level on hard difficulty without any modifiers._
 
@@ -86,7 +86,7 @@ _Clear any level with faster song speed modifier._
 
 # [Traveller](achievements/Traveller.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" width="96" height="96">
 
-Owned by **29.7%** of players
+Owned by **29.6%** of players
 
 _Get 100 kilometers travelled hand distance or more._
 
@@ -110,7 +110,7 @@ _Clear any level on expert difficulty and get at least 500 combo without any mod
 
 # [Supreme](achievements/Supreme.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" width="96" height="96">
 
-Owned by **13.0%** of players
+Owned by **12.9%** of players
 
 _Get full combo on any level on expert difficulty without any modifiers._
 
