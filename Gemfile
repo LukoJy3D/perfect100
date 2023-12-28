@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'jemoji'
+gem 'gemoji', '4.1.0'

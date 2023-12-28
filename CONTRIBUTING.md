@@ -65,25 +65,19 @@ git push
 
 You can now create a pull request on the GitHub webpage of your repository. As we like polished Steam profiles, we also like neat Pull Requests and Issues! So we have a few requirements:
 
-1. Use proper commit names (according to [requirements](.github/commitlint.config.js)):
+1. Use proper commit names, based on [Conventional Commits specification](https://www.conventionalcommits.org):
+```
+ <type>[optional scope]: <description>
+```
+Examples:
 
-- type is one of `games`, `guides`, `multi`, `tools`
-- the subject is always Sentence-cased
-- Examples when editing games.json
-  - games: Add "Among Us"
-- Examples when adding guides
-  - guides: Create 'Cyberpunk 2077' 'Legends of the afterlife'
-  - guides: Create all 'MultiVersus' achievement guides
-- Examples when changing multiple categories
-  - multi: Add 'Lost Ark' and change the readme
-  - multi: Add 'Fall Guys' guides and update commitlint config
-- Examples when changing scripts, readme, workflows, etc.
-  - tools: Improve commitlint workflow
-  - tools: Make golang more dynamic
+`feat(games): add 'Among Us'`
+
+`feat(guides): create 'Cyberpunk 2077' 'Legends of the afterlife'`
+
+`fix(Cyberpunk2077): typo 'Legends of the afterlife'`
 
 2. Let's do quality over quantity! It's always better to take time and make clear, informative, and structured guides instead of confusing wallpaper-length paragraphs or simple lazy one-liners.
-
-3. Use one commit per PR. Some functionalities depend on it, so if needed - squash those commits or even try using the --amend flag when committing. It's a very handy thing to learn!
 
 ### 7. Create an issue
 
