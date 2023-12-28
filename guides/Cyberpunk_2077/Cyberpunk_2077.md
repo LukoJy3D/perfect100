@@ -198,7 +198,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 # [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **21.1%** of players
+Owned by **21.0%** of players
 
 _Reach the max level in any skill._
 
@@ -254,7 +254,7 @@ __
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **11.9%** of players
+Owned by **12.0%** of players
 
 _Save President Myers._
 
