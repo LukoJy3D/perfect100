@@ -110,7 +110,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.4%** of players
+Owned by **33.3%** of players
 
 __
 
@@ -118,7 +118,7 @@ __
 
 # [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **32.5%** of players
+Owned by **32.6%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -238,7 +238,7 @@ __
 
 # [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **13.7%** of players
+Owned by **13.6%** of players
 
 _Find all fast travel dataterms._
 
@@ -262,7 +262,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **11.8%** of players
+Owned by **11.9%** of players
 
 __
 
@@ -374,7 +374,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **6.1%** of players
+Owned by **6.2%** of players
 
 __
 
@@ -398,7 +398,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 __
 
@@ -428,6 +428,14 @@ __
 
 ---
 
+# [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
+
+Owned by **2.8%** of players
+
+_Become Dogtown's most wanted criminal._
+
+---
+
 # [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
 
 Owned by **2.7%** of players
@@ -436,17 +444,9 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 ---
 
-# [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
-
-Owned by **2.7%** of players
-
-_Become Dogtown's most wanted criminal._
-
----
-
 # [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" width="96" height="96">
 
-Owned by **2.5%** of players
+Owned by **2.6%** of players
 
 __
 

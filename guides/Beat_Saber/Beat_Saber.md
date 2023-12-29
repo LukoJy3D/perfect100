@@ -150,7 +150,7 @@ _Clear any level with One Life modifier._
 
 # [Flawless](achievements/Flawless.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e11d8f04cb9f2fbd8ec79a5218fc3a407aefacd9.jpg" width="96" height="96">
 
-Owned by **7.5%** of players
+Owned by **7.4%** of players
 
 _Get rank SS on any level on expert difficulty without any modifiers._
 
