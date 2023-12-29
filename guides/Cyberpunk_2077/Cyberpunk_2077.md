@@ -6,7 +6,7 @@ has_children: true
 
 # [The Fool](achievements/The_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg" width="96" height="96">
 
-Owned by **89.7%** of players
+Owned by **89.6%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.8%** of players
+Owned by **53.7%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -254,7 +254,7 @@ __
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **12.0%** of players
+Owned by **12.1%** of players
 
 _Save President Myers._
 
