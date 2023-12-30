@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
       - name: Checkout
@@ -21,8 +22,21 @@ jobs:
       - name: Run Script
         run: go run main.go achievements
 
-      - name: Commit all changed files back to the repository
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v5
         with:
-          commit_message: "docs: achievement guide update by github actions [bot]"
-          branch: "main"
+          commit-message: 'docs: achievement guide update by github actions [bot]'
+          title: 'docs: achievement guide update by github actions [bot]'
+          base: main
+          branch: fix/scheduled_guide_update
+          delete-branch: true
+
+      - name: Merge Pull Request
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          method: squash
+          number: ${{ steps.cpr.outputs.pull-request-number }}
+          repo: lukojy3d/perfect100
