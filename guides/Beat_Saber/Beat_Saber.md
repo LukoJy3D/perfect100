@@ -102,7 +102,7 @@ _Clear any level with disappearing arrows modifier._
 
 # [Focus](achievements/Focus.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" width="96" height="96">
 
-Owned by **13.4%** of players
+Owned by **13.3%** of players
 
 _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
