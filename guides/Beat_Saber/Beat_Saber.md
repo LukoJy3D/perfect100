@@ -22,7 +22,7 @@ _Clear any level on normal difficulty and get at least 50 combo without any modi
 
 # [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" width="96" height="96">
 
-Owned by **62.5%** of players
+Owned by **62.4%** of players
 
 _Get total 10 000 good cuts or more._
 
@@ -46,7 +46,7 @@ _Clear any level on hard difficulty and get at least 100 combo without any modif
 
 # [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="96" height="96">
 
-Owned by **46.7%** of players
+Owned by **46.6%** of players
 
 _Clear any level on expert difficulty without any modifiers._
 
