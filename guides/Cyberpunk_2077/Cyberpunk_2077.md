@@ -54,7 +54,7 @@ __
 
 # [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.3%** of players
+Owned by **47.4%** of players
 
 __
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.3%** of players
+Owned by **41.4%** of players
 
 __
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **36.9%** of players
+Owned by **37.0%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -254,7 +254,7 @@ __
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **12.3%** of players
+Owned by **12.4%** of players
 
 _Save President Myers._
 
@@ -262,7 +262,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **12.1%** of players
+Owned by **12.2%** of players
 
 __
 
@@ -428,19 +428,19 @@ __
 
 ---
 
+# [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
+
+Owned by **2.8%** of players
+
+_Eliminate three bosses from the "Increased criminal activity" category._
+
+---
+
 # [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
 
 Owned by **2.8%** of players
 
 _Become Dogtown's most wanted criminal._
-
----
-
-# [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
-
-Owned by **2.7%** of players
-
-_Eliminate three bosses from the "Increased criminal activity" category._
 
 ---
 
