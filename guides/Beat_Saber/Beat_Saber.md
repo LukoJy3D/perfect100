@@ -6,7 +6,7 @@ has_children: true
 
 # [Pure](achievements/Pure.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="96" height="96">
 
-Owned by **81.2%** of players
+Owned by **81.3%** of players
 
 _Clear any level without any modifiers._
 
@@ -22,7 +22,7 @@ _Clear any level on normal difficulty and get at least 50 combo without any modi
 
 # [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" width="96" height="96">
 
-Owned by **62.5%** of players
+Owned by **62.4%** of players
 
 _Get total 10 000 good cuts or more._
 
@@ -70,7 +70,7 @@ _Get at least rank S on any level on hard difficulty without any modifiers._
 
 # [Warm-up](achievements/Warm_up.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" width="96" height="96">
 
-Owned by **31.7%** of players
+Owned by **31.6%** of players
 
 _Clear 100 levels or more._
 
