@@ -206,7 +206,7 @@ _Get full combo on at least 15 different levels on hard difficulty (solo free pl
 
 # [No Mistakes](achievements/No_Mistakes.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/071a27bff15d1f2a87461b29b7052ca4ace32586.jpg" width="96" height="96">
 
-Owned by **1.8%** of players
+Owned by **1.7%** of players
 
 _Get full combo on at least 15 different levels on expert difficulty (solo free play only)._
 
