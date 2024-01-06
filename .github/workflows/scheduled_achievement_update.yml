@@ -2,7 +2,7 @@ name: Scheduled achievement guide update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 6,0'
 
 jobs:
   build:
@@ -31,6 +31,13 @@ jobs:
           base: main
           branch: fix/scheduled_guide_update
           delete-branch: true
+
+      - name: Approve Pull Request
+        uses: juliangruber/approve-pull-request-action@v2
+        with:
+          github-token: ${{ secrets.PAT }}
+          number: ${{ steps.cpr.outputs.pull-request-number }}
+          repo: lukojy3d/perfect100
 
       - name: Merge Pull Request
         if: ${{ steps.cpr.outputs.pull-request-number }}
