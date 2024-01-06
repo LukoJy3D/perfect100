@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.1%** of players
+Owned by **68.2%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.7%** of players
+Owned by **53.8%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **45.2%** of players
+Owned by **45.3%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **40.8%** of players
+Owned by **40.9%** of players
 
 _Reach max Street Cred._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **37.0%** of players
+Owned by **37.1%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 # [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.3%** of players
+Owned by **33.4%** of players
 
 __
 
@@ -158,7 +158,7 @@ __
 
 # [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **27.4%** of players
+Owned by **27.5%** of players
 
 _Craft 3 Legendary items._
 
@@ -166,7 +166,7 @@ _Craft 3 Legendary items._
 
 # [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **22.5%** of players
+Owned by **22.6%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -206,7 +206,7 @@ _Reach the max level in any skill._
 
 # [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **18.0%** of players
+Owned by **18.1%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -222,7 +222,7 @@ __
 
 # [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" width="96" height="96">
 
-Owned by **16.1%** of players
+Owned by **16.2%** of players
 
 __
 
@@ -254,7 +254,7 @@ __
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **12.5%** of players
+Owned by **12.6%** of players
 
 _Save President Myers._
 
@@ -262,7 +262,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **12.3%** of players
+Owned by **12.4%** of players
 
 __
 
@@ -398,7 +398,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **4.7%** of players
+Owned by **4.8%** of players
 
 __
 
