@@ -4,7 +4,7 @@ title: Gun Fu
 parent: Cyberpunk 2077
 ---
 
-# Gun Fu (32.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
+# Gun Fu (32.9%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
