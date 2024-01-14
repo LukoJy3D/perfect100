@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.3%** of players
+Owned by **56.4%** of players
 
 __
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.5%** of players
+Owned by **52.6%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **45.5%** of players
+Owned by **45.6%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -102,7 +102,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **36.9%** of players
+Owned by **37.0%** of players
 
 _Complete the main storyline._
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 # [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.5%** of players
+Owned by **33.6%** of players
 
 __
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **30.7%** of players
+Owned by **30.8%** of players
 
 __
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **27.7%** of players
+Owned by **27.8%** of players
 
 _Craft 3 Legendary items._
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 # [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.6%** of players
+Owned by **27.7%** of players
 
 __
 
@@ -190,7 +190,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 # [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" width="96" height="96">
 
-Owned by **21.5%** of players
+Owned by **21.6%** of players
 
 _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -230,7 +230,7 @@ __
 
 # [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
 
-Owned by **15.2%** of players
+Owned by **15.3%** of players
 
 __
 
@@ -246,7 +246,7 @@ _Find all fast travel dataterms._
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **12.9%** of players
+Owned by **13.0%** of players
 
 _Save President Myers._
 
@@ -348,19 +348,19 @@ __
 
 ---
 
+# [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" width="96" height="96">
+
+Owned by **7.3%** of players
+
+_Buy all vehicles available for purchase._
+
+---
+
 # [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
 
 Owned by **7.2%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in the Badlands._
-
----
-
-# [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" width="96" height="96">
-
-Owned by **7.2%** of players
-
-_Buy all vehicles available for purchase._
 
 ---
 
@@ -398,7 +398,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **4.9%** of players
+Owned by **5.0%** of players
 
 __
 
@@ -406,7 +406,7 @@ __
 
 # [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 _Complete every Gig in Dogtown._
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 # [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **3.3%** of players
+Owned by **3.4%** of players
 
 __
 
