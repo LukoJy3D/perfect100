@@ -7,6 +7,7 @@ on:
       - '.utils/achievements.go'
       - 'games.yml'
       - 'main.go'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,6 +22,12 @@ jobs:
           repository: ${{ github.repository }}
           ref: ${{ github.head_ref }}
           fetch-depth: 0
+
+      - name: Configure Cmake
+        uses: threeal/cmake-action@v1.3.0
+      
+      #- name: Build Project
+      #  run: cmake --build . --parallel
 
       - name: Run Script
         run: go run main.go achievements

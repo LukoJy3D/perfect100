@@ -1,11 +1,10 @@
 # Contributing
 
-We welcome any contributions and are willing to help you get that 100% completion, making our project and your gaming experience better.
+We welcome any contributions and are willing to help you get that 100% completion, making the project and your gaming experience better.
 
 ## Contribution Guide
 
 Follow the steps below to contribute to the main repository via pull request. You can learn about the details of pull requests [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
-
 
 ### 1. Fork the Official Repository
 
@@ -27,27 +26,24 @@ git checkout -b <NEW-BRANCH-NAME>
 
 ### 3. Running guide generation (local development)
 
-1. Set up Golang depending on your platform.
-2. Add game title and id in [games.json](games.json). Example
-```json
-...
-    {
-      "id": "1091500",
-      "name": "Cyberpunk 2077"
-    }
-...
+1. Set up Golang, make, and other dependencies based on your platform.
+2. Add game id and title in [games.yml](games.yml). Example
+
+```yml
+- id: "620980" #Beat Saber
 ```
-_You can find the Game ID on the Steam store page or steamdb.info_
-3. Do `go run main.go`.
-4. Script will populate the achievement list and guide folder contents after a script successfully runs.
+
+_You can find the Game ID on the Steam store page or steamdb.info_ 
+
+3. Do `go run main.go achievements`. 4. The script will populate the achievement list and guide folder contents after a script successfully runs.
 
 ### 4. Making changes without local setup
 
-Most parts of the process are automated by GitHub action to keep all information more structured. 
+Most parts of the process are automated by GitHub action to keep all information more structured.
 
-Sometimes there is no need to run Golang or set up ai on your local environment as you want to add a couple of game guides for existing games in which guide files are already generated. Adding a new game can be done with the following workflow:
+Sometimes, there is no need to run Golang or set up AI in your local environment as you want to add a couple of game guides for existing games in which guide files are already generated. Adding a new game can be done with the following workflow:
 
-1. Add game id and name to [games.json](/games.json). (You can find the game id on the Steam store page URL or steamdb.info).
+1. Add game id and name to [games.yml](/games.yml). (You can find the game id on the Steam store page URL or steamdb.info).
 2. Commit your changes and open a pull request.
 3. Wait for GitHub actions to do the rest (it will generate an achievement list, achievement guides by completely inaccurate AI, and stats of players)
 
@@ -63,12 +59,14 @@ git push
 
 ### 6. Open a Pull Request
 
-You can now create a pull request on the GitHub webpage of your repository. As we like polished Steam profiles, we also like neat Pull Requests and Issues! So we have a few requirements:
+You can now create a pull request on your repository. As we like polished Steam profiles, we also like neat Pull Requests and Issues! So we have a few requirements:
 
-1. Use proper commit names, based on [Conventional Commits specification](https://www.conventionalcommits.org):
+Use proper commit names based on [Conventional Commits specification](https://www.conventionalcommits.org):
+
 ```
- <type>[optional scope]: <description>
+<type>(optional scope): <description>
 ```
+
 Examples:
 
 `feat(games): add 'Among Us'`
@@ -77,7 +75,7 @@ Examples:
 
 `fix(Cyberpunk2077): typo 'Legends of the afterlife'`
 
-2. Let's do quality over quantity! It's always better to take time and make clear, informative, and structured guides instead of confusing wallpaper-length paragraphs or simple lazy one-liners.
+Let's do quality over quantity! It's always better to take time and make clear, informative, and structured guides instead of confusing wallpaper-length paragraphs or simple, lazy one-liners.
 
 ### 7. Create an issue
 

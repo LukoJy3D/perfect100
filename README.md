@@ -1,21 +1,21 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-[![pages-build-deployment](https://github.com/LukoJy3D/perfect100/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LukoJy3D/perfect100/actions/workflows/pages/pages-build-deployment) 
+[![pages-build-deployment](https://github.com/LukoJy3D/perfect100/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LukoJy3D/perfect100/actions/workflows/pages/pages-build-deployment)
 [![Go Report Card](https://goreportcard.com/badge/github.com/LukoJy3D/perfect100)](https://goreportcard.com/report/github.com/LukoJy3D/perfect100)
 [![Star on GitHub](https://img.shields.io/github/stars/LukoJy3D/perfect100.svg?style=social)](https://github.com/LukoJy3D/perfect100/stargazers)
 
 # Perfect100
-Repo is for those crazy achievement hunters who love going for that 100%. After that grinding completion, nothing better than sharing the knowledge with others!
-Feel free to contribute, make feature/guide requests, and ask for help with hard achievements. This repo is and probably will always be a work-in-progress type of thing for me, so I hope we will find more minds alike :]
 
-Read guides on [Github Pages](https://lukojy3d.github.io/perfect100/)
+Repo is for those crazy achievement hunters who love going for that 100%. After that grinding completion, there is nothing better than sharing the knowledge with others!
+Feel free to contribute, make feature/guide requests, and ask for help with challenging achievements. This repo is and probably will always be a work-in-progress type of thing for me, so I hope we will find more minds alike :]
 
-## Contributing
+Find guides under /guides/<name of the game>/achivements/<name of the achievement>
 
-You may help by participating in the following ways:
-1. [Leaving a Star ⭐](https://github.com/lukojy3d/perfect100/stargazers) to show your like and support.
-2. Posting an issue or submitting a Pull Request by following [Contributing](https://github.com/LukoJy3D/perfect100/blob/main/CONTRIBUTING.md) guidelines.
+Read guides more conveniently on [Github Pages](https://lukojy3d.github.io/perfect100/)
 
-## List of available guides
-- [Beat Saber](Beat_Saber/Beat_Saber.md)
-- [Cyberpunk 2077](Cyberpunk_2077/Cyberpunk_2077.md)
-- [Noita](Noita/Noita.md)
+## Ways to contribute
+
+1. Add game ID to [games.yml](games.yml). Github actions will do the rest of the templating and some silly AI content.
+2. Add missing guides where it says `Add guide here`.
+3. Post an issue with a request for new guides or improvements on existing ones.
+
+Take a look at full [Contributing](https://github.com/LukoJy3D/perfect100/blob/main/CONTRIBUTING.md) guidelines.
