@@ -6,7 +6,7 @@ has_children: true
 
 # [Reached Coal Pits](achievements/Reached_Coal_Pits.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
 
-Owned by **70.1%** of players
+Owned by **70.2%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # [Victory](achievements/Victory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" width="96" height="96">
 
-Owned by **9.7%** of players
+Owned by **9.8%** of players
 
 _Victory_
 
