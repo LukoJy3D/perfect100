@@ -174,7 +174,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **22.4%** of players
+Owned by **22.5%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -190,7 +190,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 # [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" width="96" height="96">
 
-Owned by **21.6%** of players
+Owned by **21.7%** of players
 
 _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -222,7 +222,7 @@ __
 
 # [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" width="96" height="96">
 
-Owned by **16.3%** of players
+Owned by **16.4%** of players
 
 __
 
@@ -230,7 +230,7 @@ __
 
 # [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
 
-Owned by **15.3%** of players
+Owned by **15.4%** of players
 
 __
 
@@ -262,7 +262,7 @@ __
 
 # [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" width="96" height="96">
 
-Owned by **12.9%** of players
+Owned by **13.0%** of players
 
 __
 
@@ -294,7 +294,7 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 # [Gunslinger](achievements/Gunslinger.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
 
-Owned by **10.2%** of players
+Owned by **10.3%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
 
@@ -302,7 +302,7 @@ _Shoot an enemy grenade in midair with a revolver._
 
 # [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" width="96" height="96">
 
-Owned by **9.3%** of players
+Owned by **9.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in City Center._
 
@@ -310,7 +310,7 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 
 # [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" width="96" height="96">
 
-Owned by **9.3%** of players
+Owned by **9.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Watson._
 
@@ -348,19 +348,19 @@ __
 
 ---
 
+# [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
+
+Owned by **7.3%** of players
+
+_Complete all gigs and NCPD Scanner Hustles in the Badlands._
+
+---
+
 # [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" width="96" height="96">
 
 Owned by **7.3%** of players
 
 _Buy all vehicles available for purchase._
-
----
-
-# [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
-
-Owned by **7.2%** of players
-
-_Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ---
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 # [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **3.4%** of players
+Owned by **3.5%** of players
 
 __
 
