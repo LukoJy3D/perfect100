@@ -54,7 +54,7 @@ _Clear any level on expert difficulty without any modifiers._
 
 # [You Are Ready](achievements/You_Are_Ready.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg" width="96" height="96">
 
-Owned by **41.7%** of players
+Owned by **41.8%** of players
 
 _Finish the tutorial._
 
@@ -62,7 +62,7 @@ _Finish the tutorial._
 
 # [Special](achievements/Special.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f005c82f4be0b1385a9d6e4eac84d92d5d7fd85c.jpg" width="96" height="96">
 
-Owned by **33.0%** of players
+Owned by **33.1%** of players
 
 _Get at least rank S on any level on hard difficulty without any modifiers._
 
@@ -150,7 +150,7 @@ _Clear any level with One Life modifier._
 
 # [Flawless](achievements/Flawless.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e11d8f04cb9f2fbd8ec79a5218fc3a407aefacd9.jpg" width="96" height="96">
 
-Owned by **7.4%** of players
+Owned by **7.5%** of players
 
 _Get rank SS on any level on expert difficulty without any modifiers._
 

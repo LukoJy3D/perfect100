@@ -4,7 +4,7 @@ title: Christmas Tree Attack
 parent: Cyberpunk 2077
 ---
 
-# Christmas Tree Attack (37.5%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
+# Christmas Tree Attack (37.6%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
