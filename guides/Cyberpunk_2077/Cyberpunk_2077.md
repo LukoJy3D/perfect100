@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **41.4%** of players
+Owned by **41.5%** of players
 
 _Reach max Street Cred._
 
@@ -366,7 +366,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **7.0%** of players
+Owned by **7.1%** of players
 
 __
 
@@ -380,6 +380,14 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 ---
 
+# [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
+
+Owned by **5.7%** of players
+
+_Unlock all Perks in the Relic Perk tree._
+
+---
+
 # [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
 Owned by **5.6%** of players
@@ -388,17 +396,9 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 ---
 
-# [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
-
-Owned by **5.6%** of players
-
-_Unlock all Perks in the Relic Perk tree._
-
----
-
 # [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **5.2%** of players
+Owned by **5.3%** of players
 
 __
 
