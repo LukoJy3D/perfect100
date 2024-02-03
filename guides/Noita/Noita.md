@@ -6,7 +6,7 @@ has_children: true
 
 # [Reached Coal Pits](<achievements/Reached Coal Pits.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
 
-Owned by **70.2%** of players
+Owned by **70.3%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Reached The Vault](<achievements/Reached The Vault.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
 
-Owned by **18.2%** of players
+Owned by **18.3%** of players
 
 __
 
@@ -46,7 +46,7 @@ __
 
 # [Reached Temple of the Art](<achievements/Reached Temple of the Art.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" width="96" height="96">
 
-Owned by **13.3%** of players
+Owned by **13.4%** of players
 
 __
 
@@ -70,7 +70,7 @@ __
 
 # [The Gods Are Impressed](<achievements/The Gods Are Impressed.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" width="96" height="96">
 
-Owned by **2.8%** of players
+Owned by **2.9%** of players
 
 __
 

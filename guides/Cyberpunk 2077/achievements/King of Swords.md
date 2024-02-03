@@ -4,7 +4,7 @@ title: King of Swords
 parent: Cyberpunk 2077
 ---
 
-# King of Swords (3.4%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" width="96" height="96">
+# King of Swords (3.5%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" width="96" height="96">
 
 __
 
