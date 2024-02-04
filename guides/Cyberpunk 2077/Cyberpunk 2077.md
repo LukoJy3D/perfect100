@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](<achievements/Right Back At Ya.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.5%** of players
+Owned by **68.6%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](<achievements/Legend of The Afterlife.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **41.5%** of players
+Owned by **41.6%** of players
 
 _Reach max Street Cred._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [Christmas Tree Attack](<achievements/Christmas Tree Attack.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **37.7%** of players
+Owned by **37.8%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 # [To Protect and Serve](<achievements/To Protect and Serve.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.9%** of players
+Owned by **28.0%** of players
 
 __
 
@@ -206,7 +206,7 @@ _Reach the max level in any skill._
 
 # [Breathtaking](<achievements/Breathtaking.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **18.3%** of players
+Owned by **18.4%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -270,7 +270,7 @@ __
 
 # [The Jungle](<achievements/The Jungle.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
-Owned by **11.7%** of players
+Owned by **11.8%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -286,7 +286,7 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 # [Mean Streets](<achievements/Mean Streets.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
 
-Owned by **10.7%** of players
+Owned by **10.8%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
@@ -398,7 +398,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [King of Wands](<achievements/King of Wands.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **5.3%** of players
+Owned by **5.4%** of players
 
 __
 
