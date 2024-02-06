@@ -4,7 +4,7 @@ title: Easy Come, Easy Go
 parent: Cyberpunk 2077
 ---
 
-# Easy Come, Easy Go (5.7%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
+# Easy Come, Easy Go (5.8%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
