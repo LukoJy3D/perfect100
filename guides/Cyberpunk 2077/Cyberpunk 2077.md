@@ -14,7 +14,7 @@ __
 
 # [The Lovers](<achievements/The Lovers.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.2%** of players
+Owned by **71.3%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](<achievements/Stanislavski's Method.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **54.2%** of players
+Owned by **54.3%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](<achievements/Full Body Conversion.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **39.3%** of players
+Owned by **39.4%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -102,7 +102,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # [The World](<achievements/The World.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **37.3%** of players
+Owned by **37.4%** of players
 
 _Complete the main storyline._
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 # [Bushido and Chill](<achievements/Bushido and Chill.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.9%** of players
+Owned by **34.0%** of players
 
 __
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Judy vs Night City](<achievements/Judy vs Night City.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **31.1%** of players
+Owned by **31.2%** of players
 
 __
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [Master Crafter](<achievements/Master Crafter.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **28.2%** of players
+Owned by **28.3%** of players
 
 _Craft 3 Legendary items._
 
@@ -166,7 +166,7 @@ __
 
 # [The Quick and the Dead](<achievements/The Quick and the Dead.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **23.2%** of players
+Owned by **23.3%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -238,9 +238,17 @@ __
 
 # [All the President's Men](<achievements/All the President's Men.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **13.7%** of players
+Owned by **13.8%** of players
 
 _Save President Myers._
+
+---
+
+# [Arachnophobia](<achievements/Arachnophobia.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
+
+Owned by **13.6%** of players
+
+__
 
 ---
 
@@ -252,17 +260,9 @@ _Find all fast travel dataterms._
 
 ---
 
-# [Arachnophobia](<achievements/Arachnophobia.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
-
-Owned by **13.5%** of players
-
-__
-
----
-
 # [Temperance](<achievements/Temperance.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" width="96" height="96">
 
-Owned by **13.0%** of players
+Owned by **13.1%** of players
 
 __
 
@@ -366,7 +366,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 # [Spin Doctor](<achievements/Spin Doctor.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **7.2%** of players
+Owned by **7.3%** of players
 
 __
 
@@ -382,7 +382,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 # [Easy Come, Easy Go](<achievements/Easy Come, Easy Go.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
-Owned by **5.7%** of players
+Owned by **5.8%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
@@ -406,7 +406,7 @@ __
 
 # [Dirty Deeds](<achievements/Dirty Deeds.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **4.9%** of players
+Owned by **5.0%** of players
 
 _Complete every Gig in Dogtown._
 
