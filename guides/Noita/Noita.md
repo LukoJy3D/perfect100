@@ -14,7 +14,7 @@ __
 
 # [Reached Snowy Depths](<achievements/Reached Snowy Depths.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" width="96" height="96">
 
-Owned by **57.6%** of players
+Owned by **57.7%** of players
 
 __
 
@@ -22,7 +22,7 @@ __
 
 # [Reached Hiisi Base](<achievements/Reached Hiisi Base.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
 
-Owned by **36.1%** of players
+Owned by **36.2%** of players
 
 __
 
@@ -62,7 +62,7 @@ _Victory_
 
 # [The Gods Are Enraged](<achievements/The Gods Are Enraged.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" width="96" height="96">
 
-Owned by **5.2%** of players
+Owned by **5.3%** of players
 
 __
 

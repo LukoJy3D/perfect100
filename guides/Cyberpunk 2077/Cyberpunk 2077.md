@@ -14,7 +14,7 @@ __
 
 # [The Lovers](<achievements/The Lovers.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.3%** of players
+Owned by **71.2%** of players
 
 __
 
@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](<achievements/Right Back At Ya.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.6%** of players
+Owned by **68.5%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 # [The Wheel of Fortune](<achievements/The Wheel of Fortune.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.7%** of players
+Owned by **56.6%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](<achievements/Stanislavski's Method.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **54.3%** of players
+Owned by **54.2%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -102,7 +102,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # [The World](<achievements/The World.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **37.4%** of players
+Owned by **37.3%** of players
 
 _Complete the main storyline._
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Judy vs Night City](<achievements/Judy vs Night City.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **31.2%** of players
+Owned by **31.1%** of players
 
 __
 
@@ -238,7 +238,7 @@ __
 
 # [All the President's Men](<achievements/All the President's Men.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **13.8%** of players
+Owned by **13.9%** of players
 
 _Save President Myers._
 
@@ -246,7 +246,7 @@ _Save President Myers._
 
 # [Arachnophobia](<achievements/Arachnophobia.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **13.6%** of players
+Owned by **13.7%** of players
 
 __
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 # [The Tower](<achievements/The Tower.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **3.6%** of players
+Owned by **3.7%** of players
 
 __
 
@@ -454,7 +454,7 @@ __
 
 # [King of Cups](<achievements/King of Cups.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" width="96" height="96">
 
-Owned by **2.0%** of players
+Owned by **2.1%** of players
 
 __
 
