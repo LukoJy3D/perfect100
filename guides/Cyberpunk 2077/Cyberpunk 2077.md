@@ -14,7 +14,7 @@ __
 
 # [The Lovers](<achievements/The Lovers.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" width="96" height="96">
 
-Owned by **71.2%** of players
+Owned by **71.1%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](<achievements/Stanislavski's Method.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **54.2%** of players
+Owned by **54.1%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](<achievements/The Hermit.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.9%** of players
+Owned by **52.8%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 # [The High Priestess](<achievements/The High Priestess.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **48.0%** of players
+Owned by **47.9%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](<achievements/Legend of The Afterlife.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **41.6%** of players
+Owned by **41.5%** of players
 
 _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](<achievements/Full Body Conversion.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **39.4%** of players
+Owned by **39.3%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 # [Bushido and Chill](<achievements/Bushido and Chill.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **34.0%** of players
+Owned by **33.9%** of players
 
 __
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [Master Crafter](<achievements/Master Crafter.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **28.3%** of players
+Owned by **28.2%** of players
 
 _Craft 3 Legendary items._
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 # [To Protect and Serve](<achievements/To Protect and Serve.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **28.0%** of players
+Owned by **27.9%** of players
 
 __
 
@@ -182,7 +182,7 @@ _Complete all Cyberpsycho Sightings._
 
 # [V for Vendetta](<achievements/V for Vendetta.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
 
-Owned by **22.3%** of players
+Owned by **22.2%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -206,7 +206,7 @@ _Reach the max level in any skill._
 
 # [Breathtaking](<achievements/Breathtaking.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **18.4%** of players
+Owned by **18.3%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -254,7 +254,7 @@ __
 
 # [Frequent Flyer](<achievements/Frequent Flyer.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **13.5%** of players
+Owned by **13.4%** of players
 
 _Find all fast travel dataterms._
 
@@ -262,7 +262,7 @@ _Find all fast travel dataterms._
 
 # [Temperance](<achievements/Temperance.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" width="96" height="96">
 
-Owned by **13.1%** of players
+Owned by **13.0%** of players
 
 __
 
@@ -270,7 +270,7 @@ __
 
 # [The Jungle](<achievements/The Jungle.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
-Owned by **11.8%** of players
+Owned by **11.7%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -286,7 +286,7 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 # [Mean Streets](<achievements/Mean Streets.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
 
-Owned by **10.8%** of players
+Owned by **10.7%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
@@ -398,7 +398,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [King of Wands](<achievements/King of Wands.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **5.4%** of players
+Owned by **5.5%** of players
 
 __
 
