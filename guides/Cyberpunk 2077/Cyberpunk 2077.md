@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](<achievements/Stanislavski's Method.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **54.1%** of players
+Owned by **54.0%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](<achievements/Life of the Road.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.9%** of players
+Owned by **41.8%** of players
 
 __
 
@@ -174,7 +174,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](<achievements/I Am The Law.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **22.6%** of players
+Owned by **22.7%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -246,7 +246,7 @@ _Save President Myers._
 
 # [Arachnophobia](<achievements/Arachnophobia.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **13.8%** of players
+Owned by **13.9%** of players
 
 __
 
@@ -294,7 +294,7 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 # [Gunslinger](<achievements/Gunslinger.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
 
-Owned by **10.3%** of players
+Owned by **10.2%** of players
 
 _Shoot an enemy grenade in midair with a revolver._
 
@@ -318,7 +318,7 @@ _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 # [Rough Landing](<achievements/Rough Landing.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" width="96" height="96">
 
-Owned by **9.1%** of players
+Owned by **9.0%** of players
 
 _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 

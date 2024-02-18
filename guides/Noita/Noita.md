@@ -38,7 +38,7 @@ __
 
 # [Reached The Vault](<achievements/Reached The Vault.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
 
-Owned by **18.3%** of players
+Owned by **18.4%** of players
 
 __
 
@@ -110,7 +110,7 @@ __
 
 # [100% Spell Progress](<achievements/100% Spell Progress.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/fc37560f3506ab3cfd5e4f5513d6c8c2885a40ec.jpg" width="96" height="96">
 
-Owned by **0.3%** of players
+Owned by **0.4%** of players
 
 __
 
