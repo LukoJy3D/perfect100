@@ -166,7 +166,7 @@ _Clear any level with 4 Lives modifier._
 
 # [Precision](<achievements/Precision.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg" width="96" height="96">
 
-Owned by **6.5%** of players
+Owned by **6.6%** of players
 
 _Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
 
