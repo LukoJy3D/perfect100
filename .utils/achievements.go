@@ -120,33 +120,33 @@ func Achievements() {
 				}
 
 				//run ai setup only before guide generation
-				filename := "gpt4all-lora-quantized.bin"
-				url := "https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized.bin"
+				filename := "ggml-gpt4all-j.bin"
+				url := "https://gpt4all.io/models/ggml-gpt4all-j.bin"
 
 				if _, err := os.Stat(filename); os.IsNotExist(err) {
-					fmt.Println("Downloading gpt4all binary...")
+					fmt.Println("Downloading model...")
 					cmd := exec.Command("curl", "-L", "-o", filename, url)
 					if err := cmd.Run(); err != nil {
-						fmt.Println("Error downloading gpt4all binary file:", err)
+						fmt.Println("Error downloading model", err)
 						return
 					}
 				} else {
-					fmt.Println("gpt4all binary file already exists")
+					fmt.Println("model file already exists")
 				}
 
 				fmt.Printf("Generating guide using AI - Game: \"%s\", Achievement: \"%s\"...\r\n", gameTitle, achieveTextH3)
 
-				// Command to run the gpt4all-lora-quantized binary
+				//needs to be built first. Follow instructions in https://github.com/kuvaus/LlamaGPTJ-chat#build
 				var cmd *exec.Cmd
 
 				if runtime.GOOS == "windows" {
-					cmd = exec.Command("./gpt4all/chat/gpt4all-lora-quantized-win64.exe", "-p", fmt.Sprintf(
+					cmd = exec.Command("./LlamaGPTJ-chat/build/bin/chat.exe", "-m", "./ggml-gpt4all-j.bin", "-p", fmt.Sprintf(
 						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
-						achieveTextH3, gameTitle, achieveTextH5))
+						achieveTextH3, gameTitle, achieveTextH5), "--no-interactive", "--no-animation")
 				} else if runtime.GOOS == "linux" {
-					cmd = exec.Command("./gpt4all/chat/gpt4all-lora-quantized-linux", "-p", fmt.Sprintf(
+					cmd = exec.Command("./LlamaGPTJ-chat/build/bin/chat", "-m", "./ggml-gpt4all-j.bin", "-p", fmt.Sprintf(
 						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
-						achieveTextH3, gameTitle, achieveTextH5))
+						achieveTextH3, gameTitle, achieveTextH5), "--no-interactive", "--no-animation")
 				} else {
 					fmt.Println("Unsupported operating system, add additional if statement for your OS")
 					return
@@ -159,13 +159,36 @@ func Achievements() {
 				}
 
 				// Convert the output to a string
-				guide := string(out)
+				output := string(out)
 
-				markdown2 := fmt.Sprintf("---\r\nlayout: default\ntitle: %s\nparent: %s\r\n---\r\n\r\n"+
-					"# %s (%s) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n***\r\n\r\n"+
-					":trophy: **Guide written by a human**:\r\n\r\n_Add guide here_\r\n\r\n:robot: **AI hallucinations**:\r\n\r\n%s",
-					achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH5, guide)
-				f2.WriteString(markdown2)
+				// Split the output into lines
+				lines := strings.Split(output, "\n")
+
+				// Find the index of your prompt in the lines
+				promptIndex := -1
+				for i, line := range lines {
+					if strings.Contains(line, "Write a step-by-step guide") {
+						promptIndex = i
+						break
+					}
+				}
+
+				// Extract the lines after the prompt (excluding the next line)
+				if promptIndex != -1 && promptIndex+2 < len(lines) {
+					linesAfterPrompt := lines[promptIndex+2:]
+
+					// Join the lines back into a string
+					textAfterPrompt := strings.Join(linesAfterPrompt, "\n")
+
+					// Remove any leading or trailing spaces
+					answer := strings.TrimSpace(textAfterPrompt)
+
+					markdown2 := fmt.Sprintf("---\r\nlayout: default\ntitle: %s\nparent: %s\r\n---\r\n\r\n"+
+						"# %s (%s) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n***\r\n\r\n"+
+						":trophy: **Guide written by a human**:\r\n\r\n_Add guide here_\r\n\r\n:robot: **AI hallucinations**:\r\n\r\n%s",
+						achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH5, answer)
+					f2.WriteString(markdown2)
+				}
 
 				defer f2.Close()
 
@@ -192,7 +215,7 @@ func Achievements() {
 
 				// update the variables
 				markdown3 := fmt.Sprintf("---\r\nlayout: default\r\ntitle: %s\r\nparent: %s\r\n---\r\n\r\n"+
-					"# %s (%s) <img style=\"float: right;\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n***%s",
+					"# %s (%s) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n***%s",
 					achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH5, part2)
 
 				// write the updated content to the file
