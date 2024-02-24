@@ -1,0 +1,3 @@
+[submodule "LlamaGPTJ-chat"]
+	path = LlamaGPTJ-chat
+	url = https://github.com/kuvaus/LlamaGPTJ-chat
