@@ -4,7 +4,7 @@ title: Hope
 parent: Beat Saber
 ---
 
-# Hope (8.4%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/0693e44f919c00a3d798fd4a7861a1c7f83aa44f.jpg" width="96" height="96">
+# Hope (8.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/0693e44f919c00a3d798fd4a7861a1c7f83aa44f.jpg" width="96" height="96">
 
 _Get rank S on at least 15 different levels on expert difficulty (solo free play only)._
 

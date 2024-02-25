@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](<achievements/Full Body Conversion.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **39.5%** of players
+Owned by **39.6%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -174,7 +174,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](<achievements/I Am The Law.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **22.7%** of players
+Owned by **22.8%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -230,7 +230,7 @@ __
 
 # [To Bad Decisions!](<achievements/To Bad Decisions!.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
 
-Owned by **15.5%** of players
+Owned by **15.6%** of players
 
 __
 
@@ -398,7 +398,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [King of Wands](<achievements/King of Wands.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **5.6%** of players
+Owned by **5.7%** of players
 
 __
 
@@ -430,7 +430,7 @@ __
 
 # [The APB is Not Enough](<achievements/The APB is Not Enough.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
 
-Owned by **3.4%** of players
+Owned by **3.5%** of players
 
 _Become Dogtown's most wanted criminal._
 
