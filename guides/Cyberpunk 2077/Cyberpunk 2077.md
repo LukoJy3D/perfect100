@@ -38,7 +38,7 @@ __
 
 # [Stanislavski's Method](<achievements/Stanislavski's Method.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **54.1%** of players
+Owned by **54.2%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](<achievements/The Hermit.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.8%** of players
+Owned by **52.9%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](<achievements/True Soldier.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **46.0%** of players
+Owned by **46.1%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](<achievements/Life of the Road.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.9%** of players
+Owned by **42.0%** of players
 
 __
 
@@ -142,7 +142,7 @@ __
 
 # [Two Heads, One Bullet](<achievements/Two Heads, One Bullet.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" width="96" height="96">
 
-Owned by **29.5%** of players
+Owned by **29.6%** of players
 
 _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -350,7 +350,7 @@ __
 
 # [Spin Doctor](<achievements/Spin Doctor.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **7.5%** of players
+Owned by **7.6%** of players
 
 __
 
