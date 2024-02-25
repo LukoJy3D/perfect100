@@ -4,7 +4,7 @@ title: Charge
 parent: Beat Saber
 ---
 
-# Charge (7.0%) <img style="float: right;" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/59844fa38df9782abd4478db605cc50ccdcf9c07.jpg" width="96" height="96">
+# Charge (7.0%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/59844fa38df9782abd4478db605cc50ccdcf9c07.jpg" width="96" height="96">
 
 _Clear any level with 4 Lives modifier._
 
