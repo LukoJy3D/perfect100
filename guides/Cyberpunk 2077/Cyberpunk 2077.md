@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](<achievements/Life of the Road.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **42.0%** of players
+Owned by **42.1%** of players
 
 __
 
@@ -206,7 +206,7 @@ _Reach the max level in any skill._
 
 # [Breathtaking](<achievements/Breathtaking.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **18.3%** of players
+Owned by **18.4%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 

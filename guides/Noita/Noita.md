@@ -14,7 +14,7 @@ __
 
 # [Reached Snowy Depths](<achievements/Reached Snowy Depths.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" width="96" height="96">
 
-Owned by **57.7%** of players
+Owned by **57.8%** of players
 
 __
 
@@ -22,7 +22,7 @@ __
 
 # [Reached Hiisi Base](<achievements/Reached Hiisi Base.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
 
-Owned by **36.2%** of players
+Owned by **36.3%** of players
 
 __
 
