@@ -12,7 +12,10 @@ __
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+**Use** every spell at least once (holding doesn't count). The majority of the spells can be obtained randomly on wands or shops, however there are quite a lot of unlockable ones that require you to do secrets. By far the most time consuming achievement as some secrets can take up to 10 hours to do (depending on your luck and game knowledge).
+Information about spells can be found on Noita wiki: https://noita.wiki.gg/wiki/Spells (spoilers)
+
+Cheesy way to do this achievement would be to install mods and spawn every single spell. Hovewer, I do not recommend this because you will miss out on a lot that this game has to offer.
 
 :robot: **AI hallucinations**:
 

@@ -12,7 +12,7 @@ __
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+Anger the gods 3 times. This can be achieved by digging through the Holy Mountain.
 
 :robot: **AI hallucinations**:
 

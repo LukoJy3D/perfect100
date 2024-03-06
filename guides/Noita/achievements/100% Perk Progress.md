@@ -12,7 +12,8 @@ __
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+Obtain every perk at least once. Most of the perks can be found when entering the Holy Mountain, however there are a few hidden ones that require you to go to a specific spot, do specific actions or kill a specific enemy.
+Information about hidden perks can be found on the Noita wiki: https://noita.wiki.gg/wiki/Perks#Special_Perks (spoilers)
 
 :robot: **AI hallucinations**:
 
