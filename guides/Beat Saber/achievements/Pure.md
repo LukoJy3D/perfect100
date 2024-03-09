@@ -4,7 +4,7 @@ title: Pure
 parent: Beat Saber
 ---
 
-# Pure (81.3%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="96" height="96">
+# Pure (81.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="96" height="96">
 
 _Clear any level without any modifiers._
 
