@@ -12,7 +12,7 @@ __
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+Reach the sixth area of the game.
 
 :robot: **AI hallucinations**:
 

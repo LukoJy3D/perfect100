@@ -12,7 +12,8 @@ __
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+Collect all 11 orbs of knowledge. Can be done in multiple runs.
+Map of the world can be found on Noita wiki: https://noita.wiki.gg/wiki/Biomes#Maps (major spoilers)
 
 :robot: **AI hallucinations**:
 
