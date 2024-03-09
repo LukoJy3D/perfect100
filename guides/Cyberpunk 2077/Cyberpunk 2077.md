@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](<achievements/Right Back At Ya.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.6%** of players
+Owned by **68.7%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -102,7 +102,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 # [The World](<achievements/The World.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **37.4%** of players
+Owned by **37.5%** of players
 
 _Complete the main storyline._
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 # [Judy vs Night City](<achievements/Judy vs Night City.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **31.2%** of players
+Owned by **31.3%** of players
 
 __
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 # [To Protect and Serve](<achievements/To Protect and Serve.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **28.0%** of players
+Owned by **28.1%** of players
 
 __
 
@@ -238,7 +238,7 @@ __
 
 # [All the President's Men](<achievements/All the President's Men.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **14.6%** of players
+Owned by **14.7%** of players
 
 _Save President Myers._
 
@@ -246,7 +246,7 @@ _Save President Myers._
 
 # [Arachnophobia](<achievements/Arachnophobia.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **14.4%** of players
+Owned by **14.5%** of players
 
 __
 
@@ -406,7 +406,7 @@ __
 
 # [Dirty Deeds](<achievements/Dirty Deeds.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **5.3%** of players
+Owned by **5.4%** of players
 
 _Complete every Gig in Dogtown._
 
