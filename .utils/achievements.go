@@ -14,11 +14,12 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-func Achievements() {
+func Achievements(gameName string) {
 
 	type GamesData struct {
 		Games []struct {
-			ID string `yaml:"id"`
+			ID   string `yaml:"id"`
+			Name string `yaml:"name"`
 		} `yaml:"games"`
 	}
 
@@ -36,6 +37,11 @@ func Achievements() {
 
 	// Loop through the games and make the HTTP request for each one
 	for _, game := range data.Games {
+
+		if gameName != "all" && game.Name != gameName {
+			continue // Skip if gameName is specified and doesn't match the current game
+		}
+
 		url := fmt.Sprintf("https://steamcommunity.com/stats/%s/achievements", game.ID)
 		resp, err := http.Get(url)
 		if err != nil {

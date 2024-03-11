@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 # [The Hermit](<achievements/The Hermit.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **53.0%** of players
+Owned by **53.1%** of players
 
 __
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 # [Life of the Road](<achievements/Life of the Road.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **42.1%** of players
+Owned by **42.2%** of players
 
 __
 
@@ -222,7 +222,7 @@ __
 
 # [The Sun](<achievements/The Sun.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" width="96" height="96">
 
-Owned by **16.6%** of players
+Owned by **16.7%** of players
 
 __
 
@@ -366,7 +366,7 @@ _Buy all vehicles available for purchase._
 
 # [The Wasteland](<achievements/The Wasteland.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" width="96" height="96">
 
-Owned by **7.3%** of players
+Owned by **7.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
@@ -398,7 +398,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 # [King of Wands](<achievements/King of Wands.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **5.8%** of players
+Owned by **5.9%** of players
 
 __
 
@@ -422,7 +422,7 @@ __
 
 # [King of Swords](<achievements/King of Swords.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" width="96" height="96">
 
-Owned by **3.7%** of players
+Owned by **3.8%** of players
 
 __
 
@@ -438,7 +438,7 @@ _Become Dogtown's most wanted criminal._
 
 # [Judgement Day](<achievements/Judgement Day.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" width="96" height="96">
 
-Owned by **3.4%** of players
+Owned by **3.5%** of players
 
 _Eliminate three bosses from the "Increased criminal activity" category._
 
