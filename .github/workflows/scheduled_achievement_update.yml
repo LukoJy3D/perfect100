@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run Script
-        run: go run main.go achievements
+        run: go run main.go "all"
 
       - name: Create Pull Request
         id: cpr

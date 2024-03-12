@@ -6,7 +6,7 @@ has_children: true
 
 # [Pure](<achievements/Pure.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/78d56dfeae84c7c73f46d844de748a2a13a841d9.jpg" width="96" height="96">
 
-Owned by **81.3%** of players
+Owned by **81.4%** of players
 
 _Clear any level without any modifiers._
 
@@ -54,7 +54,7 @@ _Clear any level on expert difficulty without any modifiers._
 
 # [You Are Ready](<achievements/You Are Ready.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg" width="96" height="96">
 
-Owned by **41.8%** of players
+Owned by **41.9%** of players
 
 _Finish the tutorial._
 
