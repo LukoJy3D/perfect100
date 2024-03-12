@@ -8,19 +8,11 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Usage: go run main.go [achievements|leaderboards]")
+		fmt.Println("Usage: go run main.go [<full game name>|all]")
 		return
 	}
 
-	command := os.Args[1]
+	gameName := os.Args[1]
 
-	switch command {
-	case "achievements":
-		utils.Achievements()
-	//Implement later
-	//case "leaderboards":
-	//	utils.Leaderboards()
-	default:
-		fmt.Println("Invalid command. Use 'achievements' or 'leaderboards'.")
-	}
+	utils.Achievements(gameName)
 }

@@ -48,7 +48,7 @@ games:
   - id: "1091500" #Cyberpunk 2077
 ```
 
-_You can find the Game ID on the Steam store page or steamdb.info_ 3. Do `go run main.go achievements`. 4. Script will populate the achievement list and guide folder contents after a script successfully runs.
+_You can find the Game ID on the Steam store page or steamdb.info_ 3. Do `go run main.go "<game name>"`. 4. Script will populate the achievement list and guide folder contents after a script successfully runs.
 
 ### 5. Code Commit to a fork
 
