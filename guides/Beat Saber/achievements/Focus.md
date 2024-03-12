@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -18,6 +18,8 @@ Few tips:
 1. Usually, after you cut a note with a downswing, the next note will be an upswing, and vice versa. After getting a feel for it, you only need to see where to swing on the first note, and muscle memory usually does the rest.
 2. Not all songs have 500 notes! 
 3. Choose longer songs. Longer songs will allow you to get 500 note combo even if you fail at the beginning.
+
+---
 
 :robot: **AI hallucinations**:
 

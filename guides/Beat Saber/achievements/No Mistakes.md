@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get full combo on at least 15 different levels on expert difficulty (solo free play only)._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -21,6 +21,8 @@ Very similar to [**Drum Kit**](Drum_Kit.md), so the same tips apply:
 4. Focus on hitting all the notes and not worrying about the score.
 5. If you have difficulty with stock maps, install custom ones.
 6. Some achievements for some people, including **No Mistakes**, don't pop instantly after 15 successful levels and only unlock on the 16th, so keep hunting!
+
+---
 
 :robot: **AI hallucinations**:
 

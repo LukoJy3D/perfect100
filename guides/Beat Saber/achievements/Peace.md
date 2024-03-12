@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear all missions in campaign._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -25,6 +25,8 @@ Tips on how to beat those challenges:
 - **Maximum Bad Cuts**: Some songs only allow you to have a specific amount of bad cuts; don't exceed this threshold. For example, level 20b requires 15 bad cuts at the minimum and 20 bad cuts at the maximum, so you purposely need to slice in the wrong direction quite a few times while keeping your health from depleting.
 - **Minimum Distance Traveled**: Some songs require you to travel a certain distance with your sabers before the song ends. The ones requiring you to travel are easy because you can flail your arms around like a windmill, even in the first seconds of the song where no notes are coming in
 - **Maximum Distance Traveled**: Some songs require your saber to travel as little as possible. The best strategy is to lock your shoulders and slice only with your wrists.
+
+---
 
 :robot: **AI hallucinations**:
 

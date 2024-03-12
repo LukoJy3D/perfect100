@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Find all fast travel dataterms._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

@@ -8,12 +8,14 @@ parent: Noita
 
 __
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 Kill every creature at least once, this includes all the secret bosses.
 Information about how to find Noita's creatures can be found on the Noita wiki: https://noita.wiki.gg/wiki/Creatures (spoilers)
+
+---
 
 :robot: **AI hallucinations**:
 

@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

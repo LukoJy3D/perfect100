@@ -8,7 +8,7 @@ parent: Noita
 
 __
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -16,6 +16,8 @@ __
 Information about spells can be found on Noita wiki: https://noita.wiki.gg/wiki/Spells (spoilers)
 
 Cheesy way to do this achievement would be to install mods and spawn every single spell. Hovewer, I do not recommend this because you will miss out on a lot that this game has to offer.
+
+---
 
 :robot: **AI hallucinations**:
 

@@ -8,11 +8,13 @@ parent: Beat Saber
 
 _Clear 100 levels or more._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 **Warm-up** is an easy achievement to get. It is grindy yet technically unmissable. Complete 100 songs across any mode and with any difficulty. The achievement also includes songs you complete in the campaign. Focus on other achievements, and this will come along with it. Remember that song only registers if you finish it, so don't quit mid-song.
+
+---
 
 :robot: **AI hallucinations**:
 

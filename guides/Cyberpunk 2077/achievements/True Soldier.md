@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

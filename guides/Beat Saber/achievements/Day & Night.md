@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get total played time 24 hours or more._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -17,6 +17,8 @@ _Get total played time 24 hours or more._
 Few tips
 1. Playtime only tracks when you are playing a song. The time you spend loading or sitting in a menu does not count towards the achievement, so usually, this will not align with the time shown by steam.
 2. This is usually unlocked along the way with the other achievements. However, if you want to get this achievement without properly playing, or you are tired of the grind, you can always use the _No Fail_ modifier on one of the longer songs (i.e., "Angel Voices") and sit afk (NOT CLASSY!)
+
+---
 
 :robot: **AI hallucinations**:
 

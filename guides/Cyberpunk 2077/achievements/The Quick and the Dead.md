@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

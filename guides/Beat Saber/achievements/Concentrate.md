@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -19,6 +19,8 @@ Few tips:
 2. Ensure that difficulty is set to hard.
 3. Even if you miss a beat mid-song and if there are enough notes, you can still get the 100-note combo, so don't restart instantly.
 After you have hit 100 or more consecutive notes and finished the song, the achievement will pop. Congratulations!
+
+---
 
 :robot: **AI hallucinations**:
 

@@ -8,13 +8,15 @@ parent: Beat Saber
 
 _Clear final mission in campaign._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 To obtain this achievement, you need to clear the final mission in campaign. You don't need to beat all missions for this achievement.
 
 See [**Peace**](Peace.md) for more information on how to obtain this achievement.
+
+---
 
 :robot: **AI hallucinations**:
 

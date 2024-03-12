@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Find all the tarot graffiti for the job Fool on the Hill._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

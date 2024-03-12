@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get at least rank S on any level on hard difficulty without any modifiers._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -22,6 +22,8 @@ Tips:
 5. Using modifiers voids the achievement, don't use it!
 
 After you complete the song, the achievement will pop. Good luck!
+
+---
 
 :robot: **AI hallucinations**:
 

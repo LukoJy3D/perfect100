@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

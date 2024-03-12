@@ -8,11 +8,13 @@ parent: Beat Saber
 
 _Get 100 kilometers travelled hand distance or more._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 **Traveller** is quite a simple but grindy achievement. I would not recommend focusing on it too much as you will get this achievement along the way with others. For me, it was around 20 hours of playtime. The game tracks your controller movement every time you swing your arms, and you can see how many kilometers you have traveled from the stats screen on the main menu. Some campaign missions require you to toss your arms around to get a specific amount of distance traveled before the song ends, so you will almost have this achievement after completing the campaign.
+
+---
 
 :robot: **AI hallucinations**:
 

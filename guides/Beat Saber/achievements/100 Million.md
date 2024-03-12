@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get total score 100 million or more._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -20,6 +20,8 @@ Few tips:
 2. Expert+ gets tons of points per song once you get the hang of it. However, you can get tired real quick, so pace yourself!
 
 Good luck!
+
+---
 
 :robot: **AI hallucinations**:
 

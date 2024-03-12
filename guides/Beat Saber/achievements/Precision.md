@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -20,6 +20,8 @@ Tips:
 3. Play the song and strive for perfection. If you are comfortable with the game, go for SS rank directly so that S will come along the way.
 
 After you complete your 15th (for some people, it's 16th) level, the achievement will pop. Good luck!
+
+---
 
 :robot: **AI hallucinations**:
 

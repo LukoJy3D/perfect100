@@ -126,7 +126,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 # [True Warrior](<achievements/True Warrior.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **32.6%** of players
+Owned by **32.7%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -446,7 +446,7 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 # [King of Pentacles](<achievements/King of Pentacles.md>) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" width="96" height="96">
 
-Owned by **3.2%** of players
+Owned by **3.3%** of players
 
 __
 
