@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear any level with One Life modifier._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -23,6 +23,8 @@ Tips:
 4. Don't worry about the score, and don't go for full swings. Focus on hitting your notes
 
 The achievement will pop at the end of the song.
+
+---
 
 :robot: **AI hallucinations**:
 

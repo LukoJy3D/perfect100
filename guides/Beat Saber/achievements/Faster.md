@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear any level with faster song speed modifier._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -22,6 +22,8 @@ Nasty way (Create your own map):
 3. Play those levels.
 
 But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.
+
+---
 
 :robot: **AI hallucinations**:
 

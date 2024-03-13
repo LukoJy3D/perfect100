@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

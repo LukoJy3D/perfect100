@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear any level on normal difficulty and get at least 50 combo without any modifiers._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -22,6 +22,8 @@ Tips:
 5. Breaking combo after hitting 50 does not void the achievement.
 
 After the song is complete and you get 50 note combo or higher during any time in the song, the achievement will pop.
+
+---
 
 :robot: **AI hallucinations**:
 

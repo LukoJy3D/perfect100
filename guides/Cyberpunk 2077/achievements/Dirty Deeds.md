@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Complete every Gig in Dogtown._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

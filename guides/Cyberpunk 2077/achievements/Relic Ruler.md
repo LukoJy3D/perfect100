@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Unlock all Perks in the Relic Perk tree._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

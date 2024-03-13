@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get full combo on any level on expert difficulty without any modifiers._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -23,6 +23,8 @@ That same nasty way of creating your map applies here as well:
 3. Play that level.
 
 I would only recommend choosing the nasty way if this is your last achievement and you are bored with the game. However, Beat saber is a super fun game, and I still played it for 50+ hours after getting all achievements, so there is plenty of time to get that 100%.
+
+---
 
 :robot: **AI hallucinations**:
 

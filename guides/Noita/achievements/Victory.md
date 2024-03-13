@@ -8,12 +8,14 @@ parent: Noita
 
 _Victory_
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 Beat the game. Most straightforward way to achieve this is to play the game how it's implied (by going down to the caves) and beating the boss after the seventh area of the game. You will need to put in some hours and get good at the game as this requires a lot of luck. And try not to rush, as most of the deaths occur when you're not being patient.
 If you still have difficulties getting this then I'd suggest trying to do some secrets as they unlock some powerful spells that make beating the game way easier.
+
+---
 
 :robot: **AI hallucinations**:
 

@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear any level with disappearing arrows modifier._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -19,6 +19,8 @@ Tips:
 2. Pay attention to the notes at the moment they spawn. 
 3. If you missed the arrow's direction, swipe in the opposite direction than the previous note, as most levels are built this way.
 4. Turn on the "No Fail" modifier with disappearing arrows. Such a modifier combo allows you to finish the level easily, and achievement is still valid.
+
+---
 
 :robot: **AI hallucinations**:
 

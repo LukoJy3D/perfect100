@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Collect all items that once belonged to Johnny Silverhand._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get full combo on at least 15 different levels on hard difficulty (solo free play only)._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -26,6 +26,8 @@ Nasty way (Create your own map):
 3. Play those levels.
 
 But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.
+
+---
 
 :robot: **AI hallucinations**:
 

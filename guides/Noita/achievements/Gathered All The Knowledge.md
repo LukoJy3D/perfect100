@@ -8,12 +8,14 @@ parent: Noita
 
 __
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 Collect all 11 orbs of knowledge. Can be done in multiple runs.
 Map of the world can be found on Noita wiki: https://noita.wiki.gg/wiki/Biomes#Maps (major spoilers)
+
+---
 
 :robot: **AI hallucinations**:
 

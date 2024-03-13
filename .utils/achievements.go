@@ -190,8 +190,8 @@ func Achievements(gameName string) {
 					answer := strings.TrimSpace(textAfterPrompt)
 
 					markdown2 := fmt.Sprintf("---\r\nlayout: default\ntitle: %s\nparent: %s\r\n---\r\n\r\n"+
-						"# %s (%s) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n***\r\n\r\n"+
-						":trophy: **Guide written by a human**:\r\n\r\n_Add guide here_\r\n\r\n:robot: **AI hallucinations**:\r\n\r\n%s",
+						"# %s (%s) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n---\r\n\r\n"+
+						":trophy: **Guide written by a human**:\r\n\r\n_Add guide here_\r\n\r\n---\r\n\r\n:robot: **AI hallucinations**:\r\n\r\n%s",
 						achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH5, answer)
 					f2.WriteString(markdown2)
 				}
@@ -199,17 +199,19 @@ func Achievements(gameName string) {
 				defer f2.Close()
 
 			} else {
-				//if file exists update achieveTextH3, imageSrc, achieveTextH5, but do not overwrite answer section under ***
+				//if file exists update achieveTextH3, imageSrc, achieveTextH5, but do not overwrite answer section under ---
 				fileread, err := os.ReadFile("guides/" + gameTitle + "/achievements/" + modifiedAchiName + ".md")
 				if err != nil {
 					fmt.Println("Error:", err)
 					os.Exit(1)
 				}
 
-				var part2 string
+				var humanGuide string
+				var aiHallucination string
 
-				parts := strings.Split(string(fileread), "***")
-				part2 = parts[1]
+				parts := strings.Split(string(fileread), "---")
+				humanGuide = parts[3]
+				aiHallucination = parts[4]
 
 				f2, err := os.Create("guides/" + gameTitle + "/achievements/" + modifiedAchiName + ".md")
 				if err != nil {
@@ -221,8 +223,8 @@ func Achievements(gameName string) {
 
 				// update the variables
 				markdown3 := fmt.Sprintf("---\r\nlayout: default\r\ntitle: %s\r\nparent: %s\r\n---\r\n\r\n"+
-					"# %s (%s) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n***%s",
-					achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH5, part2)
+					"# %s (%s) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n---%s---%s",
+					achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH5, humanGuide, aiHallucination)
 
 				// write the updated content to the file
 				if _, err = f2.WriteString(markdown3); err != nil {

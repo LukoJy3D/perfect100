@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

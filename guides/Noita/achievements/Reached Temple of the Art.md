@@ -8,11 +8,13 @@ parent: Noita
 
 __
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 Reach the seventh area of the game.
+
+---
 
 :robot: **AI hallucinations**:
 

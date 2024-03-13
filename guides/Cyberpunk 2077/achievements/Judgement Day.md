@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Eliminate three bosses from the "Increased criminal activity" category._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

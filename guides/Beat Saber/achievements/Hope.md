@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Get rank S on at least 15 different levels on expert difficulty (solo free play only)._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -18,6 +18,8 @@ Some tips:
 1. Try to make big swings and hit the notes as close to the center as possible. Hunters can find an explanation of score calculation in [Flawless achievement guide](Flawless.md).
 3. Use modifiers that give you a better multiplier, such as "Faster Song", "Insta Fail", etc., but only do that if you're confident in your success.
 4. Go for the full combo. Getting a full combo almost every time will result in an S rank.
+
+---
 
 :robot: **AI hallucinations**:
 

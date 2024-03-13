@@ -8,11 +8,13 @@ parent: Beat Saber
 
 _Finish the tutorial._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 Yes, finish the tutorial. You Are Ready!
+
+---
 
 :robot: **AI hallucinations**:
 

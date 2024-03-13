@@ -8,11 +8,13 @@ parent: Beat Saber
 
 _Clear any level without any modifiers._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 This achievement is the most common in the game and will be one of the first ones you get. Complete any song on any difficulty without using a modifier, and you will get this achievement upon completing the song. Once again, the campaign is a great place to earn this.
+
+---
 
 :robot: **AI hallucinations**:
 

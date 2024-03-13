@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

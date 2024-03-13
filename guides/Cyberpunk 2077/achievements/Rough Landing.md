@@ -8,11 +8,13 @@ parent: Cyberpunk 2077
 
 _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
 _Add guide here_
+
+---
 
 :robot: **AI hallucinations**:
 

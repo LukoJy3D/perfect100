@@ -8,7 +8,7 @@ parent: Beat Saber
 
 _Clear 30 missions in campaign._
 
-***
+---
 
 :trophy: **Guide written by a human**:
 
@@ -17,6 +17,8 @@ The campaign is available from the start and consists of 51 levels of you playin
 See [Peace](Peace.md) for more information on available objectives and their explanations.
 
 After you complete your 30th campaign mission, this achievement will pop.
+
+---
 
 :robot: **AI hallucinations**:
 
