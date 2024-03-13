@@ -3,6 +3,7 @@ aux_links:
     - "//github.com/lukojy3d/perfect100"
 exclude:
   - LlamaGPTJ-chat
+markdown: CommonMark
 plugins:
   - jemoji
 remote_theme: just-the-docs/just-the-docs

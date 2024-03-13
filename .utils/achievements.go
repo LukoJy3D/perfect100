@@ -103,7 +103,7 @@ func Achievements(gameName string) {
 			achieveTextH3 := selection.Find(".achieveTxt h3").Text()
 			achieveTextH5 := selection.Find(".achieveTxt h5").Text()
 			modifiedAchiName := ReplaceForbiddenCharacters(achieveTextH3)
-			guidePath := "achievements/" + modifiedAchiName + ".md"
+			guidePath := "/guides/" + gameTitle + "/achievements/" + modifiedAchiName + ".md"
 
 			markdown := fmt.Sprintf("# [%s](<%s>) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n"+
 				"Owned by **%s** of players\r\n\r\n_%s_\r\n\r\n---\r\n\r\n", achieveTextH3, guidePath, imageSrc, achievePercent, achieveTextH5)
