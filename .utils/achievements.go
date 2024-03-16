@@ -105,10 +105,10 @@ func Achievements(gameName string) {
 			modifiedAchiName := ReplaceForbiddenCharacters(achieveTextH3)
 			guidePath := "achievements/" + modifiedAchiName + ".md"
 
-			markdown := fmt.Sprintf("# [%s](<%s>) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n"+
+			markdown := fmt.Sprintf("# [%s](%s) <img align=\"right\" src=\"%s\" width=\"96\" height=\"96\">\r\n\r\n"+
 				"Owned by **%s** of players\r\n\r\n_%s_\r\n\r\n---\r\n\r\n", achieveTextH3, guidePath, imageSrc, achievePercent, achieveTextH5)
 
-			fmt.Printf("Populating achievement list - Game: \"%s\", Achievement: \"%s\"...\n", gameTitle, achieveTextH3)
+			fmt.Printf("Populating achievement list - Game: \"%s\", Achievement: \"%s\"...\n", gameTitleRaw, achieveTextH3)
 
 			//markdown content with front matter
 			if _, err = guideList.WriteString(markdown); err != nil {
@@ -140,7 +140,7 @@ func Achievements(gameName string) {
 					fmt.Println("model file already exists")
 				}
 
-				fmt.Printf("Generating guide using AI - Game: \"%s\", Achievement: \"%s\"...\r\n", gameTitle, achieveTextH3)
+				fmt.Printf("Generating guide using AI - Game: \"%s\", Achievement: \"%s\"...\r\n", gameTitleRaw, achieveTextH3)
 
 				//needs to be built first. Follow instructions in https://github.com/kuvaus/LlamaGPTJ-chat#build
 				var cmd *exec.Cmd
@@ -148,11 +148,11 @@ func Achievements(gameName string) {
 				if runtime.GOOS == "windows" {
 					cmd = exec.Command("./LlamaGPTJ-chat/build/bin/chat.exe", "-m", "./ggml-gpt4all-j.bin", "-p", fmt.Sprintf(
 						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
-						achieveTextH3, gameTitle, achieveTextH5), "--no-interactive", "--no-animation")
+						achieveTextH3, gameTitleRaw, achieveTextH5), "--no-interactive", "--no-animation")
 				} else if runtime.GOOS == "linux" {
 					cmd = exec.Command("./LlamaGPTJ-chat/build/bin/chat", "-m", "./ggml-gpt4all-j.bin", "-p", fmt.Sprintf(
 						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
-						achieveTextH3, gameTitle, achieveTextH5), "--no-interactive", "--no-animation")
+						achieveTextH3, gameTitleRaw, achieveTextH5), "--no-interactive", "--no-animation")
 				} else {
 					fmt.Println("Unsupported operating system, add additional if statement for your OS")
 					return
@@ -219,7 +219,7 @@ func Achievements(gameName string) {
 					os.Exit(1)
 				}
 
-				fmt.Printf("Updating guide stats - Game: \"%s\", Achievement: \"%s\"...\r\n", gameTitle, achieveTextH3)
+				fmt.Printf("Updating guide stats - Game: \"%s\", Achievement: \"%s\"...\r\n", gameTitleRaw, achieveTextH3)
 
 				// update the variables
 				markdown3 := fmt.Sprintf("---\r\nlayout: default\r\ntitle: %s\r\nparent: %s\r\n---\r\n\r\n"+
