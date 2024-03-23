@@ -46,7 +46,7 @@ _Clear any level on hard difficulty and get at least 100 combo without any modif
 
 # [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" width="96" height="96">
 
-Owned by **46.6%** of players
+Owned by **46.5%** of players
 
 _Clear any level on expert difficulty without any modifiers._
 
