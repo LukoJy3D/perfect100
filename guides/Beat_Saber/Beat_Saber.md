@@ -110,7 +110,7 @@ _Clear any level on expert difficulty and get at least 500 combo without any mod
 
 # [Supreme](achievements/Supreme.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" width="96" height="96">
 
-Owned by **12.9%** of players
+Owned by **12.8%** of players
 
 _Get full combo on any level on expert difficulty without any modifiers._
 

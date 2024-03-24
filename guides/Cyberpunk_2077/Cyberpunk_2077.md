@@ -118,7 +118,7 @@ __
 
 # [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **33.6%** of players
+Owned by **33.7%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 # [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **28.5%** of players
+Owned by **28.6%** of players
 
 _Craft 3 Legendary items._
 
@@ -286,7 +286,7 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 # [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" width="96" height="96">
 
-Owned by **10.7%** of players
+Owned by **10.6%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
@@ -334,7 +334,7 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 # [Little Tokyo](achievements/Little_Tokyo.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" width="96" height="96">
 
-Owned by **8.1%** of players
+Owned by **8.0%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
@@ -388,6 +388,14 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 ---
 
+# [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
+
+Owned by **6.0%** of players
+
+__
+
+---
+
 # [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" width="96" height="96">
 
 Owned by **5.9%** of players
@@ -396,17 +404,9 @@ _Unlock all Perks in the Relic Perk tree._
 
 ---
 
-# [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
-
-Owned by **5.9%** of players
-
-__
-
----
-
 # [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **5.4%** of players
+Owned by **5.5%** of players
 
 _Complete every Gig in Dogtown._
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 # [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **3.9%** of players
+Owned by **4.0%** of players
 
 __
 
