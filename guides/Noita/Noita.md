@@ -22,7 +22,7 @@ __
 
 # [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
 
-Owned by **36.2%** of players
+Owned by **36.3%** of players
 
 __
 
@@ -62,7 +62,7 @@ _Victory_
 
 # [The Gods Are Enraged](achievements/The_Gods_Are_Enraged.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" width="96" height="96">
 
-Owned by **5.3%** of players
+Owned by **5.4%** of players
 
 __
 

@@ -22,7 +22,7 @@ __
 
 # [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.4%** of players
+Owned by **68.5%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -62,7 +62,7 @@ __
 
 # [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **46.1%** of players
+Owned by **46.2%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -78,7 +78,7 @@ __
 
 # [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **41.6%** of players
+Owned by **41.7%** of players
 
 _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 # [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **39.7%** of players
+Owned by **39.8%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 # [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **38.2%** of players
+Owned by **38.3%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -174,17 +174,9 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 # [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **22.8%** of players
+Owned by **22.9%** of players
 
 _Complete all Cyberpsycho Sightings._
-
----
-
-# [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
-
-Owned by **21.9%** of players
-
-_After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
 ---
 
@@ -193,6 +185,14 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 Owned by **21.8%** of players
 
 _Find all the tarot graffiti for the job Fool on the Hill._
+
+---
+
+# [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" width="96" height="96">
+
+Owned by **21.8%** of players
+
+_After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
 ---
 
@@ -238,7 +238,7 @@ __
 
 # [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **14.9%** of players
+Owned by **15.1%** of players
 
 _Save President Myers._
 
@@ -246,7 +246,7 @@ _Save President Myers._
 
 # [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **14.7%** of players
+Owned by **14.8%** of players
 
 __
 
@@ -254,7 +254,7 @@ __
 
 # [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **13.2%** of players
+Owned by **13.1%** of players
 
 _Find all fast travel dataterms._
 
@@ -318,7 +318,7 @@ _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 # [Rough Landing](achievements/Rough_Landing.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" width="96" height="96">
 
-Owned by **9.0%** of players
+Owned by **8.9%** of players
 
 _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
@@ -342,7 +342,7 @@ _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 # [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **7.9%** of players
+Owned by **8.0%** of players
 
 __
 
@@ -372,19 +372,19 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ---
 
+# [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
+
+Owned by **6.4%** of players
+
+_Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
+
+---
+
 # [Daemon In The Shell](achievements/Daemon_In_The_Shell.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg" width="96" height="96">
 
 Owned by **6.3%** of players
 
 _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
-
----
-
-# [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
-
-Owned by **6.3%** of players
-
-_Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 ---
 
@@ -430,7 +430,7 @@ __
 
 # [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
 
-Owned by **3.6%** of players
+Owned by **3.7%** of players
 
 _Become Dogtown's most wanted criminal._
 
