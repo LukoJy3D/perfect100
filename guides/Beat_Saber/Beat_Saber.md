@@ -70,7 +70,7 @@ _Get at least rank S on any level on hard difficulty without any modifiers._
 
 # [Warm-up](achievements/Warm_up.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" width="96" height="96">
 
-Owned by **31.6%** of players
+Owned by **31.5%** of players
 
 _Clear 100 levels or more._
 
