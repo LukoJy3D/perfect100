@@ -4,7 +4,7 @@ title: 100% Spell Progress
 parent: Noita
 ---
 
-# 100% Spell Progress (0.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/fc37560f3506ab3cfd5e4f5513d6c8c2885a40ec.jpg" width="96" height="96">
+## 100% Spell Progress (0.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/fc37560f3506ab3cfd5e4f5513d6c8c2885a40ec.jpg" width="96" height="96">
 
 __
 
