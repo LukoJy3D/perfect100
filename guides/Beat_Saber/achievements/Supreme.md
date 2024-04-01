@@ -4,7 +4,7 @@ title: Supreme
 parent: Beat Saber
 ---
 
-# Supreme (12.8%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" width="96" height="96">
+## Supreme (12.8%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" width="96" height="96">
 
 _Get full combo on any level on expert difficulty without any modifiers._
 
