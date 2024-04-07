@@ -22,7 +22,7 @@ __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.4%** of players
+Owned by **68.3%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -54,7 +54,7 @@ __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.8%** of players
+Owned by **47.7%** of players
 
 __
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.9%** of players
+Owned by **33.8%** of players
 
 __
 
@@ -254,7 +254,7 @@ __
 
 ## [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" width="96" height="96">
 
-Owned by **13.1%** of players
+Owned by **13.0%** of players
 
 _Find all fast travel dataterms._
 
@@ -270,7 +270,7 @@ __
 
 ## [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
-Owned by **11.6%** of players
+Owned by **11.5%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -326,7 +326,7 @@ _While Berserk cyberware is active, perform a Superhero Landing to kill or incap
 
 ## [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
 
-Owned by **8.5%** of players
+Owned by **8.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
@@ -446,7 +446,7 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 ## [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" width="96" height="96">
 
-Owned by **3.3%** of players
+Owned by **3.4%** of players
 
 __
 
