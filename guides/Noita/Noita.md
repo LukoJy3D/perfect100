@@ -38,7 +38,7 @@ __
 
 ## [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
 
-Owned by **18.4%** of players
+Owned by **18.5%** of players
 
 __
 
@@ -70,7 +70,7 @@ __
 
 ## [The Gods Are Impressed](achievements/The_Gods_Are_Impressed.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" width="96" height="96">
 
-Owned by **2.9%** of players
+Owned by **3.0%** of players
 
 __
 
