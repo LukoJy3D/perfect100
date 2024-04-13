@@ -78,7 +78,7 @@ _Clear 100 levels or more._
 
 ## [Faster](achievements/Faster.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" width="96" height="96">
 
-Owned by **29.9%** of players
+Owned by **29.8%** of players
 
 _Clear any level with faster song speed modifier._
 
@@ -94,7 +94,7 @@ _Get 100 kilometers travelled hand distance or more._
 
 ## [Memory](achievements/Memory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" width="96" height="96">
 
-Owned by **25.4%** of players
+Owned by **25.3%** of players
 
 _Clear any level with disappearing arrows modifier._
 
