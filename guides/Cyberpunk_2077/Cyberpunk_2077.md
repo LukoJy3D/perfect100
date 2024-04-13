@@ -22,7 +22,7 @@ __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" width="96" height="96">
 
-Owned by **68.3%** of players
+Owned by **68.4%** of players
 
 _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" width="96" height="96">
 
-Owned by **56.4%** of players
+Owned by **56.5%** of players
 
 __
 
@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 ## [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.7%** of players
+Owned by **52.8%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.7%** of players
+Owned by **47.8%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **46.1%** of players
+Owned by **46.2%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 ## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" width="96" height="96">
 
-Owned by **41.8%** of players
+Owned by **41.9%** of players
 
 __
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **39.8%** of players
+Owned by **39.9%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **38.3%** of players
+Owned by **38.4%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **33.8%** of players
+Owned by **33.9%** of players
 
 __
 
@@ -118,7 +118,7 @@ __
 
 ## [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **33.7%** of players
+Owned by **33.8%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -126,7 +126,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **32.4%** of players
+Owned by **32.5%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **31.0%** of players
+Owned by **31.1%** of players
 
 __
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **28.6%** of players
+Owned by **28.7%** of players
 
 _Craft 3 Legendary items._
 
@@ -166,7 +166,7 @@ __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **23.6%** of players
+Owned by **23.7%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -174,7 +174,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 ## [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **22.8%** of players
+Owned by **22.9%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -198,7 +198,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 ## [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" width="96" height="96">
 
-Owned by **21.1%** of players
+Owned by **21.2%** of players
 
 _Reach the max level in any skill._
 
@@ -238,7 +238,7 @@ __
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **15.2%** of players
+Owned by **15.4%** of players
 
 _Save President Myers._
 
@@ -246,7 +246,7 @@ _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **15.0%** of players
+Owned by **15.2%** of players
 
 __
 
@@ -278,7 +278,7 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ## [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" width="96" height="96">
 
-Owned by **11.1%** of players
+Owned by **11.2%** of players
 
 _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 
@@ -326,7 +326,7 @@ _While Berserk cyberware is active, perform a Superhero Landing to kill or incap
 
 ## [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" width="96" height="96">
 
-Owned by **8.4%** of players
+Owned by **8.5%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
@@ -334,7 +334,7 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ## [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **8.1%** of players
+Owned by **8.2%** of players
 
 __
 
@@ -374,7 +374,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ## [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
-Owned by **6.4%** of players
+Owned by **6.5%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
@@ -390,7 +390,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 ## [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **6.1%** of players
+Owned by **6.2%** of players
 
 __
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 ## [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **4.0%** of players
+Owned by **4.1%** of players
 
 __
 
@@ -430,7 +430,7 @@ __
 
 ## [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
 
-Owned by **3.7%** of players
+Owned by **3.8%** of players
 
 _Become Dogtown's most wanted criminal._
 
