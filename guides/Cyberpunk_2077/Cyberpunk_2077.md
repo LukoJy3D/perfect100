@@ -38,7 +38,7 @@ __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **53.9%** of players
+Owned by **54.0%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -78,7 +78,7 @@ __
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **41.6%** of players
+Owned by **41.7%** of players
 
 _Reach max Street Cred._
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 ## [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.8%** of players
+Owned by **27.9%** of players
 
 __
 
@@ -454,7 +454,7 @@ __
 
 ## [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" width="96" height="96">
 
-Owned by **2.3%** of players
+Owned by **2.4%** of players
 
 __
 
