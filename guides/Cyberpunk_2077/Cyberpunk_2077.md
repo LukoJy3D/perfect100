@@ -46,7 +46,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 ## [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" width="96" height="96">
 
-Owned by **52.8%** of players
+Owned by **52.9%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" width="96" height="96">
 
-Owned by **41.7%** of players
+Owned by **41.8%** of players
 
 _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **40.0%** of players
+Owned by **40.1%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -126,7 +126,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **32.5%** of players
+Owned by **32.6%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -206,7 +206,7 @@ _Reach the max level in any skill._
 
 ## [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" width="96" height="96">
 
-Owned by **18.2%** of players
+Owned by **18.3%** of players
 
 _Collect all items that once belonged to Johnny Silverhand._
 
@@ -390,7 +390,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 ## [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" width="96" height="96">
 
-Owned by **6.2%** of players
+Owned by **6.3%** of players
 
 __
 
