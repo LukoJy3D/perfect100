@@ -18,6 +18,7 @@ Anger the gods 3 times. This can be achieved by digging through the Holy Mountai
 
 :robot: **AI hallucinations**:
 
-To obtain The Gods are Engorged achievement, you need to complete the following tasks within Noita. 
-1) Complete Chapter One of the campaign mode with at least an A grade on each level. 
-2) Obtain all three special abilities in a single playthrough (requires beating the game once).
+To obtain The Gods are Engorged achievement, you need to complete the following tasks within Noita.
+
+1. Complete Chapter One of the campaign mode with at least an A grade on each level.
+2. Obtain all three special abilities in a single playthrough (requires beating the game once).
