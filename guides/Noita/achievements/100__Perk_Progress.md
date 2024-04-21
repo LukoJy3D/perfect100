@@ -13,7 +13,7 @@ __
 :trophy: **Guide written by a human**:
 
 Obtain every perk at least once. Most of the perks can be found when entering the Holy Mountain, however there are a few hidden ones that require you to go to a specific spot, do specific actions or kill a specific enemy.
-Information about hidden perks can be found on the Noita wiki: https://noita.wiki.gg/wiki/Perks#Special_Perks (spoilers)
+Information about hidden perks can be found on the Noita wiki Sepcial Perks section of [Perks page](https://noita.wiki.gg/wiki/Perks#Special_Perks) (spoilers)
 
 ---
 
@@ -21,13 +21,14 @@ Information about hidden perks can be found on the Noita wiki: https://noita.wik
 
 To get 100% perks progress, you need to complete all the available quests and tasks. Here is how it can be done step-by-step:
 
-Step #1 - Complete Quest "The Great Outdoors" (available in Chapter II) which will unlock quest "A New Home". 
+Step #1 - Complete Quest "The Great Outdoors" (available in Chapter II) which will unlock quest "A New Home".
 
 To do this, simply follow these steps:
-   * Head to the northwest corner of the map and find a cave. Inside you'll see some rocks that can be moved around with your pickaxe. Move them aside until they reveal an opening leading down into another cavern. In there will be two NPCs, one who is carrying something important (a blueprint) while the other has been captured by bandits and needs to be rescued.
-   * Once you've freed him from his captors, he'll give you a quest called "A New Home". This task will take you through various locations on your way towards completing it. 
-   
+
+- Head to the northwest corner of the map and find a cave. Inside you'll see some rocks that can be moved around with your pickaxe. Move them aside until they reveal an opening leading down into another cavern. In there will be two NPCs, one who is carrying something important (a blueprint) while the other has been captured by bandits and needs to be rescued.
+- Once you've freed him from his captors, he'll give you a quest called "A New Home". This task will take you through various locations on your way towards completing it.
+
 Step #2 - Complete Quest "The Great Outdoors" (available in Chapter II) which will unlock quest "Forging Ahead", and then complete the Forged Steel Perk to get access to new tools such as a pickaxe, shovels or hammers.
-To do this: 
-   * Head back into your forge (located in Chapter II) after completing Quest "The Great Outdoors" and you'll see that the Forged Steel Perk is now available to unlock by crafting a pickaxe, shovels or hammers.
-   
+To do this:
+
+- Head back into your forge (located in Chapter II) after completing Quest "The Great Outdoors" and you'll see that the Forged Steel Perk is now available to unlock by crafting a pickaxe, shovels or hammers.
