@@ -38,7 +38,7 @@ __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" width="96" height="96">
 
-Owned by **54.0%** of players
+Owned by **54.1%** of players
 
 _Use a dialogue option related to V's life path 10 times._
 
@@ -54,7 +54,7 @@ __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" width="96" height="96">
 
-Owned by **47.9%** of players
+Owned by **48.0%** of players
 
 __
 
@@ -62,7 +62,7 @@ __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **46.3%** of players
+Owned by **46.4%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **38.5%** of players
+Owned by **38.6%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -102,7 +102,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" width="96" height="96">
 
-Owned by **37.3%** of players
+Owned by **37.4%** of players
 
 _Complete the main storyline._
 
@@ -118,7 +118,7 @@ __
 
 ## [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" width="96" height="96">
 
-Owned by **33.9%** of players
+Owned by **34.0%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **31.1%** of players
+Owned by **31.2%** of players
 
 __
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" width="96" height="96">
 
-Owned by **28.8%** of players
+Owned by **28.9%** of players
 
 _Craft 3 Legendary items._
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 ## [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" width="96" height="96">
 
-Owned by **27.9%** of players
+Owned by **28.0%** of players
 
 __
 
@@ -166,7 +166,7 @@ __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **23.8%** of players
+Owned by **23.9%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -174,7 +174,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 ## [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" width="96" height="96">
 
-Owned by **23.0%** of players
+Owned by **23.1%** of players
 
 _Complete all Cyberpsycho Sightings._
 
@@ -222,7 +222,7 @@ __
 
 ## [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" width="96" height="96">
 
-Owned by **16.6%** of players
+Owned by **16.7%** of players
 
 __
 
@@ -238,7 +238,7 @@ __
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" width="96" height="96">
 
-Owned by **15.6%** of players
+Owned by **15.7%** of players
 
 _Save President Myers._
 
@@ -246,7 +246,15 @@ _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" width="96" height="96">
 
-Owned by **15.3%** of players
+Owned by **15.5%** of players
+
+__
+
+---
+
+## [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" width="96" height="96">
+
+Owned by **13.1%** of players
 
 __
 
@@ -260,17 +268,9 @@ _Find all fast travel dataterms._
 
 ---
 
-## [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" width="96" height="96">
-
-Owned by **13.0%** of players
-
-__
-
----
-
 ## [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" width="96" height="96">
 
-Owned by **11.5%** of players
+Owned by **11.6%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -334,7 +334,7 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ## [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" width="96" height="96">
 
-Owned by **8.3%** of players
+Owned by **8.4%** of players
 
 __
 
@@ -342,7 +342,7 @@ __
 
 ## [Little Tokyo](achievements/Little_Tokyo.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" width="96" height="96">
 
-Owned by **8.0%** of players
+Owned by **8.1%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
@@ -406,7 +406,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 ## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **5.7%** of players
+Owned by **5.8%** of players
 
 _Complete every Gig in Dogtown._
 
@@ -414,7 +414,7 @@ _Complete every Gig in Dogtown._
 
 ## [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" width="96" height="96">
 
-Owned by **4.1%** of players
+Owned by **4.2%** of players
 
 __
 
@@ -430,7 +430,7 @@ __
 
 ## [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" width="96" height="96">
 
-Owned by **3.8%** of players
+Owned by **3.9%** of players
 
 _Become Dogtown's most wanted criminal._
 
@@ -446,7 +446,7 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 ## [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" width="96" height="96">
 
-Owned by **3.4%** of players
+Owned by **3.5%** of players
 
 __
 
