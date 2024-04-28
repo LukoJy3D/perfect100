@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" width="96" height="96">
 
-Owned by **40.1%** of players
+Owned by **40.2%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" width="96" height="96">
 
-Owned by **34.0%** of players
+Owned by **34.1%** of players
 
 __
 
@@ -374,7 +374,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ## [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" width="96" height="96">
 
-Owned by **6.6%** of players
+Owned by **6.7%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
