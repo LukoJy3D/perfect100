@@ -126,7 +126,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
-Owned by **32.6%** of players
+Owned by **32.7%** of players
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **31.2%** of players
+Owned by **31.3%** of players
 
 __
 
@@ -422,7 +422,7 @@ __
 
 ## [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" width="96" height="96">
 
-Owned by **4.0%** of players
+Owned by **4.1%** of players
 
 __
 
@@ -454,7 +454,7 @@ __
 
 ## [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" width="96" height="96">
 
-Owned by **2.4%** of players
+Owned by **2.5%** of players
 
 __
 
