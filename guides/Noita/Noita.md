@@ -22,7 +22,7 @@ __
 
 ## [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" width="96" height="96">
 
-Owned by **36.2%** of players
+Owned by **36.3%** of players
 
 __
 
@@ -30,7 +30,7 @@ __
 
 ## [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" width="96" height="96">
 
-Owned by **22.1%** of players
+Owned by **22.2%** of players
 
 __
 
@@ -70,7 +70,7 @@ __
 
 ## [The Gods Are Impressed](achievements/The_Gods_Are_Impressed.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" width="96" height="96">
 
-Owned by **2.9%** of players
+Owned by **3.0%** of players
 
 __
 
