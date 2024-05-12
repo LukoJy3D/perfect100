@@ -4,7 +4,7 @@ title: Reached Temple of the Art
 parent: Noita
 ---
 
-## Reached Temple of the Art (13.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" width="96" height="96">
+## Reached Temple of the Art (13.5%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" width="96" height="96">
 
 __
 

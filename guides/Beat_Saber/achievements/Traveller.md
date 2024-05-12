@@ -4,7 +4,7 @@ title: Traveller
 parent: Beat Saber
 ---
 
-## Traveller (29.6%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" width="96" height="96">
+## Traveller (29.5%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" width="96" height="96">
 
 _Get 100 kilometers travelled hand distance or more._
 

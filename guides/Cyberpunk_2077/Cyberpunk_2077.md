@@ -62,7 +62,7 @@ __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" width="96" height="96">
 
-Owned by **46.5%** of players
+Owned by **46.6%** of players
 
 _Kill or incapacitate 300 enemies using ranged weapons._
 
