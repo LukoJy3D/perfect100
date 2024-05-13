@@ -12,8 +12,15 @@ __
 
 :trophy: **Guide written by a human**:
 
-Obtain every perk at least once. Most of the perks can be found when entering the Holy Mountain, however there are a few hidden ones that require you to go to a specific spot, do specific actions or kill a specific enemy.
-Information about hidden perks can be found on the Noita wiki Sepcial Perks section of [Perks page](https://noita.wiki.gg/wiki/Perks#Special_Perks) (spoilers)
+Obtain every perk at least once. Most of the perks can be found when entering the Holy Mountain. However, if you win the game at least once, nightmare mode will unlock, which grants a minimum of 3 perks at the entrance of the mine.
+
+There are a few hidden ones that require you to go to a specific spot, do specific actions, or kill a particular enemy.
+
+- [Leggy Mutation](https://noita.wiki.gg/wiki/Leggy_Mutation)
+- [Moon Radar](https://noita.wiki.gg/wiki/Moon_Radar)
+- [Spatial Awareness](https://noita.wiki.gg/wiki/Spatial_Awareness)
+
+Complete information about hidden perks can be found on the Noita wiki Special Perks section of [Perks page](https://noita.wiki.gg/wiki/Perks#Special_Perks) (spoilers)
 
 ---
 

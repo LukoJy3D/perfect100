@@ -12,7 +12,9 @@ __
 
 :trophy: **Guide written by a human**:
 
-Reach the third area of the game (area after the Coal Pits). List of [biomes](https://noita.wiki.gg/wiki/Biomes)
+Reach the [third area](https://noita.wiki.com/wiki/Snowy_Depths) of the game (the area after the Coal Pits). 
+
+List of [biomes](https://noita.wiki.gg/wiki/Biomes)
 
 ---
 

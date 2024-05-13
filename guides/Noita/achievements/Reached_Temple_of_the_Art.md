@@ -12,7 +12,9 @@ __
 
 :trophy: **Guide written by a human**:
 
-Reach the seventh area of the game.
+Reach the [seventh area](https://noita.wiki.com/wiki/Temple_of_the_Art) of the game (the area after the Vault). 
+
+List of [biomes](https://noita.wiki.gg/wiki/Biomes)
 
 ---
 

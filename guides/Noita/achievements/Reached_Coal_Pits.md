@@ -12,7 +12,9 @@ __
 
 :trophy: **Guide written by a human**:
 
-Reach the second area of the game (area after the mines). List of [biomes](https://noita.wiki.gg/wiki/Biomes)
+Reach the [second area](https://noita.wiki.com/wiki/Coal_Pits) of the game (the area after the mines).
+
+List of [biomes](https://noita.wiki.gg/wiki/Biomes)
 
 ---
 
