@@ -6,7 +6,7 @@ has_children: true
 
 ## [Reached Coal Pits](achievements/Reached_Coal_Pits.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" width="96" height="96">
 
-Owned by **70.8%** of players
+Owned by **70.9%** of players
 
 __
 
@@ -14,7 +14,7 @@ __
 
 ## [Reached Snowy Depths](achievements/Reached_Snowy_Depths.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" width="96" height="96">
 
-Owned by **58.0%** of players
+Owned by **58.1%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 ## [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" width="96" height="96">
 
-Owned by **18.3%** of players
+Owned by **18.4%** of players
 
 __
 
