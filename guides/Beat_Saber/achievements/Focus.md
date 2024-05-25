@@ -4,7 +4,7 @@ title: Focus
 parent: Beat Saber
 ---
 
-## Focus (13.3%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" width="96" height="96">
+## Focus (13.2%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" width="96" height="96">
 
 _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 

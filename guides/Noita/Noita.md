@@ -30,7 +30,7 @@ __
 
 ## [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" width="96" height="96">
 
-Owned by **22.2%** of players
+Owned by **22.3%** of players
 
 __
 
@@ -54,7 +54,7 @@ __
 
 ## [Victory](achievements/Victory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" width="96" height="96">
 
-Owned by **9.7%** of players
+Owned by **9.8%** of players
 
 _Victory_
 
@@ -62,7 +62,7 @@ _Victory_
 
 ## [The Gods Are Enraged](achievements/The_Gods_Are_Enraged.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" width="96" height="96">
 
-Owned by **5.4%** of players
+Owned by **5.5%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 ## [Gathered All The Knowledge](achievements/Gathered_All_The_Knowledge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" width="96" height="96">
 
-Owned by **2.2%** of players
+Owned by **2.3%** of players
 
 __
 
