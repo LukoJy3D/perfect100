@@ -102,7 +102,7 @@ _Clear any level with disappearing arrows modifier._
 
 ## [Focus](achievements/Focus.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" width="96" height="96">
 
-Owned by **13.3%** of players
+Owned by **13.2%** of players
 
 _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
@@ -198,7 +198,7 @@ _Clear all missions in campaign._
 
 ## [Drum Kit](achievements/Drum_Kit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/92f2c0d8d6a634a572ea8a277abcc670651f60cb.jpg" width="96" height="96">
 
-Owned by **1.9%** of players
+Owned by **2.0%** of players
 
 _Get full combo on at least 15 different levels on hard difficulty (solo free play only)._
 

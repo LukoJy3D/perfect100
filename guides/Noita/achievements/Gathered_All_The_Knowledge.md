@@ -4,7 +4,7 @@ title: Gathered All The Knowledge
 parent: Noita
 ---
 
-## Gathered All The Knowledge (2.2%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" width="96" height="96">
+## Gathered All The Knowledge (2.3%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" width="96" height="96">
 
 __
 
