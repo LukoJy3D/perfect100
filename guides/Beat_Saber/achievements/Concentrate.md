@@ -4,7 +4,7 @@ title: Concentrate
 parent: Beat Saber
 ---
 
-## Concentrate (57.3%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e3507956238120eb713300d3dc2e225744779b36.jpg" width="96" height="96">
+## Concentrate (57.2%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e3507956238120eb713300d3dc2e225744779b36.jpg" width="96" height="96">
 
 _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 

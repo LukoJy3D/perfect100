@@ -4,7 +4,7 @@ title: Gunslinger
 parent: Cyberpunk 2077
 ---
 
-## Gunslinger (10.2%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
+## Gunslinger (10.1%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" width="96" height="96">
 
 _Shoot an enemy grenade in midair with a revolver._
 
