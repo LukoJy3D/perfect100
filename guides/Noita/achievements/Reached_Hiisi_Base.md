@@ -12,7 +12,9 @@ __
 
 :trophy: **Guide written by a human**:
 
-Reach the fourth area of the game (area after the Snowy Depths). List of [biomes](https://noita.wiki.gg/wiki/Biomes)
+Reach the [fourth area](https://noita.wiki.com/wiki/Hiisi_Base) of the game (the area after the Snowy Depths). 
+
+List of [biomes](https://noita.wiki.gg/wiki/Biomes)
 
 ---
 

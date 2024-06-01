@@ -13,7 +13,8 @@ __
 :trophy: **Guide written by a human**:
 
 Do over a million damage in one hit. Mods must be disabled to obtain this achievement.
-There are some high damage want builds on Noita wiki [Expert guides page](https://noita.wiki.gg/wiki/Expert_Guide:_High_Damage_Wands_with_Spells_to_Power), however these can be quite confusing for new players. I'd suggest getting the hang of basic [wand mechanics](https://noita.wiki.gg/wiki/Guide:_Wand_Mechanicsv) first before you move on to high damage wands.
+
+There are some high damage want builds on the Noita wiki [Expert guides page](https://noita.wiki.gg/wiki/Expert_Guide:_High_Damage_Wands_with_Spells_to_Power). However, these can be pretty confusing for new players. I'd suggest getting the hang of basic [wand mechanics](https://noita.wiki.gg/wiki/Guide:_Wand_Mechanicsv) first before you move on to high-damage wands.
 
 ---
 

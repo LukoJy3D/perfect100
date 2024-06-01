@@ -12,7 +12,9 @@ __
 
 :trophy: **Guide written by a human**:
 
-Reach the sixth area of the game.
+Reach the [sixth area](https://noita.wiki.com/wiki/The_Vault) of the game (the area after the Hiisi Base). 
+
+List of [biomes](https://noita.wiki.gg/wiki/Biomes)
 
 ---
 

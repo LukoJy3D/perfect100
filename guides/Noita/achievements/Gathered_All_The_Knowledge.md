@@ -12,8 +12,13 @@ __
 
 :trophy: **Guide written by a human**:
 
-Collect all 11 orbs of knowledge. Can be done in multiple runs.
-Map of the world can be found on Noita wiki Maps section of [Biomes page](https://noita.wiki.gg/wiki/Biomes#Maps) (major spoilers)
+Collect all 11 orbs of knowledge.
+
+It can be done in multiple runs. However, if you get a high-damage wand, a teleport wand, and a good digging wand, you can get all the orbs in one run while digging outside the biomes with minor interaction with enemies. The exception is Volume VIII, which is located in [The Work (Hell)](https://noita.wiki.gg/wiki/The_Work_(Hell)), which is protected by a thick layer of lava.
+
+The lava layer can be bypassed by using the `Freeze Field` perk or spell, which also helps to fight the lava-bleeding enemies.
+
+A complete list of orbs can be found on the Noita wiki [Orbs of True Knowledge page](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) and navigating with the help of the [map](https://noita.wiki.gg/wiki/Maps) (major spoilers)
 
 ---
 

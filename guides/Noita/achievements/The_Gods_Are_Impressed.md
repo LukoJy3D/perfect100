@@ -13,7 +13,8 @@ __
 :trophy: **Guide written by a human**:
 
 Create an infinite lifetime projectile. Mods must be disabled to obtain this achievement.
-Infinite lifetime spells can be created when a spell's lifetime is equal to 0. This can be achieved by using modifier spells which affect spells' lifetime. A fantastic guide about this can be found on the Noita wiki [Guide page](https://noita.wiki.gg/wiki/Guide:_Infinite_Lifetime_Spells)
+
+Infinite lifetime spells can be created when a spell's lifetime is equal to 0. This can be achieved by using modifier spells, which affect spells' lifetime. A fantastic guide about this can be found on the Noita wiki [Guide page](https://noita.wiki.gg/wiki/Guide:_Infinite_Lifetime_Spells)
 
 ---
 

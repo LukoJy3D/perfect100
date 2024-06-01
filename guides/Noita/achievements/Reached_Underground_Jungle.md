@@ -12,7 +12,9 @@ __
 
 :trophy: **Guide written by a human**:
 
-Reach the fifth area of the game.
+Reach the [fifth area](https://noita.wiki.com/wiki/Underground_Jungle) of the game (the area after the Hiisi Base). 
+
+List of [biomes](https://noita.wiki.gg/wiki/Biomes)
 
 ---
 

@@ -12,7 +12,8 @@ __
 
 :trophy: **Guide written by a human**:
 
-Kill every creature at least once, this includes all the secret bosses.
+Kill every creature at least once. This includes all the secret bosses.
+
 Information about how to find Noita's creatures can be found on the Noita wiki [Creatures page](https://noita.wiki.gg/wiki/Creatures) (spoilers)
 
 ---
