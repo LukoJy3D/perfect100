@@ -4,7 +4,7 @@ title: The Gods Are Afraid
 parent: Noita
 ---
 
-## The Gods Are Afraid (0.8%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/08794789c5e8c3f1f85e3993fb36a4b49ac29b91.jpg" width="96" height="96">
+## The Gods Are Afraid (0.9%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/08794789c5e8c3f1f85e3993fb36a4b49ac29b91.jpg" width="96" height="96">
 
 __
 
