@@ -4,7 +4,7 @@ title: To Bad Decisions!
 parent: Cyberpunk 2077
 ---
 
-## To Bad Decisions! (15.7%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
+## To Bad Decisions! (15.8%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" width="96" height="96">
 
 __
 
