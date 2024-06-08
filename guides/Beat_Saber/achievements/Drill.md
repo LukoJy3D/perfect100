@@ -4,7 +4,7 @@ title: Drill
 parent: Beat Saber
 ---
 
-## Drill (62.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" width="96" height="96">
+## Drill (62.3%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" width="96" height="96">
 
 _Get total 10 000 good cuts or more._
 
