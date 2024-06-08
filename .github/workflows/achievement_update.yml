@@ -9,7 +9,6 @@ on:
       - "main.go"
       - "go.mod"
       - "go.sum"
-  workflow_dispatch:
 
 jobs:
   changed-files:
@@ -43,6 +42,7 @@ jobs:
     name: Stat update matrix
     runs-on: ubuntu-latest
     needs: [changed-files]
+    if: needs.changed-files.outputs.matrix != '[]'
     strategy:
       matrix: 
         files: ${{ fromJSON(needs.changed-files.outputs.matrix) }}
@@ -70,3 +70,31 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: \"${{ matrix.files }}\" update by github actions [bot]"
+
+  stat_update:
+    name: All stats update
+    runs-on: ubuntu-latest
+    needs: [changed-files]
+    if: needs.changed-files.outputs.matrix == '[]'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.head_ref }}
+          submodules: recursive
+
+      - name: Configure Cmake
+        uses: threeal/cmake-action@v1.3.0
+        with:
+          run-build: true
+          source-dir: LlamaGPTJ-chat/
+
+      - name: Run script
+        run: go run main.go all
+
+      - name: Commit all changed files back to the repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: all achievement stats update by github actions [bot]"
