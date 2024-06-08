@@ -4,7 +4,7 @@ title: True Warrior
 parent: Cyberpunk 2077
 ---
 
-## True Warrior (32.6%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
+## True Warrior (32.7%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" width="96" height="96">
 
 _Kill or incapacitate 100 enemies using melee weapons._
 
