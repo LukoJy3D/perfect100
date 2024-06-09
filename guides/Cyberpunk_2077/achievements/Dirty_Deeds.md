@@ -4,7 +4,7 @@ title: Dirty Deeds
 parent: Cyberpunk 2077
 ---
 
-## Dirty Deeds (6.0%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
+## Dirty Deeds (6.1%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
 _Complete every Gig in Dogtown._
 
