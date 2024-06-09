@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" width="96" height="96">
 
-Owned by **38.9%** of players
+Owned by **39.0%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -134,7 +134,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" width="96" height="96">
 
-Owned by **31.2%** of players
+Owned by **31.3%** of players
 
 __
 
@@ -166,7 +166,7 @@ __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" width="96" height="96">
 
-Owned by **24.1%** of players
+Owned by **24.2%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -406,7 +406,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 ## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" width="96" height="96">
 
-Owned by **6.0%** of players
+Owned by **6.1%** of players
 
 _Complete every Gig in Dogtown._
 
