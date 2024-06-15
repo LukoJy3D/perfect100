@@ -4,7 +4,7 @@ title: Not the End
 parent: Beat Saber
 ---
 
-## Not the End (3.0%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/bfa4d78e680ee50386e1a0dd5b87aecead55d74e.jpg" width="96" height="96">
+## Not the End (3.0%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/bfa4d78e680ee50386e1a0dd5b87aecead55d74e.jpg" alt="'Not the End' achievement icon" width="96" height="96">
 
 _Clear final mission in campaign._
 
