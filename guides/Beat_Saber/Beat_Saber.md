@@ -70,7 +70,7 @@ _Get at least rank S on any level on hard difficulty without any modifiers._
 
 ## [Warm-up](achievements/Warm_up.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" width="96" height="96">
 
-Owned by **31.5%** of players
+Owned by **31.4%** of players
 
 _Clear 100 levels or more._
 
@@ -174,7 +174,7 @@ _Get rank S on at least 15 different levels on hard difficulty (solo free play o
 
 ## [Progress](achievements/Progress.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8a7800b32758c6857521c3bce6439bbe133d92af.jpg" width="96" height="96">
 
-Owned by **5.7%** of players
+Owned by **5.6%** of players
 
 _Clear 30 missions in campaign._
 
