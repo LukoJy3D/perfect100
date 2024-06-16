@@ -1,0 +1,10 @@
+{
+  "config": {
+    "line-length": false,
+    "no-inline-html": {
+      "allowed_elements": [
+        "img"
+      ]
+    }
+  }
+}
