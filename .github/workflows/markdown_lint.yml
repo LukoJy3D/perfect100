@@ -18,17 +18,17 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
           submodules: recursive
-          
+
       - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v44
         with:
           files: |
-             **.md
+            **.md
           separator: ","
 
       - name: Lint markdown
-        uses: DavidAnson/markdownlint-cli2-action@v15
+        uses: DavidAnson/markdownlint-cli2-action@v16
         with:
           config: .markdownlint-cli2.jsonc
           globs: ${{ steps.changed-files.outputs.all_changed_files }}
