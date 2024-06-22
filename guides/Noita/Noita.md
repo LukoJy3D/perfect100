@@ -6,7 +6,7 @@ has_children: true
 
 ## [Reached Coal Pits](achievements/Reached_Coal_Pits.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" alt="'Reached Coal Pits' achievement icon" width="96" height="96">
 
-Owned by **71.0%** of players
+Owned by **71.1%** of players
 
 __
 
@@ -14,7 +14,7 @@ __
 
 ## [Reached Snowy Depths](achievements/Reached_Snowy_Depths.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" alt="'Reached Snowy Depths' achievement icon" width="96" height="96">
 
-Owned by **58.2%** of players
+Owned by **58.3%** of players
 
 __
 
@@ -38,7 +38,7 @@ __
 
 ## [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" alt="'Reached The Vault' achievement icon" width="96" height="96">
 
-Owned by **18.5%** of players
+Owned by **18.6%** of players
 
 __
 
@@ -46,7 +46,7 @@ __
 
 ## [Reached Temple of the Art](achievements/Reached_Temple_of_the_Art.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" alt="'Reached Temple of the Art' achievement icon" width="96" height="96">
 
-Owned by **13.6%** of players
+Owned by **13.7%** of players
 
 __
 
@@ -62,7 +62,7 @@ _Victory_
 
 ## [The Gods Are Enraged](achievements/The_Gods_Are_Enraged.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" alt="'The Gods Are Enraged' achievement icon" width="96" height="96">
 
-Owned by **5.5%** of players
+Owned by **5.6%** of players
 
 __
 
@@ -70,7 +70,7 @@ __
 
 ## [The Gods Are Impressed](achievements/The_Gods_Are_Impressed.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" alt="'The Gods Are Impressed' achievement icon" width="96" height="96">
 
-Owned by **3.0%** of players
+Owned by **3.1%** of players
 
 __
 
