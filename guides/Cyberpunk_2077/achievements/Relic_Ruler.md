@@ -12,7 +12,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 

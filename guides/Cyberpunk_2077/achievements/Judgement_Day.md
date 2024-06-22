@@ -12,7 +12,7 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 

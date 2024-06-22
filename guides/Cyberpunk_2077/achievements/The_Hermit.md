@@ -12,11 +12,11 @@ __
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
 :robot: **AI hallucinations**:
 
-1) To unlock The Hermit achievement, you need to complete the quest "A New Dawn" which is available from your character creation screen. 
-2) Once completed, you will receive an email notification that informs about this new accomplishment and provides a link for claiming it on Steam or GOG Gamespy servers respectively.  
+1. To unlock The Hermit achievement, you need to complete the quest "A New Dawn" which is available from your character creation screen.
+2. Once completed, you will receive an email notification that informs about this new accomplishment and provides a link for claiming it on Steam or GOG Gamespy servers respectively.

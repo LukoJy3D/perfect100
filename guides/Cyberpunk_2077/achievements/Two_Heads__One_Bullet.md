@@ -12,7 +12,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 

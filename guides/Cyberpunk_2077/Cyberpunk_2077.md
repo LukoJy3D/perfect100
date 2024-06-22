@@ -8,7 +8,7 @@ has_children: true
 
 Owned by **89.6%** of players
 
-__
+Objective: __
 
 ---
 
@@ -16,15 +16,15 @@ __
 
 Owned by **70.9%** of players
 
-__
+Objective: __
 
 ---
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **68.5%** of players
+Owned by **68.6%** of players
 
-_Kill or incapacitate an enemy who threw a grenade at you._
+Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ---
 
@@ -32,7 +32,7 @@ _Kill or incapacitate an enemy who threw a grenade at you._
 
 Owned by **56.7%** of players
 
-__
+Objective: __
 
 ---
 
@@ -40,7 +40,7 @@ __
 
 Owned by **54.1%** of players
 
-_Use a dialogue option related to V's life path 10 times._
+Objective: _Use a dialogue option related to V's life path 10 times._
 
 ---
 
@@ -48,7 +48,7 @@ _Use a dialogue option related to V's life path 10 times._
 
 Owned by **53.0%** of players
 
-__
+Objective: __
 
 ---
 
@@ -56,7 +56,7 @@ __
 
 Owned by **48.1%** of players
 
-__
+Objective: __
 
 ---
 
@@ -64,7 +64,7 @@ __
 
 Owned by **46.7%** of players
 
-_Kill or incapacitate 300 enemies using ranged weapons._
+Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ---
 
@@ -72,7 +72,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 Owned by **42.2%** of players
 
-__
+Objective: __
 
 ---
 
@@ -80,7 +80,7 @@ __
 
 Owned by **42.1%** of players
 
-_Reach max Street Cred._
+Objective: _Reach max Street Cred._
 
 ---
 
@@ -88,7 +88,7 @@ _Reach max Street Cred._
 
 Owned by **40.6%** of players
 
-_Install at least one implant in each system and body part._
+Objective: _Install at least one implant in each system and body part._
 
 ---
 
@@ -96,7 +96,7 @@ _Install at least one implant in each system and body part._
 
 Owned by **39.1%** of players
 
-_Complete a Breach Protocol with a minimum of 3 daemons uploaded._
+Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ---
 
@@ -104,7 +104,7 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 Owned by **37.5%** of players
 
-_Complete the main storyline._
+Objective: _Complete the main storyline._
 
 ---
 
@@ -112,7 +112,7 @@ _Complete the main storyline._
 
 Owned by **34.4%** of players
 
-_Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
+Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
 ---
 
@@ -120,7 +120,7 @@ _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in
 
 Owned by **34.2%** of players
 
-__
+Objective: __
 
 ---
 
@@ -128,7 +128,7 @@ __
 
 Owned by **32.7%** of players
 
-_Kill or incapacitate 100 enemies using melee weapons._
+Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ---
 
@@ -136,7 +136,7 @@ _Kill or incapacitate 100 enemies using melee weapons._
 
 Owned by **31.3%** of players
 
-__
+Objective: __
 
 ---
 
@@ -144,7 +144,7 @@ __
 
 Owned by **29.5%** of players
 
-_Kill or incapacitate 2 enemies with the same sniper rifle shot._
+Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ---
 
@@ -152,7 +152,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 Owned by **29.3%** of players
 
-_Craft 3 Legendary items._
+Objective: _Craft 3 Legendary items._
 
 ---
 
@@ -160,7 +160,7 @@ _Craft 3 Legendary items._
 
 Owned by **28.1%** of players
 
-__
+Objective: __
 
 ---
 
@@ -168,7 +168,7 @@ __
 
 Owned by **24.3%** of players
 
-_Kill or incapacitate 50 enemies while time is slowed._
+Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
 ---
 
@@ -176,7 +176,7 @@ _Kill or incapacitate 50 enemies while time is slowed._
 
 Owned by **23.3%** of players
 
-_Complete all Cyberpsycho Sightings._
+Objective: _Complete all Cyberpsycho Sightings._
 
 ---
 
@@ -184,7 +184,7 @@ _Complete all Cyberpsycho Sightings._
 
 Owned by **21.9%** of players
 
-_Find all the tarot graffiti for the job Fool on the Hill._
+Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
 ---
 
@@ -192,7 +192,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 Owned by **21.4%** of players
 
-_After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
+Objective: _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
 ---
 
@@ -200,7 +200,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 Owned by **21.3%** of players
 
-_Reach the max level in any skill._
+Objective: _Reach the max level in any skill._
 
 ---
 
@@ -208,7 +208,7 @@ _Reach the max level in any skill._
 
 Owned by **18.3%** of players
 
-_Collect all items that once belonged to Johnny Silverhand._
+Objective: _Collect all items that once belonged to Johnny Silverhand._
 
 ---
 
@@ -216,7 +216,7 @@ _Collect all items that once belonged to Johnny Silverhand._
 
 Owned by **17.9%** of players
 
-__
+Objective: __
 
 ---
 
@@ -224,7 +224,7 @@ __
 
 Owned by **16.8%** of players
 
-__
+Objective: __
 
 ---
 
@@ -232,7 +232,7 @@ __
 
 Owned by **16.6%** of players
 
-_Save President Myers._
+Objective: _Save President Myers._
 
 ---
 
@@ -240,7 +240,7 @@ _Save President Myers._
 
 Owned by **16.3%** of players
 
-__
+Objective: __
 
 ---
 
@@ -248,7 +248,7 @@ __
 
 Owned by **15.9%** of players
 
-__
+Objective: __
 
 ---
 
@@ -256,7 +256,7 @@ __
 
 Owned by **13.1%** of players
 
-__
+Objective: __
 
 ---
 
@@ -264,7 +264,7 @@ __
 
 Owned by **12.8%** of players
 
-_Find all fast travel dataterms._
+Objective: _Find all fast travel dataterms._
 
 ---
 
@@ -272,7 +272,7 @@ _Find all fast travel dataterms._
 
 Owned by **11.5%** of players
 
-_Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
+Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ---
 
@@ -280,7 +280,7 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 Owned by **11.3%** of players
 
-_Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
+Objective: _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 
 ---
 
@@ -288,7 +288,7 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 Owned by **10.6%** of players
 
-_Complete all gigs and NCPD Scanner Hustles in Heywood._
+Objective: _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ---
 
@@ -296,7 +296,7 @@ _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 Owned by **10.2%** of players
 
-_Shoot an enemy grenade in midair with a revolver._
+Objective: _Shoot an enemy grenade in midair with a revolver._
 
 ---
 
@@ -304,7 +304,7 @@ _Shoot an enemy grenade in midair with a revolver._
 
 Owned by **9.4%** of players
 
-_Complete all gigs and NCPD Scanner Hustles in City Center._
+Objective: _Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ---
 
@@ -312,7 +312,7 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 
 Owned by **9.4%** of players
 
-_Complete all gigs and NCPD Scanner Hustles in Watson._
+Objective: _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ---
 
@@ -320,7 +320,7 @@ _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 Owned by **9.0%** of players
 
-__
+Objective: __
 
 ---
 
@@ -328,7 +328,7 @@ __
 
 Owned by **8.8%** of players
 
-_While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
+Objective: _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
 ---
 
@@ -336,7 +336,7 @@ _While Berserk cyberware is active, perform a Superhero Landing to kill or incap
 
 Owned by **8.5%** of players
 
-_Complete all gigs and NCPD Scanner Hustles in Pacifica._
+Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ---
 
@@ -344,7 +344,7 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 Owned by **8.1%** of players
 
-_Complete all gigs and NCPD Scanner Hustles in Westbrook._
+Objective: _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 ---
 
@@ -352,7 +352,7 @@ _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 Owned by **7.8%** of players
 
-__
+Objective: __
 
 ---
 
@@ -360,7 +360,7 @@ __
 
 Owned by **7.6%** of players
 
-_Buy all vehicles available for purchase._
+Objective: _Buy all vehicles available for purchase._
 
 ---
 
@@ -368,7 +368,7 @@ _Buy all vehicles available for purchase._
 
 Owned by **7.4%** of players
 
-_Complete all gigs and NCPD Scanner Hustles in the Badlands._
+Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ---
 
@@ -376,7 +376,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 Owned by **7.1%** of players
 
-_Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
+Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 ---
 
@@ -384,7 +384,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 Owned by **6.8%** of players
 
-__
+Objective: __
 
 ---
 
@@ -392,7 +392,7 @@ __
 
 Owned by **6.3%** of players
 
-_Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
+Objective: _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 ---
 
@@ -400,7 +400,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 Owned by **6.2%** of players
 
-_Unlock all Perks in the Relic Perk tree._
+Objective: _Unlock all Perks in the Relic Perk tree._
 
 ---
 
@@ -408,7 +408,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 Owned by **6.2%** of players
 
-_Complete every Gig in Dogtown._
+Objective: _Complete every Gig in Dogtown._
 
 ---
 
@@ -416,7 +416,7 @@ _Complete every Gig in Dogtown._
 
 Owned by **4.4%** of players
 
-__
+Objective: __
 
 ---
 
@@ -424,7 +424,7 @@ __
 
 Owned by **4.3%** of players
 
-__
+Objective: __
 
 ---
 
@@ -432,7 +432,7 @@ __
 
 Owned by **4.2%** of players
 
-_Become Dogtown's most wanted criminal._
+Objective: _Become Dogtown's most wanted criminal._
 
 ---
 
@@ -440,7 +440,7 @@ _Become Dogtown's most wanted criminal._
 
 Owned by **4.0%** of players
 
-_Eliminate three bosses from the "Increased criminal activity" category._
+Objective: _Eliminate three bosses from the "Increased criminal activity" category._
 
 ---
 
@@ -448,7 +448,7 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 Owned by **3.7%** of players
 
-__
+Objective: __
 
 ---
 
@@ -456,7 +456,4 @@ __
 
 Owned by **2.6%** of players
 
-__
-
----
-
+Objective: __

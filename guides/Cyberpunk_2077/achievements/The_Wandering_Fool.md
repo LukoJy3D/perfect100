@@ -12,7 +12,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 

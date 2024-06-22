@@ -12,11 +12,11 @@ _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
 :robot: **AI hallucinations**:
 
-1. To complete the Gigs, you need to visit each of the locations listed on your map (orange markers). Each location will have a unique task that needs completing before it can be marked as completed. 
+1. To complete the Gigs, you need to visit each of the locations listed on your map (orange markers). Each location will have a unique task that needs completing before it can be marked as completed.
 2. Once all gigs are done, return to Westbrook Police Department Scanner HQ and speak with Officer Kaminsky for an NCPD Scanner Husstle reward.

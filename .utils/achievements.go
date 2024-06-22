@@ -60,6 +60,9 @@ func Achievements(gameName string) {
 		// Get the text from the title tag
 		title := doc.Find("title").Text()
 
+		// Get the total number of achievements
+		totalAchievements := doc.Find(".achieveRow").Length()
+
 		// Extract the game title from the title text
 		gameTitle := strings.Split(title, "::")[1]
 		gameTitle = strings.TrimSpace(gameTitle)
@@ -105,8 +108,14 @@ func Achievements(gameName string) {
 			modifiedAchiName := ReplaceForbiddenCharacters(achieveTextH3)
 			guidePath := "achievements/" + modifiedAchiName + ".md"
 
-			markdown := fmt.Sprintf("## [%s](%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n"+
-				"Owned by **%s** of players\r\n\r\n_%s_\r\n\r\n---\r\n\r\n", achieveTextH3, guidePath, imageSrc, achieveTextH3, achievePercent, achieveTextH5)
+			var markdown string
+			if i == totalAchievements-1 {
+				markdown = fmt.Sprintf("## [%s](%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n"+
+					"Owned by **%s** of players\r\n\r\nObjective: _%s_\r\n", achieveTextH3, guidePath, imageSrc, achieveTextH3, achievePercent, achieveTextH5)
+			} else {
+				markdown = fmt.Sprintf("## [%s](%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n"+
+					"Owned by **%s** of players\r\n\r\n_%s_\r\n\r\n---\r\n\r\n", achieveTextH3, guidePath, imageSrc, achieveTextH3, achievePercent, achieveTextH5)
+			}
 
 			fmt.Printf("Populating achievement list - Game: \"%s\", Achievement: \"%s\"...\n", gameTitleRaw, achieveTextH3)
 
@@ -191,7 +200,7 @@ func Achievements(gameName string) {
 
 					markdown2 := fmt.Sprintf("---\r\nlayout: default\ntitle: %s\nparent: %s\r\n---\r\n\r\n"+
 						"## %s (%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n---\r\n\r\n"+
-						":trophy: **Guide written by a human**:\r\n\r\n_Add guide here_\r\n\r\n---\r\n\r\n:robot: **AI hallucinations**:\r\n\r\n%s",
+						":trophy: **Guide written by a human**:\r\n\r\n> :writing_hand: Add guide content here!\r\n\r\n---\r\n\r\n:robot: **AI hallucinations**:\r\n\r\n%s",
 						achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH3, achieveTextH5, answer)
 					f2.WriteString(markdown2)
 				}

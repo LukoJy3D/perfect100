@@ -12,12 +12,13 @@ _While Berserk cyberware is active, perform a Superhero Landing to kill or incap
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
 :robot: **AI hallucinations**:
 
 To complete the Rough landing achievement in Cyperpunk 2077 you need to while bersekcyberwear is activated and performing super hero landings. You will have to perform a Superhero Landing on two different foes, which means that they must be enemies of your choosing who are not already dead or knocked out by other players in the game world.
-To achieve this achievement you need to follow these steps: 
-1) Activate bersekcyberwear and perform a Superhero Landing on two different foes, which means that they must be enemies of your choosing who are not already dead or knocked out by other players in the game world.
+To achieve this achievement you need to follow these steps:
+
+1. Activate bersekcyberwear and perform a Superhero Landing on two different foes, which means that they must be enemies of your choosing who are not already dead or knocked out by other players in the game world.

@@ -12,7 +12,7 @@ _Install at least one implant in each system and body part._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
