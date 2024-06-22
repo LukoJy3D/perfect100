@@ -12,14 +12,16 @@ _Craft 3 Legendary items._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
 :robot: **AI hallucinations**:
 
 To craft three legendary items, you will need the following materials:
+
 1. X amount of Y material (specify what each item needs)
-* For example - To make a legendary sword with steel and adamantium requires 50 units of iron ore and 20 units of diamond dust.
-   
+
+- For example - To make a legendary sword with steel and adamantium requires 50 units of iron ore and 20 units of diamond dust.
+
 You can find these items by exploring the world or completing quests/missions that require them as rewards, but you may also need to purchase some materials from merchants in town if they are not found naturally during your adventures.

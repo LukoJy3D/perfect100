@@ -12,13 +12,13 @@ __
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
 :robot: **AI hallucinations**:
 
-1. Open the menu and select "Story" from there, then choose "Citizen of Night City". 
-2. Complete all available quests until you reach level cap (currently at Level 5). 
+1. Open the menu and select "Story" from there, then choose "Citizen of Night City".
+2. Complete all available quests until you reach level cap (currently at Level 5).
 3. Head over to 'Juicy's Bar', which is located in a seedy part of the city called The Dusty Depot, and talk with Juicebox herself for some extra XP boosting opportunities.
 4. Once you have reached level cap (currently at Level 5), head back out into Night City to complete more quests until your next opportunity comes up in 'Juicy's Bar'.

@@ -12,7 +12,7 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 

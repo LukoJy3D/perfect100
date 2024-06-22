@@ -12,7 +12,7 @@ _Reach max Street Cred._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 

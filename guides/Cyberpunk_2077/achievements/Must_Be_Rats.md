@@ -12,13 +12,14 @@ _Perform the Distract Enemies quickhack 30 times without drawing attention to yo
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
 :robot: **AI hallucinations**:
 
 To perform this hack, you need to follow these steps:
-1. Start playing Cyberspace and select a random NPC (Non-Player Character) from any location in Night City. You can do so by pressing the 'Select' button on your controller or keyboard. 
-2. Once selected, start attacking them with whatever weaponry you have at hand until they are defeated. Make sure to avoid attracting too much attention as this will ruin your hack and make it harder for you to complete later tasks in Cyberspace. You can do so by simply running away or using stealth tactics if available, such as hiding behind objects like walls or crates. 
+
+1. Start playing Cyberspace and select a random NPC (Non-Player Character) from any location in Night City. You can do so by pressing the 'Select' button on your controller or keyboard.
+2. Once selected, start attacking them with whatever weaponry you have at hand until they are defeated. Make sure to avoid attracting too much attention as this will ruin your hack and make it harder for you to complete later tasks in Cyberspace. You can do so by simply running away or using stealth tactics if available, such as hiding behind objects like walls or crates.
 3. Once the NPC is defeated, they won't come back again unless there are other players nearby who have also selected them for attacking purposes. This means you will need to repeat this process multiple times until your desired number of kills has been achieved (in this case, thirty).

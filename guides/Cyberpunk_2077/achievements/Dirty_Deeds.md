@@ -12,13 +12,14 @@ _Complete every Gig in Dogtown._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
 :robot: **AI hallucinations**:
 
 To complete all Gigs (or quests) in the Dogtown district of Cyperpunk 2077, follow these steps:
+
 1. Start by completing any available missions or tasks that are currently active within Dogtown. These can be found on your map and/or through NPCs who may offer you a quest to complete for them.
 2. Once all current quests have been completed in the district, move onto exploring it thoroughly until you've discovered every available location (such as shops or buildings). This will help unlock any hidden objectives within Dogtown that require specific locations be visited/explored before they can become active for completion purposes.
 3. Once all possible locations have been found and checked, return to the district again in order to complete whatever remaining quests you may still need to finish up (such as defeating a boss or collecting items). This will ensure that any final objectives within Dogtown are completed before moving on from it for good.

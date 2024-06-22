@@ -112,7 +112,4 @@ __
 
 Owned by **0.4%** of players
 
-__
-
----
-
+Objective: __

@@ -8,7 +8,7 @@ has_children: true
 
 Owned by **81.4%** of players
 
-_Clear any level without any modifiers._
+Objective: _Clear any level without any modifiers._
 
 ---
 
@@ -16,7 +16,7 @@ _Clear any level without any modifiers._
 
 Owned by **68.5%** of players
 
-_Clear any level on normal difficulty and get at least 50 combo without any modifiers._
+Objective: _Clear any level on normal difficulty and get at least 50 combo without any modifiers._
 
 ---
 
@@ -24,7 +24,7 @@ _Clear any level on normal difficulty and get at least 50 combo without any modi
 
 Owned by **62.3%** of players
 
-_Get total 10 000 good cuts or more._
+Objective: _Get total 10 000 good cuts or more._
 
 ---
 
@@ -32,7 +32,7 @@ _Get total 10 000 good cuts or more._
 
 Owned by **59.2%** of players
 
-_Get at least rank A on any level on normal difficulty without any modifiers._
+Objective: _Get at least rank A on any level on normal difficulty without any modifiers._
 
 ---
 
@@ -40,7 +40,7 @@ _Get at least rank A on any level on normal difficulty without any modifiers._
 
 Owned by **57.2%** of players
 
-_Clear any level on hard difficulty and get at least 100 combo without any modifiers._
+Objective: _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 
 ---
 
@@ -48,7 +48,7 @@ _Clear any level on hard difficulty and get at least 100 combo without any modif
 
 Owned by **46.4%** of players
 
-_Clear any level on expert difficulty without any modifiers._
+Objective: _Clear any level on expert difficulty without any modifiers._
 
 ---
 
@@ -56,7 +56,7 @@ _Clear any level on expert difficulty without any modifiers._
 
 Owned by **42.0%** of players
 
-_Finish the tutorial._
+Objective: _Finish the tutorial._
 
 ---
 
@@ -64,7 +64,7 @@ _Finish the tutorial._
 
 Owned by **33.0%** of players
 
-_Get at least rank S on any level on hard difficulty without any modifiers._
+Objective: _Get at least rank S on any level on hard difficulty without any modifiers._
 
 ---
 
@@ -72,7 +72,7 @@ _Get at least rank S on any level on hard difficulty without any modifiers._
 
 Owned by **31.4%** of players
 
-_Clear 100 levels or more._
+Objective: _Clear 100 levels or more._
 
 ---
 
@@ -80,7 +80,7 @@ _Clear 100 levels or more._
 
 Owned by **29.7%** of players
 
-_Clear any level with faster song speed modifier._
+Objective: _Clear any level with faster song speed modifier._
 
 ---
 
@@ -88,7 +88,7 @@ _Clear any level with faster song speed modifier._
 
 Owned by **29.5%** of players
 
-_Get 100 kilometers travelled hand distance or more._
+Objective: _Get 100 kilometers travelled hand distance or more._
 
 ---
 
@@ -96,7 +96,7 @@ _Get 100 kilometers travelled hand distance or more._
 
 Owned by **25.3%** of players
 
-_Clear any level with disappearing arrows modifier._
+Objective: _Clear any level with disappearing arrows modifier._
 
 ---
 
@@ -104,7 +104,7 @@ _Clear any level with disappearing arrows modifier._
 
 Owned by **13.2%** of players
 
-_Clear any level on expert difficulty and get at least 500 combo without any modifiers._
+Objective: _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
 ---
 
@@ -112,7 +112,7 @@ _Clear any level on expert difficulty and get at least 500 combo without any mod
 
 Owned by **12.8%** of players
 
-_Get full combo on any level on expert difficulty without any modifiers._
+Objective: _Get full combo on any level on expert difficulty without any modifiers._
 
 ---
 
@@ -120,7 +120,7 @@ _Get full combo on any level on expert difficulty without any modifiers._
 
 Owned by **11.4%** of players
 
-_Get total played time 24 hours or more._
+Objective: _Get total played time 24 hours or more._
 
 ---
 
@@ -128,7 +128,7 @@ _Get total played time 24 hours or more._
 
 Owned by **11.1%** of players
 
-_Get total score 100 million or more._
+Objective: _Get total score 100 million or more._
 
 ---
 
@@ -136,7 +136,7 @@ _Get total score 100 million or more._
 
 Owned by **8.4%** of players
 
-_Get rank S on at least 15 different levels on expert difficulty (solo free play only)._
+Objective: _Get rank S on at least 15 different levels on expert difficulty (solo free play only)._
 
 ---
 
@@ -144,7 +144,7 @@ _Get rank S on at least 15 different levels on expert difficulty (solo free play
 
 Owned by **7.6%** of players
 
-_Clear any level with One Life modifier._
+Objective: _Clear any level with One Life modifier._
 
 ---
 
@@ -152,7 +152,7 @@ _Clear any level with One Life modifier._
 
 Owned by **7.5%** of players
 
-_Get rank SS on any level on expert difficulty without any modifiers._
+Objective: _Get rank SS on any level on expert difficulty without any modifiers._
 
 ---
 
@@ -160,7 +160,7 @@ _Get rank SS on any level on expert difficulty without any modifiers._
 
 Owned by **7.0%** of players
 
-_Clear any level with 4 Lives modifier._
+Objective: _Clear any level with 4 Lives modifier._
 
 ---
 
@@ -168,7 +168,7 @@ _Clear any level with 4 Lives modifier._
 
 Owned by **6.6%** of players
 
-_Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
+Objective: _Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
 
 ---
 
@@ -176,7 +176,7 @@ _Get rank S on at least 15 different levels on hard difficulty (solo free play o
 
 Owned by **5.6%** of players
 
-_Clear 30 missions in campaign._
+Objective: _Clear 30 missions in campaign._
 
 ---
 
@@ -184,7 +184,7 @@ _Clear 30 missions in campaign._
 
 Owned by **3.0%** of players
 
-_Clear final mission in campaign._
+Objective: _Clear final mission in campaign._
 
 ---
 
@@ -192,7 +192,7 @@ _Clear final mission in campaign._
 
 Owned by **2.1%** of players
 
-_Clear all missions in campaign._
+Objective: _Clear all missions in campaign._
 
 ---
 
@@ -200,7 +200,7 @@ _Clear all missions in campaign._
 
 Owned by **2.0%** of players
 
-_Get full combo on at least 15 different levels on hard difficulty (solo free play only)._
+Objective: _Get full combo on at least 15 different levels on hard difficulty (solo free play only)._
 
 ---
 
@@ -208,7 +208,4 @@ _Get full combo on at least 15 different levels on hard difficulty (solo free pl
 
 Owned by **1.8%** of players
 
-_Get full combo on at least 15 different levels on expert difficulty (solo free play only)._
-
----
-
+Objective: _Get full combo on at least 15 different levels on expert difficulty (solo free play only)._

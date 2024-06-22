@@ -12,7 +12,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 :trophy: **Guide written by a human**:
 
-_Add guide here_
+> :writing_hand: Add guide content here!
 
 ---
 
