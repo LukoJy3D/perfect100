@@ -114,7 +114,7 @@ func Achievements(gameName string) {
 					"Owned by **%s** of players\r\n\r\nObjective: _%s_\r\n", achieveTextH3, guidePath, imageSrc, achieveTextH3, achievePercent, achieveTextH5)
 			} else {
 				markdown = fmt.Sprintf("## [%s](%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n"+
-					"Owned by **%s** of players\r\n\r\n_%s_\r\n\r\n---\r\n\r\n", achieveTextH3, guidePath, imageSrc, achieveTextH3, achievePercent, achieveTextH5)
+					"Owned by **%s** of players\r\n\r\nObjective: _%s_\r\n\r\n---\r\n\r\n", achieveTextH3, guidePath, imageSrc, achieveTextH3, achievePercent, achieveTextH5)
 			}
 
 			fmt.Printf("Populating achievement list - Game: \"%s\", Achievement: \"%s\"...\n", gameTitleRaw, achieveTextH3)
