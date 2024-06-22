@@ -70,7 +70,7 @@ _Kill or incapacitate 300 enemies using ranged weapons._
 
 ## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" alt="'Life of the Road' achievement icon" width="96" height="96">
 
-Owned by **42.1%** of players
+Owned by **42.2%** of players
 
 __
 
@@ -78,7 +78,7 @@ __
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" alt="'Legend of The Afterlife' achievement icon" width="96" height="96">
 
-Owned by **42.0%** of players
+Owned by **42.1%** of players
 
 _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" alt="'Full Body Conversion' achievement icon" width="96" height="96">
 
-Owned by **40.5%** of players
+Owned by **40.6%** of players
 
 _Install at least one implant in each system and body part._
 
@@ -94,7 +94,7 @@ _Install at least one implant in each system and body part._
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" alt="'Christmas Tree Attack' achievement icon" width="96" height="96">
 
-Owned by **39.0%** of players
+Owned by **39.1%** of players
 
 _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -110,7 +110,7 @@ _Complete the main storyline._
 
 ## [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" alt="'Gun Fu' achievement icon" width="96" height="96">
 
-Owned by **34.3%** of players
+Owned by **34.4%** of players
 
 _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -150,7 +150,7 @@ _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" alt="'Master Crafter' achievement icon" width="96" height="96">
 
-Owned by **29.2%** of players
+Owned by **29.3%** of players
 
 _Craft 3 Legendary items._
 
@@ -158,7 +158,7 @@ _Craft 3 Legendary items._
 
 ## [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" alt="'To Protect and Serve' achievement icon" width="96" height="96">
 
-Owned by **28.0%** of players
+Owned by **28.1%** of players
 
 __
 
@@ -166,7 +166,7 @@ __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" alt="'The Quick and the Dead' achievement icon" width="96" height="96">
 
-Owned by **24.2%** of players
+Owned by **24.3%** of players
 
 _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -190,7 +190,7 @@ _Find all the tarot graffiti for the job Fool on the Hill._
 
 ## [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" alt="'V for Vendetta' achievement icon" width="96" height="96">
 
-Owned by **21.5%** of players
+Owned by **21.4%** of players
 
 _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -198,7 +198,7 @@ _After reviving with Second Heart, kill or incapacitate the enemy who killed you
 
 ## [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" alt="'Ten out of Ten' achievement icon" width="96" height="96">
 
-Owned by **21.2%** of players
+Owned by **21.3%** of players
 
 _Reach the max level in any skill._
 
@@ -214,7 +214,7 @@ _Collect all items that once belonged to Johnny Silverhand._
 
 ## [The Star](achievements/The_Star.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg" alt="'The Star' achievement icon" width="96" height="96">
 
-Owned by **17.8%** of players
+Owned by **17.9%** of players
 
 __
 
@@ -230,7 +230,7 @@ __
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **16.5%** of players
+Owned by **16.6%** of players
 
 _Save President Myers._
 
@@ -238,7 +238,7 @@ _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **16.2%** of players
+Owned by **16.3%** of players
 
 __
 
@@ -246,7 +246,7 @@ __
 
 ## [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" alt="'To Bad Decisions!' achievement icon" width="96" height="96">
 
-Owned by **15.8%** of players
+Owned by **15.9%** of players
 
 __
 
@@ -310,7 +310,7 @@ _Complete all gigs and NCPD Scanner Hustles in City Center._
 
 ## [It's Elementary](achievements/It_s_Elementary.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg" alt="'It's Elementary' achievement icon" width="96" height="96">
 
-Owned by **9.3%** of players
+Owned by **9.4%** of players
 
 _Complete all gigs and NCPD Scanner Hustles in Watson._
 
@@ -318,7 +318,7 @@ _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ## [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" alt="'Spin Doctor' achievement icon" width="96" height="96">
 
-Owned by **8.9%** of players
+Owned by **9.0%** of players
 
 __
 
@@ -374,7 +374,7 @@ _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ## [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" alt="'Easy Come, Easy Go' achievement icon" width="96" height="96">
 
-Owned by **7.0%** of players
+Owned by **7.1%** of players
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
@@ -382,7 +382,7 @@ _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
 ## [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" alt="'King of Wands' achievement icon" width="96" height="96">
 
-Owned by **6.7%** of players
+Owned by **6.8%** of players
 
 __
 
@@ -398,7 +398,7 @@ _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack._
 
 ## [Relic Ruler](achievements/Relic_Ruler.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg" alt="'Relic Ruler' achievement icon" width="96" height="96">
 
-Owned by **6.1%** of players
+Owned by **6.2%** of players
 
 _Unlock all Perks in the Relic Perk tree._
 
@@ -406,7 +406,7 @@ _Unlock all Perks in the Relic Perk tree._
 
 ## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" alt="'Dirty Deeds' achievement icon" width="96" height="96">
 
-Owned by **6.1%** of players
+Owned by **6.2%** of players
 
 _Complete every Gig in Dogtown._
 
@@ -422,7 +422,7 @@ __
 
 ## [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" alt="'King of Swords' achievement icon" width="96" height="96">
 
-Owned by **4.2%** of players
+Owned by **4.3%** of players
 
 __
 
@@ -438,7 +438,7 @@ _Become Dogtown's most wanted criminal._
 
 ## [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" alt="'Judgement Day' achievement icon" width="96" height="96">
 
-Owned by **3.9%** of players
+Owned by **4.0%** of players
 
 _Eliminate three bosses from the "Increased criminal activity" category._
 
