@@ -8,7 +8,7 @@ has_children: true
 
 Owned by **71.1%** of players
 
-Objective: __
+__
 
 ---
 
@@ -16,7 +16,7 @@ Objective: __
 
 Owned by **58.3%** of players
 
-Objective: __
+__
 
 ---
 
@@ -24,7 +24,7 @@ Objective: __
 
 Owned by **36.5%** of players
 
-Objective: __
+__
 
 ---
 
@@ -32,7 +32,7 @@ Objective: __
 
 Owned by **22.4%** of players
 
-Objective: __
+__
 
 ---
 
@@ -40,7 +40,7 @@ Objective: __
 
 Owned by **18.6%** of players
 
-Objective: __
+__
 
 ---
 
@@ -48,7 +48,7 @@ Objective: __
 
 Owned by **13.7%** of players
 
-Objective: __
+__
 
 ---
 
@@ -56,7 +56,7 @@ Objective: __
 
 Owned by **9.8%** of players
 
-Objective: _Victory_
+_Victory_
 
 ---
 
@@ -64,7 +64,7 @@ Objective: _Victory_
 
 Owned by **5.6%** of players
 
-Objective: __
+__
 
 ---
 
@@ -72,7 +72,7 @@ Objective: __
 
 Owned by **3.1%** of players
 
-Objective: __
+__
 
 ---
 
@@ -80,7 +80,7 @@ Objective: __
 
 Owned by **2.3%** of players
 
-Objective: __
+__
 
 ---
 
@@ -88,7 +88,7 @@ Objective: __
 
 Owned by **0.9%** of players
 
-Objective: __
+__
 
 ---
 
@@ -96,7 +96,7 @@ Objective: __
 
 Owned by **0.8%** of players
 
-Objective: __
+__
 
 ---
 
@@ -104,7 +104,7 @@ Objective: __
 
 Owned by **0.4%** of players
 
-Objective: __
+__
 
 ---
 
