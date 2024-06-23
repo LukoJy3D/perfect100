@@ -142,7 +142,7 @@ Objective: __
 
 ## [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" alt="'Two Heads, One Bullet' achievement icon" width="96" height="96">
 
-Owned by **29.5%** of players
+Owned by **29.6%** of players
 
 Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
