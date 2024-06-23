@@ -2,14 +2,7 @@ name: Achievement guide update
 
 on:
   pull_request_target:
-    paths:
-      - "guides/**"
-      - ".utils/achievements.go"
-      - "games.yml"
-      - "main.go"
-      - "go.mod"
-      - "go.sum"
-
+    types: [opened, synchronize, reopened]
 jobs:
   changed-files:
     name: Get changed files
