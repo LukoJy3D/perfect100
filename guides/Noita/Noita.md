@@ -14,7 +14,7 @@ Objective: __
 
 ## [Reached Snowy Depths](achievements/Reached_Snowy_Depths.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" alt="'Reached Snowy Depths' achievement icon" width="96" height="96">
 
-Owned by **58.3%** of players
+Owned by **58.2%** of players
 
 Objective: __
 
@@ -22,7 +22,7 @@ Objective: __
 
 ## [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" alt="'Reached Hiisi Base' achievement icon" width="96" height="96">
 
-Owned by **36.5%** of players
+Owned by **36.4%** of players
 
 Objective: __
 
@@ -30,7 +30,7 @@ Objective: __
 
 ## [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" alt="'Reached Underground Jungle' achievement icon" width="96" height="96">
 
-Owned by **22.4%** of players
+Owned by **22.3%** of players
 
 Objective: __
 
@@ -70,7 +70,7 @@ Objective: __
 
 ## [The Gods Are Impressed](achievements/The_Gods_Are_Impressed.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" alt="'The Gods Are Impressed' achievement icon" width="96" height="96">
 
-Owned by **3.1%** of players
+Owned by **3.0%** of players
 
 Objective: __
 
