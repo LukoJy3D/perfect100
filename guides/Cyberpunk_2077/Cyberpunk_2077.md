@@ -30,7 +30,7 @@ Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" alt="'The Wheel of Fortune' achievement icon" width="96" height="96">
 
-Owned by **56.6%** of players
+Owned by **56.5%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" alt="'Stanislavski's Method' achievement icon" width="96" height="96">
 
-Owned by **54.0%** of players
+Owned by **53.9%** of players
 
 Objective: _Use a dialogue option related to V's life path 10 times._
 
@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **37.5%** of players
+Owned by **37.4%** of players
 
 Objective: _Complete the main storyline._
 
