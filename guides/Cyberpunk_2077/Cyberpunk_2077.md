@@ -22,7 +22,7 @@ Objective: __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **68.5%** of players
+Owned by **68.4%** of players
 
 Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -62,7 +62,7 @@ Objective: __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
 
-Owned by **46.7%** of players
+Owned by **46.6%** of players
 
 Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -94,7 +94,7 @@ Objective: _Install at least one implant in each system and body part._
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" alt="'Christmas Tree Attack' achievement icon" width="96" height="96">
 
-Owned by **39.1%** of players
+Owned by **39.0%** of players
 
 Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -118,7 +118,7 @@ Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver o
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" alt="'Bushido and Chill' achievement icon" width="96" height="96">
 
-Owned by **34.2%** of players
+Owned by **34.1%** of players
 
 Objective: __
 
@@ -150,7 +150,7 @@ Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" alt="'Master Crafter' achievement icon" width="96" height="96">
 
-Owned by **29.3%** of players
+Owned by **29.2%** of players
 
 Objective: _Craft 3 Legendary items._
 
@@ -262,7 +262,7 @@ Objective: __
 
 ## [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" alt="'Frequent Flyer' achievement icon" width="96" height="96">
 
-Owned by **12.8%** of players
+Owned by **12.7%** of players
 
 Objective: _Find all fast travel dataterms._
 
@@ -286,7 +286,7 @@ Objective: _Perform the Distract Enemies quickhack 30 times without drawing atte
 
 ## [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" alt="'Mean Streets' achievement icon" width="96" height="96">
 
-Owned by **10.6%** of players
+Owned by **10.5%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
@@ -294,7 +294,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
 ## [Gunslinger](achievements/Gunslinger.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg" alt="'Gunslinger' achievement icon" width="96" height="96">
 
-Owned by **10.2%** of players
+Owned by **10.1%** of players
 
 Objective: _Shoot an enemy grenade in midair with a revolver._
 
