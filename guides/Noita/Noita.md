@@ -30,7 +30,7 @@ Objective: __
 
 ## [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" alt="'Reached Underground Jungle' achievement icon" width="96" height="96">
 
-Owned by **22.3%** of players
+Owned by **22.2%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" alt="'Reached The Vault' achievement icon" width="96" height="96">
 
-Owned by **18.5%** of players
+Owned by **18.4%** of players
 
 Objective: __
 
@@ -46,7 +46,7 @@ Objective: __
 
 ## [Reached Temple of the Art](achievements/Reached_Temple_of_the_Art.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" alt="'Reached Temple of the Art' achievement icon" width="96" height="96">
 
-Owned by **13.6%** of players
+Owned by **13.5%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [Victory](achievements/Victory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" alt="'Victory' achievement icon" width="96" height="96">
 
-Owned by **9.8%** of players
+Owned by **9.7%** of players
 
 Objective: _Victory_
 
