@@ -14,7 +14,7 @@ Objective: __
 
 ## [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" alt="'The Lovers' achievement icon" width="96" height="96">
 
-Owned by **70.8%** of players
+Owned by **70.7%** of players
 
 Objective: __
 
@@ -22,7 +22,7 @@ Objective: __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **68.4%** of players
+Owned by **68.3%** of players
 
 Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" alt="'The Wheel of Fortune' achievement icon" width="96" height="96">
 
-Owned by **56.5%** of players
+Owned by **56.4%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" alt="'Stanislavski's Method' achievement icon" width="96" height="96">
 
-Owned by **53.9%** of players
+Owned by **53.8%** of players
 
 Objective: _Use a dialogue option related to V's life path 10 times._
 
@@ -46,7 +46,7 @@ Objective: _Use a dialogue option related to V's life path 10 times._
 
 ## [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" alt="'The Hermit' achievement icon" width="96" height="96">
 
-Owned by **52.9%** of players
+Owned by **52.8%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" alt="'The High Priestess' achievement icon" width="96" height="96">
 
-Owned by **48.0%** of players
+Owned by **47.8%** of players
 
 Objective: __
 
@@ -62,7 +62,7 @@ Objective: __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
 
-Owned by **46.6%** of players
+Owned by **46.5%** of players
 
 Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" alt="'Life of the Road' achievement icon" width="96" height="96">
 
-Owned by **42.1%** of players
+Owned by **41.9%** of players
 
 Objective: __
 
@@ -78,7 +78,7 @@ Objective: __
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" alt="'Legend of The Afterlife' achievement icon" width="96" height="96">
 
-Owned by **42.0%** of players
+Owned by **41.9%** of players
 
 Objective: _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ Objective: _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" alt="'Full Body Conversion' achievement icon" width="96" height="96">
 
-Owned by **40.6%** of players
+Owned by **40.5%** of players
 
 Objective: _Install at least one implant in each system and body part._
 
@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **37.4%** of players
+Owned by **37.3%** of players
 
 Objective: _Complete the main storyline._
 
@@ -118,7 +118,7 @@ Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver o
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" alt="'Bushido and Chill' achievement icon" width="96" height="96">
 
-Owned by **34.1%** of players
+Owned by **34.0%** of players
 
 Objective: __
 
@@ -126,7 +126,7 @@ Objective: __
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" alt="'True Warrior' achievement icon" width="96" height="96">
 
-Owned by **32.7%** of players
+Owned by **32.6%** of players
 
 Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -134,7 +134,7 @@ Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" alt="'Judy vs Night City' achievement icon" width="96" height="96">
 
-Owned by **31.3%** of players
+Owned by **31.2%** of players
 
 Objective: __
 
@@ -142,7 +142,7 @@ Objective: __
 
 ## [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" alt="'Two Heads, One Bullet' achievement icon" width="96" height="96">
 
-Owned by **29.5%** of players
+Owned by **29.4%** of players
 
 Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -158,7 +158,7 @@ Objective: _Craft 3 Legendary items._
 
 ## [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" alt="'To Protect and Serve' achievement icon" width="96" height="96">
 
-Owned by **28.0%** of players
+Owned by **27.9%** of players
 
 Objective: __
 
@@ -166,7 +166,7 @@ Objective: __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" alt="'The Quick and the Dead' achievement icon" width="96" height="96">
 
-Owned by **24.3%** of players
+Owned by **24.2%** of players
 
 Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -174,7 +174,7 @@ Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
 ## [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" alt="'I Am The Law' achievement icon" width="96" height="96">
 
-Owned by **23.3%** of players
+Owned by **23.2%** of players
 
 Objective: _Complete all Cyberpsycho Sightings._
 
@@ -182,7 +182,7 @@ Objective: _Complete all Cyberpsycho Sightings._
 
 ## [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" alt="'The Wandering Fool' achievement icon" width="96" height="96">
 
-Owned by **21.9%** of players
+Owned by **21.8%** of players
 
 Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -190,7 +190,7 @@ Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
 ## [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" alt="'V for Vendetta' achievement icon" width="96" height="96">
 
-Owned by **21.4%** of players
+Owned by **21.3%** of players
 
 Objective: _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -198,7 +198,7 @@ Objective: _After reviving with Second Heart, kill or incapacitate the enemy who
 
 ## [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" alt="'Ten out of Ten' achievement icon" width="96" height="96">
 
-Owned by **21.2%** of players
+Owned by **21.1%** of players
 
 Objective: _Reach the max level in any skill._
 
@@ -206,7 +206,7 @@ Objective: _Reach the max level in any skill._
 
 ## [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" alt="'Breathtaking' achievement icon" width="96" height="96">
 
-Owned by **18.3%** of players
+Owned by **18.2%** of players
 
 Objective: _Collect all items that once belonged to Johnny Silverhand._
 
@@ -238,7 +238,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **16.4%** of players
+Owned by **16.5%** of players
 
 Objective: __
 
@@ -254,7 +254,7 @@ Objective: __
 
 ## [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" alt="'Temperance' achievement icon" width="96" height="96">
 
-Owned by **13.1%** of players
+Owned by **13.0%** of players
 
 Objective: __
 
@@ -270,7 +270,7 @@ Objective: _Find all fast travel dataterms._
 
 ## [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" alt="'The Jungle' achievement icon" width="96" height="96">
 
-Owned by **11.5%** of players
+Owned by **11.4%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -334,7 +334,7 @@ Objective: _While Berserk cyberware is active, perform a Superhero Landing to ki
 
 ## [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" alt="'Greetings from Pacifica!' achievement icon" width="96" height="96">
 
-Owned by **8.5%** of players
+Owned by **8.4%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
@@ -342,7 +342,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ## [Little Tokyo](achievements/Little_Tokyo.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" alt="'Little Tokyo' achievement icon" width="96" height="96">
 
-Owned by **8.1%** of players
+Owned by **8.0%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
@@ -366,7 +366,7 @@ Objective: _Buy all vehicles available for purchase._
 
 ## [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" alt="'The Wasteland' achievement icon" width="96" height="96">
 
-Owned by **7.4%** of players
+Owned by **7.3%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
@@ -382,7 +382,7 @@ Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan
 
 ## [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" alt="'King of Wands' achievement icon" width="96" height="96">
 
-Owned by **6.8%** of players
+Owned by **6.9%** of players
 
 Objective: __
 
@@ -414,7 +414,7 @@ Objective: _Complete every Gig in Dogtown._
 
 ## [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" alt="'The Tower' achievement icon" width="96" height="96">
 
-Owned by **4.4%** of players
+Owned by **4.5%** of players
 
 Objective: __
 
