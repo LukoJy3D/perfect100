@@ -220,19 +220,19 @@ Objective: __
 
 ---
 
-## [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" alt="'The Sun' achievement icon" width="96" height="96">
-
-Owned by **16.8%** of players
-
-Objective: __
-
----
-
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
 Owned by **16.7%** of players
 
 Objective: _Save President Myers._
+
+---
+
+## [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" alt="'The Sun' achievement icon" width="96" height="96">
+
+Owned by **16.7%** of players
+
+Objective: __
 
 ---
 
