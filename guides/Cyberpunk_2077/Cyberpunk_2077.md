@@ -14,7 +14,7 @@ Objective: __
 
 ## [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" alt="'The Lovers' achievement icon" width="96" height="96">
 
-Owned by **70.7%** of players
+Owned by **70.6%** of players
 
 Objective: __
 
@@ -94,7 +94,7 @@ Objective: _Install at least one implant in each system and body part._
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" alt="'Christmas Tree Attack' achievement icon" width="96" height="96">
 
-Owned by **39.0%** of players
+Owned by **39.1%** of players
 
 Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -126,7 +126,7 @@ Objective: __
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" alt="'True Warrior' achievement icon" width="96" height="96">
 
-Owned by **32.6%** of players
+Owned by **32.5%** of players
 
 Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -142,7 +142,7 @@ Objective: __
 
 ## [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" alt="'Two Heads, One Bullet' achievement icon" width="96" height="96">
 
-Owned by **29.4%** of players
+Owned by **29.3%** of players
 
 Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -182,7 +182,7 @@ Objective: _Complete all Cyberpsycho Sightings._
 
 ## [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" alt="'The Wandering Fool' achievement icon" width="96" height="96">
 
-Owned by **21.8%** of players
+Owned by **21.7%** of players
 
 Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -222,7 +222,7 @@ Objective: __
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **16.7%** of players
+Owned by **16.8%** of players
 
 Objective: _Save President Myers._
 
@@ -238,7 +238,7 @@ Objective: __
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **16.5%** of players
+Owned by **16.6%** of players
 
 Objective: __
 
@@ -246,7 +246,7 @@ Objective: __
 
 ## [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" alt="'To Bad Decisions!' achievement icon" width="96" height="96">
 
-Owned by **15.8%** of players
+Owned by **15.7%** of players
 
 Objective: __
 
@@ -262,7 +262,7 @@ Objective: __
 
 ## [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" alt="'Frequent Flyer' achievement icon" width="96" height="96">
 
-Owned by **12.7%** of players
+Owned by **12.6%** of players
 
 Objective: _Find all fast travel dataterms._
 
@@ -278,7 +278,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ## [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" alt="'Must Be Rats' achievement icon" width="96" height="96">
 
-Owned by **11.3%** of players
+Owned by **11.2%** of players
 
 Objective: _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 
@@ -374,7 +374,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ## [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" alt="'Easy Come, Easy Go' achievement icon" width="96" height="96">
 
-Owned by **7.1%** of players
+Owned by **7.2%** of players
 
 Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
@@ -430,7 +430,7 @@ Objective: __
 
 ## [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" alt="'The APB is Not Enough' achievement icon" width="96" height="96">
 
-Owned by **4.2%** of players
+Owned by **4.3%** of players
 
 Objective: _Become Dogtown's most wanted criminal._
 
@@ -446,7 +446,7 @@ Objective: _Eliminate three bosses from the "Increased criminal activity" catego
 
 ## [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" alt="'King of Pentacles' achievement icon" width="96" height="96">
 
-Owned by **3.7%** of players
+Owned by **3.8%** of players
 
 Objective: __
 
@@ -454,6 +454,6 @@ Objective: __
 
 ## [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" alt="'King of Cups' achievement icon" width="96" height="96">
 
-Owned by **2.6%** of players
+Owned by **2.7%** of players
 
 Objective: __
