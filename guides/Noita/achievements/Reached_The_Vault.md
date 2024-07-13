@@ -4,7 +4,7 @@ title: Reached The Vault
 parent: Noita
 ---
 
-## Reached The Vault (18.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" alt="'Reached The Vault' achievement icon" width="96" height="96">
+## Reached The Vault (18.3%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" alt="'Reached The Vault' achievement icon" width="96" height="96">
 
 __
 
