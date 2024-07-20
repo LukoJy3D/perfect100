@@ -118,7 +118,7 @@ Objective: _Get full combo on any level on expert difficulty without any modifie
 
 ## [Day & Night](achievements/Day___Night.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/83cc09fe8c596a49684738859ec04bb172594d5a.jpg" alt="'Day & Night' achievement icon" width="96" height="96">
 
-Owned by **11.4%** of players
+Owned by **11.3%** of players
 
 Objective: _Get total played time 24 hours or more._
 
