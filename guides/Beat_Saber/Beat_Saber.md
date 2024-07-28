@@ -78,7 +78,7 @@ Objective: _Clear 100 levels or more._
 
 ## [Faster](achievements/Faster.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" alt="'Faster' achievement icon" width="96" height="96">
 
-Owned by **29.7%** of players
+Owned by **29.6%** of players
 
 Objective: _Clear any level with faster song speed modifier._
 
