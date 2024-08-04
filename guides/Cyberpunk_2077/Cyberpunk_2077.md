@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **37.4%** of players
+Owned by **37.5%** of players
 
 Objective: _Complete the main storyline._
 
@@ -166,7 +166,7 @@ Objective: __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" alt="'The Quick and the Dead' achievement icon" width="96" height="96">
 
-Owned by **24.4%** of players
+Owned by **24.5%** of players
 
 Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -230,7 +230,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **16.9%** of players
+Owned by **17.0%** of players
 
 Objective: __
 
@@ -374,7 +374,7 @@ Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan
 
 ## [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" alt="'The Wasteland' achievement icon" width="96" height="96">
 
-Owned by **7.3%** of players
+Owned by **7.4%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
