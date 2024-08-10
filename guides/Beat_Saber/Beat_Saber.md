@@ -22,7 +22,7 @@ Objective: _Clear any level on normal difficulty and get at least 50 combo witho
 
 ## [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" alt="'Drill' achievement icon" width="96" height="96">
 
-Owned by **62.3%** of players
+Owned by **62.2%** of players
 
 Objective: _Get total 10 000 good cuts or more._
 
@@ -70,7 +70,7 @@ Objective: _Get at least rank S on any level on hard difficulty without any modi
 
 ## [Warm-up](achievements/Warm_up.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" alt="'Warm-up' achievement icon" width="96" height="96">
 
-Owned by **31.4%** of players
+Owned by **31.3%** of players
 
 Objective: _Clear 100 levels or more._
 
@@ -110,7 +110,7 @@ Objective: _Clear any level on expert difficulty and get at least 500 combo with
 
 ## [Supreme](achievements/Supreme.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" alt="'Supreme' achievement icon" width="96" height="96">
 
-Owned by **12.8%** of players
+Owned by **12.7%** of players
 
 Objective: _Get full combo on any level on expert difficulty without any modifiers._
 
