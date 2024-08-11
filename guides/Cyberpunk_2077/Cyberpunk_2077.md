@@ -230,7 +230,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **17.0%** of players
+Owned by **17.1%** of players
 
 Objective: __
 
@@ -382,7 +382,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
 ## [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" alt="'King of Wands' achievement icon" width="96" height="96">
 
-Owned by **7.1%** of players
+Owned by **7.2%** of players
 
 Objective: __
 
