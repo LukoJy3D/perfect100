@@ -14,7 +14,7 @@ Objective: __
 
 ## [Reached Snowy Depths](achievements/Reached_Snowy_Depths.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" alt="'Reached Snowy Depths' achievement icon" width="96" height="96">
 
-Owned by **58.4%** of players
+Owned by **58.5%** of players
 
 Objective: __
 
@@ -22,7 +22,7 @@ Objective: __
 
 ## [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" alt="'Reached Hiisi Base' achievement icon" width="96" height="96">
 
-Owned by **36.5%** of players
+Owned by **36.6%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" alt="'Reached The Vault' achievement icon" width="96" height="96">
 
-Owned by **18.5%** of players
+Owned by **18.6%** of players
 
 Objective: __
 
@@ -46,7 +46,7 @@ Objective: __
 
 ## [Reached Temple of the Art](achievements/Reached_Temple_of_the_Art.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" alt="'Reached Temple of the Art' achievement icon" width="96" height="96">
 
-Owned by **13.6%** of players
+Owned by **13.7%** of players
 
 Objective: __
 
@@ -94,7 +94,7 @@ Objective: __
 
 ## [100% Perk Progress](achievements/100__Perk_Progress.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/4a730e833b0b3d1c626ea5036db56e81054b7d7b.jpg" alt="'100% Perk Progress' achievement icon" width="96" height="96">
 
-Owned by **0.8%** of players
+Owned by **0.9%** of players
 
 Objective: __
 
