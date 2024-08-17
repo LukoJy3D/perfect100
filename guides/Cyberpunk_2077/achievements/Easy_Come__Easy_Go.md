@@ -4,7 +4,7 @@ title: Easy Come, Easy Go
 parent: Cyberpunk 2077
 ---
 
-## Easy Come, Easy Go (7.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" alt="'Easy Come, Easy Go' achievement icon" width="96" height="96">
+## Easy Come, Easy Go (7.5%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" alt="'Easy Come, Easy Go' achievement icon" width="96" height="96">
 
 _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
 
