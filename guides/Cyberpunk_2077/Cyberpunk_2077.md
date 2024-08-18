@@ -22,7 +22,7 @@ Objective: __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **68.4%** of players
+Owned by **68.3%** of players
 
 Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" alt="'Stanislavski's Method' achievement icon" width="96" height="96">
 
-Owned by **53.9%** of players
+Owned by **53.8%** of players
 
 Objective: _Use a dialogue option related to V's life path 10 times._
 
@@ -86,7 +86,7 @@ Objective: _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" alt="'Full Body Conversion' achievement icon" width="96" height="96">
 
-Owned by **40.9%** of players
+Owned by **40.8%** of players
 
 Objective: _Install at least one implant in each system and body part._
 
@@ -134,7 +134,7 @@ Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" alt="'Judy vs Night City' achievement icon" width="96" height="96">
 
-Owned by **31.3%** of players
+Owned by **31.2%** of players
 
 Objective: __
 
@@ -198,7 +198,7 @@ Objective: _Reach the max level in any skill._
 
 ## [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" alt="'V for Vendetta' achievement icon" width="96" height="96">
 
-Owned by **21.1%** of players
+Owned by **21.0%** of players
 
 Objective: _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -238,7 +238,7 @@ Objective: __
 
 ## [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" alt="'The Sun' achievement icon" width="96" height="96">
 
-Owned by **16.9%** of players
+Owned by **16.8%** of players
 
 Objective: __
 
@@ -286,7 +286,7 @@ Objective: _Perform the Distract Enemies quickhack 30 times without drawing atte
 
 ## [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" alt="'Mean Streets' achievement icon" width="96" height="96">
 
-Owned by **10.5%** of players
+Owned by **10.4%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
@@ -374,7 +374,7 @@ Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan
 
 ## [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" alt="'The Wasteland' achievement icon" width="96" height="96">
 
-Owned by **7.4%** of players
+Owned by **7.3%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
