@@ -46,7 +46,7 @@ Objective: _Clear any level on hard difficulty and get at least 100 combo withou
 
 ## [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" alt="'Expert' achievement icon" width="96" height="96">
 
-Owned by **46.3%** of players
+Owned by **46.2%** of players
 
 Objective: _Clear any level on expert difficulty without any modifiers._
 
@@ -86,7 +86,7 @@ Objective: _Clear any level with faster song speed modifier._
 
 ## [Traveller](achievements/Traveller.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" alt="'Traveller' achievement icon" width="96" height="96">
 
-Owned by **29.5%** of players
+Owned by **29.4%** of players
 
 Objective: _Get 100 kilometers travelled hand distance or more._
 
