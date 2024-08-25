@@ -342,7 +342,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ## [Little Tokyo](achievements/Little_Tokyo.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" alt="'Little Tokyo' achievement icon" width="96" height="96">
 
-Owned by **8.0%** of players
+Owned by **8.1%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
