@@ -230,7 +230,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **17.2%** of players
+Owned by **17.3%** of players
 
 Objective: __
 
@@ -238,7 +238,7 @@ Objective: __
 
 ## [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" alt="'The Sun' achievement icon" width="96" height="96">
 
-Owned by **16.8%** of players
+Owned by **16.9%** of players
 
 Objective: __
 
@@ -254,7 +254,7 @@ Objective: __
 
 ## [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" alt="'Temperance' achievement icon" width="96" height="96">
 
-Owned by **13.0%** of players
+Owned by **13.1%** of players
 
 Objective: __
 
@@ -262,7 +262,7 @@ Objective: __
 
 ## [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" alt="'Frequent Flyer' achievement icon" width="96" height="96">
 
-Owned by **12.5%** of players
+Owned by **12.4%** of players
 
 Objective: _Find all fast travel dataterms._
 
