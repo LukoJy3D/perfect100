@@ -94,7 +94,7 @@ Objective: _Get 100 kilometers travelled hand distance or more._
 
 ## [Memory](achievements/Memory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" alt="'Memory' achievement icon" width="96" height="96">
 
-Owned by **25.2%** of players
+Owned by **25.1%** of players
 
 Objective: _Clear any level with disappearing arrows modifier._
 

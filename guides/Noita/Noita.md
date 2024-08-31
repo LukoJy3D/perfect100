@@ -30,7 +30,7 @@ Objective: __
 
 ## [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" alt="'Reached Underground Jungle' achievement icon" width="96" height="96">
 
-Owned by **22.4%** of players
+Owned by **22.5%** of players
 
 Objective: __
 
@@ -62,7 +62,7 @@ Objective: _Victory_
 
 ## [The Gods Are Enraged](achievements/The_Gods_Are_Enraged.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg" alt="'The Gods Are Enraged' achievement icon" width="96" height="96">
 
-Owned by **5.6%** of players
+Owned by **5.7%** of players
 
 Objective: __
 
