@@ -62,7 +62,7 @@ Objective: __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
 
-Owned by **46.8%** of players
+Owned by **46.9%** of players
 
 Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -118,7 +118,7 @@ Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver o
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" alt="'Bushido and Chill' achievement icon" width="96" height="96">
 
-Owned by **34.1%** of players
+Owned by **34.2%** of players
 
 Objective: __
 
@@ -374,7 +374,7 @@ Objective: _Buy all vehicles available for purchase._
 
 ## [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" alt="'The Wasteland' achievement icon" width="96" height="96">
 
-Owned by **7.3%** of players
+Owned by **7.4%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
@@ -390,7 +390,7 @@ Objective: __
 
 ## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" alt="'Dirty Deeds' achievement icon" width="96" height="96">
 
-Owned by **6.5%** of players
+Owned by **6.6%** of players
 
 Objective: _Complete every Gig in Dogtown._
 
@@ -438,7 +438,7 @@ Objective: _Become Dogtown's most wanted criminal._
 
 ## [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" alt="'Judgement Day' achievement icon" width="96" height="96">
 
-Owned by **4.2%** of players
+Owned by **4.3%** of players
 
 Objective: _Eliminate three bosses from the "Increased criminal activity" category._
 
