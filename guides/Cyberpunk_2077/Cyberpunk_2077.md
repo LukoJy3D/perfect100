@@ -54,7 +54,7 @@ Objective: __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" alt="'The High Priestess' achievement icon" width="96" height="96">
 
-Owned by **47.9%** of players
+Owned by **48.0%** of players
 
 Objective: __
 
@@ -68,19 +68,19 @@ Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ---
 
+## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" alt="'Life of the Road' achievement icon" width="96" height="96">
+
+Owned by **42.1%** of players
+
+Objective: __
+
+---
+
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" alt="'Legend of The Afterlife' achievement icon" width="96" height="96">
 
 Owned by **42.1%** of players
 
 Objective: _Reach max Street Cred._
-
----
-
-## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" alt="'Life of the Road' achievement icon" width="96" height="96">
-
-Owned by **42.0%** of players
-
-Objective: __
 
 ---
 
@@ -94,7 +94,7 @@ Objective: _Install at least one implant in each system and body part._
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" alt="'Christmas Tree Attack' achievement icon" width="96" height="96">
 
-Owned by **39.5%** of players
+Owned by **39.6%** of players
 
 Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -134,7 +134,7 @@ Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" alt="'Judy vs Night City' achievement icon" width="96" height="96">
 
-Owned by **31.2%** of players
+Owned by **31.3%** of players
 
 Objective: __
 
@@ -182,7 +182,7 @@ Objective: _Complete all Cyberpsycho Sightings._
 
 ## [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" alt="'The Wandering Fool' achievement icon" width="96" height="96">
 
-Owned by **21.8%** of players
+Owned by **21.9%** of players
 
 Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -222,7 +222,7 @@ Objective: __
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **17.6%** of players
+Owned by **17.7%** of players
 
 Objective: _Save President Myers._
 
@@ -230,7 +230,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **17.3%** of players
+Owned by **17.4%** of players
 
 Objective: __
 
@@ -270,7 +270,7 @@ Objective: _Find all fast travel dataterms._
 
 ## [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" alt="'Must Be Rats' achievement icon" width="96" height="96">
 
-Owned by **11.3%** of players
+Owned by **11.4%** of players
 
 Objective: _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 
@@ -310,7 +310,7 @@ Objective: __
 
 ## [City Lights](achievements/City_Lights.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg" alt="'City Lights' achievement icon" width="96" height="96">
 
-Owned by **9.3%** of players
+Owned by **9.4%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in City Center._
 
@@ -356,19 +356,19 @@ Objective: __
 
 ---
 
+## [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" alt="'Autojock' achievement icon" width="96" height="96">
+
+Owned by **7.7%** of players
+
+Objective: _Buy all vehicles available for purchase._
+
+---
+
 ## [Easy Come, Easy Go](achievements/Easy_Come__Easy_Go.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg" alt="'Easy Come, Easy Go' achievement icon" width="96" height="96">
 
 Owned by **7.6%** of players
 
 Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
-
----
-
-## [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" alt="'Autojock' achievement icon" width="96" height="96">
-
-Owned by **7.6%** of players
-
-Objective: _Buy all vehicles available for purchase._
 
 ---
 
@@ -422,7 +422,7 @@ Objective: __
 
 ## [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" alt="'King of Swords' achievement icon" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 Objective: __
 
@@ -430,7 +430,7 @@ Objective: __
 
 ## [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" alt="'The APB is Not Enough' achievement icon" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 Objective: _Become Dogtown's most wanted criminal._
 
@@ -454,6 +454,6 @@ Objective: __
 
 ## [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" alt="'King of Cups' achievement icon" width="96" height="96">
 
-Owned by **2.8%** of players
+Owned by **2.9%** of players
 
 Objective: __
