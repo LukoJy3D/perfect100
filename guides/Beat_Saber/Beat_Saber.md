@@ -14,7 +14,7 @@ Objective: _Clear any level without any modifiers._
 
 ## [Pay Attention](achievements/Pay_Attention.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/7412a3bf9be32f8ad14949382586349b16dc77f2.jpg" alt="'Pay Attention' achievement icon" width="96" height="96">
 
-Owned by **68.4%** of players
+Owned by **68.5%** of players
 
 Objective: _Clear any level on normal difficulty and get at least 50 combo without any modifiers._
 
@@ -54,7 +54,7 @@ Objective: _Clear any level on expert difficulty without any modifiers._
 
 ## [You Are Ready](achievements/You_Are_Ready.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg" alt="'You Are Ready' achievement icon" width="96" height="96">
 
-Owned by **42.1%** of players
+Owned by **42.2%** of players
 
 Objective: _Finish the tutorial._
 
@@ -78,7 +78,7 @@ Objective: _Clear 100 levels or more._
 
 ## [Faster](achievements/Faster.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" alt="'Faster' achievement icon" width="96" height="96">
 
-Owned by **29.6%** of players
+Owned by **29.5%** of players
 
 Objective: _Clear any level with faster song speed modifier._
 
