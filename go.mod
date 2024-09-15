@@ -1,13 +1,15 @@
 module perfect100
 
-go 1.21.3
+go 1.23
+
+toolchain go1.23.1
 
 require (
-	github.com/PuerkitoBio/goquery v1.9.2
+	github.com/PuerkitoBio/goquery v1.10.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
 	github.com/andybalholm/cascadia v1.3.2 // indirect
-	golang.org/x/net v0.24.0 // indirect
+	golang.org/x/net v0.29.0 // indirect
 )
