@@ -78,7 +78,7 @@ Objective: __
 
 ## [Gathered All The Knowledge](achievements/Gathered_All_The_Knowledge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" alt="'Gathered All The Knowledge' achievement icon" width="96" height="96">
 
-Owned by **2.3%** of players
+Owned by **2.4%** of players
 
 Objective: __
 
