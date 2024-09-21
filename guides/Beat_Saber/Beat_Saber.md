@@ -38,7 +38,7 @@ Objective: _Get at least rank A on any level on normal difficulty without any mo
 
 ## [Concentrate](achievements/Concentrate.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e3507956238120eb713300d3dc2e225744779b36.jpg" alt="'Concentrate' achievement icon" width="96" height="96">
 
-Owned by **57.1%** of players
+Owned by **57.0%** of players
 
 Objective: _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 
