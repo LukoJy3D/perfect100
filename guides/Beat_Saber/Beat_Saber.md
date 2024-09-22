@@ -30,7 +30,7 @@ Objective: _Get total 10 000 good cuts or more._
 
 ## [Good Enough](achievements/Good_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/fbc0983f37696e78b519b738979f137fa01f42a5.jpg" alt="'Good Enough' achievement icon" width="96" height="96">
 
-Owned by **59.2%** of players
+Owned by **59.1%** of players
 
 Objective: _Get at least rank A on any level on normal difficulty without any modifiers._
 
