@@ -4,7 +4,7 @@ title: Good Enough
 parent: Beat Saber
 ---
 
-## Good Enough (59.2%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/fbc0983f37696e78b519b738979f137fa01f42a5.jpg" alt="'Good Enough' achievement icon" width="96" height="96">
+## Good Enough (59.1%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/fbc0983f37696e78b519b738979f137fa01f42a5.jpg" alt="'Good Enough' achievement icon" width="96" height="96">
 
 _Get at least rank A on any level on normal difficulty without any modifiers._
 
