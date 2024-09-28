@@ -22,7 +22,7 @@ Objective: _Clear any level on normal difficulty and get at least 50 combo witho
 
 ## [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" alt="'Drill' achievement icon" width="96" height="96">
 
-Owned by **62.2%** of players
+Owned by **62.1%** of players
 
 Objective: _Get total 10 000 good cuts or more._
 
@@ -158,7 +158,7 @@ Objective: _Get rank SS on any level on expert difficulty without any modifiers.
 
 ## [Charge](achievements/Charge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/59844fa38df9782abd4478db605cc50ccdcf9c07.jpg" alt="'Charge' achievement icon" width="96" height="96">
 
-Owned by **7.0%** of players
+Owned by **7.1%** of players
 
 Objective: _Clear any level with 4 Lives modifier._
 
