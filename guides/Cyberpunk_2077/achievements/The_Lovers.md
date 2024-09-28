@@ -4,7 +4,7 @@ title: The Lovers
 parent: Cyberpunk 2077
 ---
 
-## The Lovers (70.5%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" alt="'The Lovers' achievement icon" width="96" height="96">
+## The Lovers (70.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" alt="'The Lovers' achievement icon" width="96" height="96">
 
 __
 
