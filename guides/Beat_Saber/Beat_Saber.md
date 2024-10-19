@@ -102,7 +102,7 @@ Objective: _Clear any level with disappearing arrows modifier._
 
 ## [Focus](achievements/Focus.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" alt="'Focus' achievement icon" width="96" height="96">
 
-Owned by **13.2%** of players
+Owned by **13.1%** of players
 
 Objective: _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
@@ -142,7 +142,7 @@ Objective: _Get rank S on at least 15 different levels on expert difficulty (sol
 
 ## [On the Edge](achievements/On_the_Edge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/d99b3519f13c52c7f883349ee8a04ea96a3a062b.jpg" alt="'On the Edge' achievement icon" width="96" height="96">
 
-Owned by **7.6%** of players
+Owned by **7.5%** of players
 
 Objective: _Clear any level with One Life modifier._
 
