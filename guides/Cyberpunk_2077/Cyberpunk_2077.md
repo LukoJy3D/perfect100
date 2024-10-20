@@ -222,7 +222,7 @@ Objective: _Collect all items that once belonged to Johnny Silverhand._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **18.0%** of players
+Owned by **18.1%** of players
 
 Objective: __
 
@@ -326,7 +326,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ## [Rough Landing](achievements/Rough_Landing.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" alt="'Rough Landing' achievement icon" width="96" height="96">
 
-Owned by **8.5%** of players
+Owned by **8.4%** of players
 
 Objective: _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
@@ -342,7 +342,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ## [Little Tokyo](achievements/Little_Tokyo.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg" alt="'Little Tokyo' achievement icon" width="96" height="96">
 
-Owned by **8.0%** of players
+Owned by **8.1%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
@@ -382,7 +382,7 @@ Objective: __
 
 ## [The Wasteland](achievements/The_Wasteland.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg" alt="'The Wasteland' achievement icon" width="96" height="96">
 
-Owned by **7.3%** of players
+Owned by **7.4%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in the Badlands._
 
