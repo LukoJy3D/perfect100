@@ -62,7 +62,7 @@ Objective: _Finish the tutorial._
 
 ## [Special](achievements/Special.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f005c82f4be0b1385a9d6e4eac84d92d5d7fd85c.jpg" alt="'Special' achievement icon" width="96" height="96">
 
-Owned by **33.0%** of players
+Owned by **32.9%** of players
 
 Objective: _Get at least rank S on any level on hard difficulty without any modifiers._
 
