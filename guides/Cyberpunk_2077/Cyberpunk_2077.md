@@ -30,7 +30,7 @@ Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" alt="'The Wheel of Fortune' achievement icon" width="96" height="96">
 
-Owned by **56.4%** of players
+Owned by **56.5%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" alt="'Stanislavski's Method' achievement icon" width="96" height="96">
 
-Owned by **53.7%** of players
+Owned by **53.8%** of players
 
 Objective: _Use a dialogue option related to V's life path 10 times._
 
@@ -158,7 +158,7 @@ Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ## [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" alt="'To Protect and Serve' achievement icon" width="96" height="96">
 
-Owned by **27.9%** of players
+Owned by **28.0%** of players
 
 Objective: __
 
@@ -212,19 +212,19 @@ Objective: _Save President Myers._
 
 ---
 
+## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
+
+Owned by **18.2%** of players
+
+Objective: __
+
+---
+
 ## [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" alt="'Breathtaking' achievement icon" width="96" height="96">
 
 Owned by **18.1%** of players
 
 Objective: _Collect all items that once belonged to Johnny Silverhand._
-
----
-
-## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
-
-Owned by **18.1%** of players
-
-Objective: __
 
 ---
 
@@ -246,7 +246,7 @@ Objective: __
 
 ## [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" alt="'To Bad Decisions!' achievement icon" width="96" height="96">
 
-Owned by **15.9%** of players
+Owned by **16.0%** of players
 
 Objective: __
 
