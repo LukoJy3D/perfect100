@@ -6,7 +6,7 @@ has_children: true
 
 ## [The Fool](achievements/The_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg" alt="'The Fool' achievement icon" width="96" height="96">
 
-Owned by **89.4%** of players
+Owned by **89.3%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" alt="'Stanislavski's Method' achievement icon" width="96" height="96">
 
-Owned by **53.6%** of players
+Owned by **53.5%** of players
 
 Objective: _Use a dialogue option related to V's life path 10 times._
 
@@ -222,7 +222,7 @@ Objective: __
 
 ## [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" alt="'Breathtaking' achievement icon" width="96" height="96">
 
-Owned by **18.1%** of players
+Owned by **18.0%** of players
 
 Objective: _Collect all items that once belonged to Johnny Silverhand._
 
@@ -454,6 +454,6 @@ Objective: __
 
 ## [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" alt="'King of Cups' achievement icon" width="96" height="96">
 
-Owned by **3.0%** of players
+Owned by **3.1%** of players
 
 Objective: __
