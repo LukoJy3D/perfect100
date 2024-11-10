@@ -1,9 +1,10 @@
 ---
 name: Guide request
 about: Request for specific game/achievement guide
-title: "request: Add guide for <achievement name> from <game>"
-labels: ""
+title: 'request: Add guide for <achievement name> from <game>'
+labels: ''
 assignees: LukoJy3D
+
 ---
 
 **Game name**

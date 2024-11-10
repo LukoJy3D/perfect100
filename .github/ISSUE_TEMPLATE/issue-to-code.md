@@ -1,9 +1,10 @@
 ---
 name: Issue to code
-about: Create an issue with guide ocntent and we will post it as a code
-title: "guide: how to unlock <achievement name> in <game name>"
+about: Create an issue with guide content and we will post it as a code
+title: 'guide: how to unlock <achievement name> in <game name>'
 labels: enhancement
 assignees: LukoJy3D
+
 ---
 
 **Game name**
