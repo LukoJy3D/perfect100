@@ -1,9 +1,10 @@
 ---
 name: Bug report
 about: Report of a bug found in the scripts, workflows, github pages and etc.
-title: ""
+title: ''
 labels: bug
 assignees: LukoJy3D
+
 ---
 
 **Describe the bug**
