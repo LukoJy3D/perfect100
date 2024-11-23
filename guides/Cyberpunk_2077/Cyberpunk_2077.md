@@ -22,7 +22,7 @@ Objective: __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **68.2%** of players
+Owned by **68.3%** of players
 
 Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" alt="'The Wheel of Fortune' achievement icon" width="96" height="96">
 
-Owned by **56.3%** of players
+Owned by **56.4%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" alt="'The High Priestess' achievement icon" width="96" height="96">
 
-Owned by **47.7%** of players
+Owned by **47.8%** of players
 
 Objective: __
 
@@ -62,7 +62,7 @@ Objective: __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
 
-Owned by **47.0%** of players
+Owned by **47.1%** of players
 
 Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" alt="'Legend of The Afterlife' achievement icon" width="96" height="96">
 
-Owned by **42.1%** of players
+Owned by **42.2%** of players
 
 Objective: _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ Objective: __
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" alt="'Full Body Conversion' achievement icon" width="96" height="96">
 
-Owned by **41.4%** of players
+Owned by **41.5%** of players
 
 Objective: _Install at least one implant in each system and body part._
 
@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **37.2%** of players
+Owned by **37.3%** of players
 
 Objective: _Complete the main storyline._
 
@@ -110,7 +110,7 @@ Objective: _Complete the main storyline._
 
 ## [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" alt="'Gun Fu' achievement icon" width="96" height="96">
 
-Owned by **35.2%** of players
+Owned by **35.3%** of players
 
 Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -118,7 +118,7 @@ Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver o
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" alt="'Bushido and Chill' achievement icon" width="96" height="96">
 
-Owned by **34.0%** of players
+Owned by **34.1%** of players
 
 Objective: __
 
@@ -134,7 +134,7 @@ Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" alt="'Judy vs Night City' achievement icon" width="96" height="96">
 
-Owned by **31.1%** of players
+Owned by **31.2%** of players
 
 Objective: __
 
@@ -142,7 +142,7 @@ Objective: __
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" alt="'Master Crafter' achievement icon" width="96" height="96">
 
-Owned by **29.9%** of players
+Owned by **30.0%** of players
 
 Objective: _Craft 3 Legendary items._
 
@@ -150,7 +150,7 @@ Objective: _Craft 3 Legendary items._
 
 ## [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" alt="'Two Heads, One Bullet' achievement icon" width="96" height="96">
 
-Owned by **29.1%** of players
+Owned by **29.2%** of players
 
 Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -158,7 +158,7 @@ Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ## [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" alt="'To Protect and Serve' achievement icon" width="96" height="96">
 
-Owned by **27.8%** of players
+Owned by **27.9%** of players
 
 Objective: __
 
@@ -166,7 +166,7 @@ Objective: __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" alt="'The Quick and the Dead' achievement icon" width="96" height="96">
 
-Owned by **24.9%** of players
+Owned by **25.0%** of players
 
 Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -174,7 +174,7 @@ Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
 ## [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" alt="'I Am The Law' achievement icon" width="96" height="96">
 
-Owned by **23.6%** of players
+Owned by **23.7%** of players
 
 Objective: _Complete all Cyberpsycho Sightings._
 
@@ -182,7 +182,7 @@ Objective: _Complete all Cyberpsycho Sightings._
 
 ## [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" alt="'The Wandering Fool' achievement icon" width="96" height="96">
 
-Owned by **21.7%** of players
+Owned by **21.8%** of players
 
 Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -206,7 +206,7 @@ Objective: _After reviving with Second Heart, kill or incapacitate the enemy who
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **18.7%** of players
+Owned by **18.8%** of players
 
 Objective: _Save President Myers._
 
@@ -214,7 +214,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **18.4%** of players
+Owned by **18.5%** of players
 
 Objective: __
 
@@ -230,7 +230,7 @@ Objective: _Collect all items that once belonged to Johnny Silverhand._
 
 ## [The Star](achievements/The_Star.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg" alt="'The Star' achievement icon" width="96" height="96">
 
-Owned by **17.6%** of players
+Owned by **17.7%** of players
 
 Objective: __
 
@@ -438,7 +438,7 @@ Objective: __
 
 ## [Judgement Day](achievements/Judgement_Day.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg" alt="'Judgement Day' achievement icon" width="96" height="96">
 
-Owned by **4.5%** of players
+Owned by **4.6%** of players
 
 Objective: _Eliminate three bosses from the "Increased criminal activity" category._
 
