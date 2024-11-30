@@ -38,7 +38,7 @@ Objective: _Get at least rank A on any level on normal difficulty without any mo
 
 ## [Concentrate](achievements/Concentrate.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e3507956238120eb713300d3dc2e225744779b36.jpg" alt="'Concentrate' achievement icon" width="96" height="96">
 
-Owned by **57.0%** of players
+Owned by **56.9%** of players
 
 Objective: _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 
@@ -70,7 +70,7 @@ Objective: _Get at least rank S on any level on hard difficulty without any modi
 
 ## [Warm-up](achievements/Warm_up.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" alt="'Warm-up' achievement icon" width="96" height="96">
 
-Owned by **31.2%** of players
+Owned by **31.1%** of players
 
 Objective: _Clear 100 levels or more._
 
