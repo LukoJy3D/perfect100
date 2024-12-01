@@ -54,7 +54,7 @@ Objective: _Clear any level on expert difficulty without any modifiers._
 
 ## [You Are Ready](achievements/You_Are_Ready.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg" alt="'You Are Ready' achievement icon" width="96" height="96">
 
-Owned by **42.2%** of players
+Owned by **42.3%** of players
 
 Objective: _Finish the tutorial._
 
