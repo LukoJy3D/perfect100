@@ -46,7 +46,7 @@ Objective: _Clear any level on hard difficulty and get at least 100 combo withou
 
 ## [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" alt="'Expert' achievement icon" width="96" height="96">
 
-Owned by **46.1%** of players
+Owned by **46.0%** of players
 
 Objective: _Clear any level on expert difficulty without any modifiers._
 
@@ -110,7 +110,7 @@ Objective: _Clear any level on expert difficulty and get at least 500 combo with
 
 ## [Supreme](achievements/Supreme.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" alt="'Supreme' achievement icon" width="96" height="96">
 
-Owned by **12.7%** of players
+Owned by **12.6%** of players
 
 Objective: _Get full combo on any level on expert difficulty without any modifiers._
 
