@@ -54,7 +54,7 @@ Objective: __
 
 ## [Victory](achievements/Victory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" alt="'Victory' achievement icon" width="96" height="96">
 
-Owned by **9.7%** of players
+Owned by **9.6%** of players
 
 Objective: _Victory_
 
