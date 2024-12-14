@@ -22,7 +22,7 @@ Objective: __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **68.0%** of players
+Owned by **67.9%** of players
 
 Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -46,7 +46,7 @@ Objective: _Use a dialogue option related to V's life path 10 times._
 
 ## [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" alt="'The Hermit' achievement icon" width="96" height="96">
 
-Owned by **52.4%** of players
+Owned by **52.3%** of players
 
 Objective: __
 
@@ -198,7 +198,7 @@ Objective: _Reach the max level in any skill._
 
 ## [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" alt="'V for Vendetta' achievement icon" width="96" height="96">
 
-Owned by **20.2%** of players
+Owned by **20.1%** of players
 
 Objective: _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -206,7 +206,7 @@ Objective: _After reviving with Second Heart, kill or incapacitate the enemy who
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **18.9%** of players
+Owned by **19.0%** of players
 
 Objective: _Save President Myers._
 
@@ -214,7 +214,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **18.6%** of players
+Owned by **18.7%** of players
 
 Objective: __
 
@@ -262,7 +262,7 @@ Objective: __
 
 ## [Frequent Flyer](achievements/Frequent_Flyer.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg" alt="'Frequent Flyer' achievement icon" width="96" height="96">
 
-Owned by **11.9%** of players
+Owned by **11.8%** of players
 
 Objective: _Find all fast travel dataterms._
 
@@ -324,19 +324,19 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ---
 
-## [Rough Landing](achievements/Rough_Landing.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" alt="'Rough Landing' achievement icon" width="96" height="96">
-
-Owned by **8.3%** of players
-
-Objective: _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
-
----
-
 ## [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" alt="'Greetings from Pacifica!' achievement icon" width="96" height="96">
 
 Owned by **8.3%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
+
+---
+
+## [Rough Landing](achievements/Rough_Landing.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" alt="'Rough Landing' achievement icon" width="96" height="96">
+
+Owned by **8.2%** of players
+
+Objective: _While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies._
 
 ---
 
@@ -430,7 +430,7 @@ Objective: __
 
 ## [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" alt="'King of Swords' achievement icon" width="96" height="96">
 
-Owned by **4.8%** of players
+Owned by **4.9%** of players
 
 Objective: __
 
@@ -446,7 +446,7 @@ Objective: _Eliminate three bosses from the "Increased criminal activity" catego
 
 ## [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" alt="'King of Pentacles' achievement icon" width="96" height="96">
 
-Owned by **4.2%** of players
+Owned by **4.3%** of players
 
 Objective: __
 
