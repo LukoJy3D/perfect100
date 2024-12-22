@@ -6,7 +6,7 @@ has_children: true
 
 ## [Reached Coal Pits](achievements/Reached_Coal_Pits.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" alt="'Reached Coal Pits' achievement icon" width="96" height="96">
 
-Owned by **71.6%** of players
+Owned by **71.5%** of players
 
 Objective: __
 
@@ -46,7 +46,7 @@ Objective: __
 
 ## [Reached Temple of the Art](achievements/Reached_Temple_of_the_Art.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" alt="'Reached Temple of the Art' achievement icon" width="96" height="96">
 
-Owned by **13.7%** of players
+Owned by **13.6%** of players
 
 Objective: __
 
