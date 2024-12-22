@@ -4,7 +4,7 @@ title: The Fool
 parent: Cyberpunk 2077
 ---
 
-## The Fool (89.3%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg" alt="'The Fool' achievement icon" width="96" height="96">
+## The Fool (89.2%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg" alt="'The Fool' achievement icon" width="96" height="96">
 
 __
 

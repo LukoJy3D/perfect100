@@ -6,7 +6,7 @@ has_children: true
 
 ## [The Fool](achievements/The_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg" alt="'The Fool' achievement icon" width="96" height="96">
 
-Owned by **89.3%** of players
+Owned by **89.2%** of players
 
 Objective: __
 
@@ -30,7 +30,7 @@ Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" alt="'The Wheel of Fortune' achievement icon" width="96" height="96">
 
-Owned by **55.9%** of players
+Owned by **55.8%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" alt="'The High Priestess' achievement icon" width="96" height="96">
 
-Owned by **47.3%** of players
+Owned by **47.2%** of players
 
 Objective: __
 
@@ -62,7 +62,7 @@ Objective: __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
 
-Owned by **46.8%** of players
+Owned by **46.7%** of players
 
 Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -190,7 +190,7 @@ Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
 ## [Ten out of Ten](achievements/Ten_out_of_Ten.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg" alt="'Ten out of Ten' achievement icon" width="96" height="96">
 
-Owned by **20.8%** of players
+Owned by **20.7%** of players
 
 Objective: _Reach the max level in any skill._
 
@@ -246,7 +246,7 @@ Objective: __
 
 ## [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" alt="'To Bad Decisions!' achievement icon" width="96" height="96">
 
-Owned by **15.8%** of players
+Owned by **15.7%** of players
 
 Objective: __
 
@@ -278,7 +278,7 @@ Objective: _Perform the Distract Enemies quickhack 30 times without drawing atte
 
 ## [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" alt="'The Jungle' achievement icon" width="96" height="96">
 
-Owned by **11.0%** of players
+Owned by **10.9%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -324,14 +324,6 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Watson._
 
 ---
 
-## [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" alt="'Greetings from Pacifica!' achievement icon" width="96" height="96">
-
-Owned by **8.3%** of players
-
-Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
-
----
-
 ## [Rough Landing](achievements/Rough_Landing.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg" alt="'Rough Landing' achievement icon" width="96" height="96">
 
 Owned by **8.2%** of players
@@ -345,6 +337,14 @@ Objective: _While Berserk cyberware is active, perform a Superhero Landing to ki
 Owned by **8.2%** of players
 
 Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan._
+
+---
+
+## [Greetings from Pacifica!](achievements/Greetings_from_Pacifica_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg" alt="'Greetings from Pacifica!' achievement icon" width="96" height="96">
+
+Owned by **8.2%** of players
+
+Objective: _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 ---
 
