@@ -22,7 +22,7 @@ Objective: __
 
 ## [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" alt="'Reached Hiisi Base' achievement icon" width="96" height="96">
 
-Owned by **36.5%** of players
+Owned by **36.4%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" alt="'Reached The Vault' achievement icon" width="96" height="96">
 
-Owned by **18.5%** of players
+Owned by **18.4%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [Victory](achievements/Victory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" alt="'Victory' achievement icon" width="96" height="96">
 
-Owned by **9.7%** of players
+Owned by **9.6%** of players
 
 Objective: _Victory_
 
@@ -70,7 +70,7 @@ Objective: __
 
 ## [The Gods Are Impressed](achievements/The_Gods_Are_Impressed.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" alt="'The Gods Are Impressed' achievement icon" width="96" height="96">
 
-Owned by **3.2%** of players
+Owned by **3.1%** of players
 
 Objective: __
 
