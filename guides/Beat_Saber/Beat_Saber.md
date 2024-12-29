@@ -126,7 +126,7 @@ Objective: _Get total played time 24 hours or more._
 
 ## [100 Million](achievements/100_Million.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/cc071c3d9d6ef6584d3814b8f40c916efa86268f.jpg" alt="'100 Million' achievement icon" width="96" height="96">
 
-Owned by **11.1%** of players
+Owned by **11.0%** of players
 
 Objective: _Get total score 100 million or more._
 
