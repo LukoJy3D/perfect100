@@ -284,14 +284,6 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ---
 
-## [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" alt="'Spin Doctor' achievement icon" width="96" height="96">
-
-Owned by **10.5%** of players
-
-Objective: __
-
----
-
 ## [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" alt="'Mean Streets' achievement icon" width="96" height="96">
 
 Owned by **10.0%** of players
@@ -305,6 +297,14 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Heywood._
 Owned by **9.7%** of players
 
 Objective: _Shoot an enemy grenade in midair with a revolver._
+
+---
+
+## [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" alt="'Spin Doctor' achievement icon" width="96" height="96">
+
+Owned by **9.4%** of players
+
+Objective: __
 
 ---
 
