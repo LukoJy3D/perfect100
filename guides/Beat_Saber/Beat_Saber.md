@@ -22,7 +22,7 @@ Objective: _Clear any level on normal difficulty and get at least 50 combo witho
 
 ## [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" alt="'Drill' achievement icon" width="96" height="96">
 
-Owned by **61.9%** of players
+Owned by **61.8%** of players
 
 Objective: _Get total 10 000 good cuts or more._
 
@@ -30,7 +30,7 @@ Objective: _Get total 10 000 good cuts or more._
 
 ## [Good Enough](achievements/Good_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/fbc0983f37696e78b519b738979f137fa01f42a5.jpg" alt="'Good Enough' achievement icon" width="96" height="96">
 
-Owned by **59.1%** of players
+Owned by **59.0%** of players
 
 Objective: _Get at least rank A on any level on normal difficulty without any modifiers._
 
@@ -76,19 +76,19 @@ Objective: _Clear 100 levels or more._
 
 ---
 
-## [Faster](achievements/Faster.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" alt="'Faster' achievement icon" width="96" height="96">
-
-Owned by **29.3%** of players
-
-Objective: _Clear any level with faster song speed modifier._
-
----
-
 ## [Traveller](achievements/Traveller.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" alt="'Traveller' achievement icon" width="96" height="96">
 
 Owned by **29.2%** of players
 
 Objective: _Get 100 kilometers travelled hand distance or more._
+
+---
+
+## [Faster](achievements/Faster.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" alt="'Faster' achievement icon" width="96" height="96">
+
+Owned by **29.2%** of players
+
+Objective: _Clear any level with faster song speed modifier._
 
 ---
 
@@ -102,7 +102,7 @@ Objective: _Clear any level with disappearing arrows modifier._
 
 ## [Focus](achievements/Focus.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" alt="'Focus' achievement icon" width="96" height="96">
 
-Owned by **13.1%** of players
+Owned by **13.0%** of players
 
 Objective: _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
