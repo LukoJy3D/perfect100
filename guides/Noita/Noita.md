@@ -30,7 +30,7 @@ Objective: __
 
 ## [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" alt="'Reached Underground Jungle' achievement icon" width="96" height="96">
 
-Owned by **22.2%** of players
+Owned by **22.3%** of players
 
 Objective: __
 
@@ -70,7 +70,7 @@ Objective: __
 
 ## [The Gods Are Impressed](achievements/The_Gods_Are_Impressed.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg" alt="'The Gods Are Impressed' achievement icon" width="96" height="96">
 
-Owned by **3.1%** of players
+Owned by **3.2%** of players
 
 Objective: __
 
