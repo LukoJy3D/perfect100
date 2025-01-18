@@ -70,17 +70,9 @@ Objective: _Get at least rank S on any level on hard difficulty without any modi
 
 ## [Warm-up](achievements/Warm_up.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" alt="'Warm-up' achievement icon" width="96" height="96">
 
-Owned by **31.0%** of players
+Owned by **30.9%** of players
 
 Objective: _Clear 100 levels or more._
-
----
-
-## [Traveller](achievements/Traveller.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" alt="'Traveller' achievement icon" width="96" height="96">
-
-Owned by **29.2%** of players
-
-Objective: _Get 100 kilometers travelled hand distance or more._
 
 ---
 
@@ -89,6 +81,14 @@ Objective: _Get 100 kilometers travelled hand distance or more._
 Owned by **29.2%** of players
 
 Objective: _Clear any level with faster song speed modifier._
+
+---
+
+## [Traveller](achievements/Traveller.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" alt="'Traveller' achievement icon" width="96" height="96">
+
+Owned by **29.1%** of players
+
+Objective: _Get 100 kilometers travelled hand distance or more._
 
 ---
 
