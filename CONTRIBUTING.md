@@ -28,11 +28,11 @@ git checkout -b <NEW-BRANCH-NAME>
 
 Most parts of the process are automated by GitHub action to keep all information more structured.
 
-Sometimes there is no need to run Golang or set up ai on your local environment as you want to add a couple of game guides for existing games in which guide files are already generated. Adding a new game can be done with the following workflow:
+Sometimes there is no need to run Golang on your local environment as you want to add a couple of game guides for existing games in which guide files are already generated. Adding a new game can be done with the following workflow:
 
 1. Add game id and name to [games.yml](/games.yml). (You can find the game id on the Steam store page URL or steamdb.info).
 2. Commit your changes and open a pull request.
-3. Wait for GitHub actions to do the rest (it will generate an achievement list, achievement guides by completely inaccurate AI, and stats of players)
+3. Wait for GitHub actions to do the rest (it will generate an achievement list and stats of players)
 
 ### 4. Running guide generation (local development)
 
@@ -66,9 +66,7 @@ You can now create a pull request on the GitHub webpage of your repository. As w
 
 1. Use proper commit names, based on [Conventional Commits specification](https://www.conventionalcommits.org):
 
-```
- <type>[optional scope]: <description>
-```
+`<type>[optional scope]: <description>`
 
 Examples:
 
@@ -78,7 +76,7 @@ Examples:
 
 `fix(Cyberpunk2077): typo 'Legends of the afterlife'`
 
-2. Let's do quality over quantity! It's always better to take time and make clear, informative, and structured guides instead of confusing wallpaper-length paragraphs or simple lazy one-liners.
+1. Let's do quality over quantity! It's always better to take time and make clear, informative, and structured guides instead of confusing wallpaper-length paragraphs or simple lazy one-liners.
 
 ### 7. Create an issue
 

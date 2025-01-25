@@ -13,7 +13,7 @@ Read guides more conveniently on [Github Pages](https://lukojy3d.github.io/perfe
 
 ## Ways to contribute
 
-1. Add game ID to [games.yml](games.yml). Github actions will do the rest of the templating and some silly AI content.
+1. Add game ID to [games.yml](games.yml). Github actions will do the rest of the templating.
 2. Add missing guides where it says `Add guide content here`.
 3. Post an issue with a request for new guides or improvements on existing ones.
 

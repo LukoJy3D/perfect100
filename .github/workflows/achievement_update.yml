@@ -37,7 +37,7 @@ jobs:
     needs: [changed-files]
     if: needs.changed-files.outputs.matrix != '[]'
     strategy:
-      matrix: 
+      matrix:
         files: ${{ fromJSON(needs.changed-files.outputs.matrix) }}
       max-parallel: 4
       fail-fast: false
@@ -50,19 +50,13 @@ jobs:
           ref: ${{ github.head_ref }}
           submodules: recursive
 
-      - name: Configure Cmake
-        uses: threeal/cmake-action@v2.1.0
-        with:
-          run-build: true
-          source-dir: LlamaGPTJ-chat/
-
       - name: Run script
         run: go run main.go "${{ matrix.files }}"
 
       - name: Commit all changed files back to the repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: \"${{ matrix.files }}\" update by github actions [bot]"
+          commit_message: 'docs: "${{ matrix.files }}" update by github actions [bot]'
 
   stat_update:
     name: All stats update
@@ -77,12 +71,6 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
           submodules: recursive
-
-      - name: Configure Cmake
-        uses: threeal/cmake-action@v2.1.0
-        with:
-          run-build: true
-          source-dir: LlamaGPTJ-chat/
 
       - name: Run script
         run: go run main.go all
