@@ -14,7 +14,7 @@ Objective: __
 
 ## [Reached Snowy Depths](achievements/Reached_Snowy_Depths.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" alt="'Reached Snowy Depths' achievement icon" width="96" height="96">
 
-Owned by **58.5%** of players
+Owned by **58.6%** of players
 
 Objective: __
 
@@ -46,7 +46,7 @@ Objective: __
 
 ## [Reached Temple of the Art](achievements/Reached_Temple_of_the_Art.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg" alt="'Reached Temple of the Art' achievement icon" width="96" height="96">
 
-Owned by **13.6%** of players
+Owned by **13.7%** of players
 
 Objective: __
 
@@ -78,7 +78,7 @@ Objective: __
 
 ## [Gathered All The Knowledge](achievements/Gathered_All_The_Knowledge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg" alt="'Gathered All The Knowledge' achievement icon" width="96" height="96">
 
-Owned by **2.3%** of players
+Owned by **2.4%** of players
 
 Objective: __
 
