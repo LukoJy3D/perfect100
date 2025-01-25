@@ -382,7 +382,7 @@ Objective: _Buy all vehicles available for purchase._
 
 ## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" alt="'Dirty Deeds' achievement icon" width="96" height="96">
 
-Owned by **7.4%** of players
+Owned by **6.7%** of players
 
 Objective: _Complete every Gig in Dogtown._
 
