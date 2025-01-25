@@ -1,8 +1,6 @@
 aux_links:
   "achievement guides on GitHub":
     - "//github.com/lukojy3d/perfect100"
-exclude:
-  - LlamaGPTJ-chat
 plugins:
   - jemoji
 remote_theme: just-the-docs/just-the-docs

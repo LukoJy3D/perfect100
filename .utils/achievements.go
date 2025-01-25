@@ -2,12 +2,9 @@ package utils
 
 import (
 	"fmt"
-	"log"
 	"net/http"
 	"os"
-	"os/exec"
 	"path"
-	"runtime"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -134,77 +131,6 @@ func Achievements(gameName string) {
 					os.Exit(1)
 				}
 
-				//run ai setup only before guide generation
-				filename := "ggml-gpt4all-j.bin"
-				url := "https://gpt4all.io/models/ggml-gpt4all-j.bin"
-
-				if _, err := os.Stat(filename); os.IsNotExist(err) {
-					fmt.Println("Downloading model...")
-					cmd := exec.Command("curl", "-L", "-o", filename, url)
-					if err := cmd.Run(); err != nil {
-						fmt.Println("Error downloading model", err)
-						return
-					}
-				} else {
-					fmt.Println("model file already exists")
-				}
-
-				fmt.Printf("Generating guide using AI - Game: \"%s\", Achievement: \"%s\"...\r\n", gameTitleRaw, achieveTextH3)
-
-				//needs to be built first. Follow instructions in https://github.com/kuvaus/LlamaGPTJ-chat#build
-				var cmd *exec.Cmd
-
-				if runtime.GOOS == "windows" {
-					cmd = exec.Command("./LlamaGPTJ-chat/build/bin/chat.exe", "-m", "./ggml-gpt4all-j.bin", "-p", fmt.Sprintf(
-						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
-						achieveTextH3, gameTitleRaw, achieveTextH5), "--no-interactive", "--no-animation")
-				} else if runtime.GOOS == "linux" {
-					cmd = exec.Command("./LlamaGPTJ-chat/build/bin/chat", "-m", "./ggml-gpt4all-j.bin", "-p", fmt.Sprintf(
-						"Write a step-by-step guide that would help unlock '%s' achievement in a game called '%s'. It requires to %s.",
-						achieveTextH3, gameTitleRaw, achieveTextH5), "--no-interactive", "--no-animation")
-				} else {
-					fmt.Println("Unsupported operating system, add additional if statement for your OS")
-					return
-				}
-
-				// Capture the output of the command
-				out, err := cmd.Output()
-				if err != nil {
-					log.Fatal(err)
-				}
-
-				// Convert the output to a string
-				output := string(out)
-
-				// Split the output into lines
-				lines := strings.Split(output, "\n")
-
-				// Find the index of your prompt in the lines
-				promptIndex := -1
-				for i, line := range lines {
-					if strings.Contains(line, "Write a step-by-step guide") {
-						promptIndex = i
-						break
-					}
-				}
-
-				// Extract the lines after the prompt (excluding the next line)
-				if promptIndex != -1 && promptIndex+2 < len(lines) {
-					linesAfterPrompt := lines[promptIndex+2:]
-
-					// Join the lines back into a string
-					textAfterPrompt := strings.Join(linesAfterPrompt, "\n")
-
-					// Remove any leading or trailing spaces
-					answer := strings.TrimSpace(textAfterPrompt)
-
-					markdown2 := fmt.Sprintf("---\r\nlayout: default\ntitle: %s\nparent: %s\r\n---\r\n\r\n"+
-						"## %s (%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n---\r\n\r\n"+
-						":trophy: **Guide written by a human**:\r\n\r\n> :writing_hand: Add guide content here!\r\n\r\n---\r\n\r\n:robot: **AI hallucinations**:\r\n\r\n%s",
-						achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH3, achieveTextH5, answer)
-					f2.WriteString(markdown2)
-				}
-
 				defer f2.Close()
 
 			} else {
@@ -215,12 +141,10 @@ func Achievements(gameName string) {
 					os.Exit(1)
 				}
 
-				var humanGuide string
-				var aiHallucination string
+				var achievements_guide string
 
 				parts := strings.Split(string(fileread), "---")
-				humanGuide = parts[3]
-				aiHallucination = parts[4]
+				achievements_guide = parts[3]
 
 				f2, err := os.Create("guides/" + gameTitle + "/achievements/" + modifiedAchiName + ".md")
 				if err != nil {
@@ -232,8 +156,8 @@ func Achievements(gameName string) {
 
 				// update the variables
 				markdown3 := fmt.Sprintf("---\r\nlayout: default\r\ntitle: %s\r\nparent: %s\r\n---\r\n\r\n"+
-					"## %s (%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n---%s---%s",
-					achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH3, achieveTextH5, humanGuide, aiHallucination)
+					"## %s (%s) <img align=\"right\" src=\"%s\" alt=\"'%s' achievement icon\" width=\"96\" height=\"96\">\r\n\r\n_%s_\r\n\r\n---%s",
+					achieveTextH3, gameTitleRaw, achieveTextH3, achievePercent, imageSrc, achieveTextH3, achieveTextH5, achievements_guide)
 
 				// write the updated content to the file
 				if _, err = f2.WriteString(markdown3); err != nil {
