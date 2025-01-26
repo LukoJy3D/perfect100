@@ -24,10 +24,3 @@ That same nasty way of creating your map applies here as well:
 
 I would only recommend choosing the nasty way if this is your last achievement and you are bored with the game. However, Beat saber is a super fun game, and I still played it for 50+ hours after getting all achievements, so there is plenty of time to get that 100%.
 
----
-
-:robot: **AI hallucinations**:
-
-1. To start, you will need to practice and memorize the patterns of each level so that when it comes time for thematic challenges such as getting a combo or avoiding obstacles, they become second nature. This can be done through playing on beginner difficulty levels until mastery is achieved before moving up to expert mode.
-2. Once you have reached an advanced skillset in the gameplay itself, consider using modifiers that will help improve your performance such as increasing health and damage output or decreasing enemy speed/damage. However, it's important not to rely too heavily on these since they can become crutches if overused.
-3. Finally, once you have mastered the gameplay itself with no modifications whatsoever (which is a difficult task in its own right), focus solely on getting full combos without any modifiers applied at all. This will require extreme precision and timing to pull off successfully since there are many factors that can affect your ability such as enemy movement or environmental hazards like obstacles/pits.

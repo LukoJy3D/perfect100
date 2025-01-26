@@ -23,12 +23,3 @@ Tips:
 
 After you complete the song, the achievement will pop. Good luck!
 
----
-
-:robot: **AI hallucinations**:
-
-To get the Special Achievement for Beat Saver, you need to complete all levels of Hard Difficulty with no modifiers. Here are some steps that can help achieve this goal:
-1) Start by playing through Normal mode and earning a rank S on any level without using any modifier cheats or glitches. This will give you an idea about the difficulty curve for each individual level, as well as familiarize yourself with how to play them in order to succeed later when it comes time to tackle Hard Difficulty mode.
-2) Once Normal Mode is complete and you've earned rank S on any one of its levels without using modifiers or glitches, move onto the next level until all 10 are completed (assuming that there aren’t any unlockable modes). This will ensure that your skills have been tested across a range of difficulties.
-3) Once you've finished Normal Mode and earned rank S on every single one its levels without using modifiers or glitches, move onto Hard Difficulty mode to start earning ranks A through F (assuming there are no unlockable modes). This will give your skills a real-world test.
-4) Once you've completed all 10 levels on Hard Mode and earned rank S without using any modifiers or glitches, the Special Achievement for Beat Saver should be yours!

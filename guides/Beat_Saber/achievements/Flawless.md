@@ -41,9 +41,3 @@ Nasty way (Create your own map):
 
 But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.
 
----
-
-:robot: **AI hallucinations**:
-
-To get the highest possible score and beat "Scored" achievement, you need to follow these steps. Firstly, start with beginner mode as it is easier than advanced or expert modes. Then, focus your attention towards getting a high rank on each level without any modifiers activated. This means that no extra lives should be used during the gameplay and all levels must be completed in one go using only three hearts (or less).
-Nextly, you need to practice playing with different characters as they have their own unique abilities which can help you achieve your goal more easily than others. Finally, make sure not to waste any time by utilizing every second of the gameplay and avoiding mistakes that could cost precious seconds or even lives in this fast-paced action platformer.

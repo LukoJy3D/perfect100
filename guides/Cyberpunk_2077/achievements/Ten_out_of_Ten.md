@@ -14,8 +14,3 @@ _Reach the max level in any skill._
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To reach Level 10 with all skills, you need to complete quests and earn XP. You can also purchase Skill Books from merchants that will increase your character's stats or unlock new abilities for a particular skill tree. Once you have reached level ten in any of the available trees (there are currently 10), you should be able to access all skills at their maximum levels, which would make it possible to achieve 'Ten out of Ten'.

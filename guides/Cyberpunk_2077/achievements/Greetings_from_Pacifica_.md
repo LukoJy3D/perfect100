@@ -14,8 +14,3 @@ _Complete all gigs and NCPD Scanner Hustles in Pacifica._
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To complete the achievement of "Greetings From Pacifica!" you need to do two things. First, you must finish every single quest or mission that is available within Pacifica's city limits. This means completing all quests and missions from NPCs as well as any sidequests given by other characters in the game world itself (i.e., not just those found on your map). Secondly, you must complete every single NCPD Scanner Husstle that is available within Pacifica's city limits. This means completing all of them without dying or using cheats/hacks to do so.

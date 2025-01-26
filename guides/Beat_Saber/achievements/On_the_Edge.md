@@ -24,12 +24,3 @@ Tips:
 
 The achievement will pop at the end of the song.
 
----
-
-:robot: **AI hallucinations**:
-
-To clear levels of Beat Saver without using Instafail modifier, you can follow these steps:
-1. Start playing and try your best not to use the Modifier
-2. If it is too difficult for you then switch off the game
-3. After some time when you are able to play better than before
-4. Try again but this time with no insta fail5. Continue until all levels of Beat Saver have been cleared without using Instafail modifier

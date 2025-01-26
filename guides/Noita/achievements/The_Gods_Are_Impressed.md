@@ -16,10 +16,3 @@ Create an infinite lifetime projectile. Mods must be disabled to obtain this ach
 
 Infinite lifetime spells can be created when a spell's lifetime is equal to 0. This can be achieved by using modifier spells, which affect spells' lifetime. A fantastic guide about this can be found on the Noita wiki [Guide page](https://noita.wiki.gg/wiki/Guide:_Infinite_Lifetime_Spells)
 
----
-
-:robot: **AI hallucinations**:
-
-1. To obtain this achievement, you need to complete the tutorial level. This can be done by starting a new campaign and selecting "Tutorial" as your first playthrough mode when prompted during character creation.
-2. Once in gameplay proper, make sure that you have enough resources (such as wood or stone), food/water for survival purposes, and weapons to defend yourself against enemies encountered on the map. You can gather these items by exploring caves, mines, etc., which are scattered throughout each level of Noita's world.
-3. To unlock 'The Gods Are Impressed', you need to complete all levels in a campaign (including tutorial). This means that once you have completed the first few levels and obtained enough resources/weapons for survival, simply keep playing through until you reach level completion.

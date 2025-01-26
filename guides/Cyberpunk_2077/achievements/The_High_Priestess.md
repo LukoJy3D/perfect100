@@ -14,8 +14,3 @@ __
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To unlock The High Priestess achievement, you will need to complete the quest "A Dangerous Game" which is located on level 13. During this mission, players must avoid being caught by security cameras while they search for a hidden object in an area called 'The Vault'. Once found and returned with it, The High Priestess achievement will unlock automatically upon completion of the quest.

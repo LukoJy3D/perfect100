@@ -22,13 +22,3 @@ Few tips:
 
 After you have hit 100 or more consecutive notes and finished the song, the achievement will pop. Congratulations!
 
----
-
-:robot: **AI hallucinations**:
-
-To clear the Beat Saver levels, you need to focus your efforts towards completing each stage with as few moves possible. Here are some steps that can help achieve this goal in a game called 'Beat_Saber':
-
-1. Start by practicing on easy difficulty level first and then gradually move onto harder difficulties like medium or hard ones depending upon the player's skill levels. This will give you an idea of how to tackle each stage with minimum moves possible without any modifiers activated.
-2. Once you have mastered clearing a particular Beat Saver level on easy difficulty, try practicing it again but this time using only one or two keys at maximum instead of three key presses required for the same task. This will help in honing your skills to tackle each stage with minimum moves possible without any modifiers activated.
-3. Once you have mastered clearing a particular Beat Saver level on easy difficulty, try practicing it again but this time using only one or two keys at maximum instead of three key presses required for the same task. This will help in honing your skills to tackle each stage with minimum moves possible without any modifiers activated.
-4. Finally, once you have mastered clearing a particular Beat Saver level on easy difficulty try practicing it again but this time using only one or two keys at maximum instead of three key presses required for the same task. This will help in honing your skills to tackle each stage with minimum moves possible without any modifiers activated.
