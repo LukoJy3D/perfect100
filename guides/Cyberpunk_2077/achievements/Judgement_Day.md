@@ -14,8 +14,3 @@ _Eliminate three bosses from the "Increased criminal activity" category._
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To eliminate threats, you need to complete missions. Missions are available at various locations throughout Cyperpunk 2077's world and can be initiated by talking with NPC characters or picking up mission objectives from terminals scattered around the gameworld. Once a player has completed enough of these tasks they will unlock new weapons, skills, and abilities that are necessary to eliminate threats in Cyperpunk 2077's world.

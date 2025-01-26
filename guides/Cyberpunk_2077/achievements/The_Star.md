@@ -14,8 +14,3 @@ __
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To obtain The Star achievement, you need to complete the main storyline of Cybershark. Once you have completed it, there will be an option for unlocking "The Star" in your inventory menu. Simply select that and voila! You've just earned yourself a new trophy/achievement.

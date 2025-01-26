@@ -14,13 +14,3 @@ _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To complete the Breach Protocol achievement, you will need to upload at least three Daemons. Here are some steps that can help achieve this goal in Cyberpunk_2077 gameplay:
-
-1. Firstly, head over to your character's inventory and select 'Daemon'.
-2. Once the daemon is selected, you will need to choose a specific Daemons from those available. You can do so by selecting it in the menu or simply clicking on its icon when it appears during gameplay.
-3. After choosing your desired Daems, upload them onto one of Cyberpunk_2077's many terminals that are scattered throughout Night City and beyond.
-4. Once you have uploaded all three daemons successfully to the Breach Protocol achievement will unlock for you!

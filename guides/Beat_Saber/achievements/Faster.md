@@ -23,10 +23,3 @@ Nasty way (Create your own map):
 
 But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.
 
----
-
-:robot: **AI hallucinations**:
-
-To clear levels at the fastest possible pace, you can try using the "faster" modifier. This will increase your movement and attack speeds by up to x2 times their normal values for a limited time period (usually around one minute). To enable this feature in Beat_Saber gameplay mode:
-1) Open Settings menu from main screen of app, go down the list until you find "Modifiers" section. 
-2) Toggle on/off any modifier that interests you such as Faster or Slowdown (which slows your character's movement speed). You can also toggle off all other available options to focus solely on one particular feature for a more streamlined experience if desired.

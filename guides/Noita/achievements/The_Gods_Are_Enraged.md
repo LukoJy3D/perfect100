@@ -18,12 +18,3 @@ Sometimes, an efficient digging wand will not necessarily be the one that can di
 
 Don't forget that 600hp [Steve](https://noita.wiki.gg/wiki/Stevari) will spawn after the _"You have angered the gods"_ message.
 
----
-
-:robot: **AI hallucinations**:
-
-To obtain The Gods are Engorged achievement, you need to complete the following tasks within Noita.
-
-1. Complete Chapter One of the campaign mode with at least an A grade on each level.
-
-2. Obtain all three special abilities in a single playthrough (requires beating the game once).

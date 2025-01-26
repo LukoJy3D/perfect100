@@ -14,8 +14,3 @@ __
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To complete this achievement, you will need the following items/abilities. Firstly, obtain an EMP grenade from your inventory and use it on one of the spider-like creatures that appear in Cyberpunk 2077's world. Secondly, equip a weapon with explosive ammo such as shotgun shell or RPG rockets to take down more than two arachnids at once. Finally, you will need to have access to the 'Arachnophobia' achievement in order for it to unlock automatically when all requirements are met.

@@ -14,10 +14,3 @@ _Finish the tutorial._
 
 Yes, finish the tutorial. You Are Ready!
 
----
-
-:robot: **AI hallucinations**:
-
-1) Open Beat Saver and follow instructions on screen.
-2) Complete all levels of tutorials, including bonus level if available.
-3) Once you have completed the tutorials successfully, unlock achievement "You Are Ready".

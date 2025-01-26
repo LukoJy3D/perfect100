@@ -18,12 +18,3 @@ If you still have difficulties getting this, then I'd suggest trying to do some 
 
 My first win was with low-damage wands, a lot of defensive perks, patience, and a Lukki minion.
 
----
-
-:robot: **AI hallucinations**:
-
-1) To win Victory, you must first complete the tutorial level and learn how to play Noita properly. 
-2) Once you have mastered playing through levels with various weapons such as swords or axes, try using a bow for added range in combat situations.
-3) Aside from learning different types of attacks, it is also important to understand enemy AI behavior so that you can anticipate their moves and counter them effectively.
-4) To achieve Victory, make sure your character has enough health potions on hand at all times as well as ample supplies such as food or water for survival purposes.
-5) Finally, remember the importance of exploration in Noita since it is where you will find hidden treasures and upgrades that can help you win Victory!

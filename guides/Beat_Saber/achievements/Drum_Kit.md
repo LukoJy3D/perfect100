@@ -27,13 +27,3 @@ Nasty way (Create your own map):
 
 But I would strongly discourage using this workaround. Beat saber is a super fun game, and beating levels on the full combo is what makes it challenging and the achievement hunt exciting.
 
----
-
-:robot: **AI hallucinations**:
-
-To complete the task of getting Full Combo on all Hard Difficulty Levels, follow these steps:
-1. Play through each level and learn its patterns by memorizing them or using a cheat sheet if necessary 
-2. Once you have learned enough levels to be able to play at least half-way decently (without any mistakes), start playing the game on Hard Difficulty Mode, which will unlock as soon as you complete all Solo Free Play Levels in Easy mode.
-3. Start with level 15 and work your way up until you have completed it successfully without making a mistake or using cheats to get Full Combo (which is not allowed). Once you've done this, move on to the next Hard Difficulty Level by playing through all Solo Free Play levels in Easy mode again.
-4. Repeat steps 2 and 3 until you have completed at least one level successfully without making a mistake or using cheats for Full Combo (which is not allowed). Once this has been done, move on to the next Hard Difficulty Level by playing through all Solo Free Play levels in Easy mode again.
-5. Repeat steps 2-4 until you have completed at least one level successfully without making a mistake or using cheats for Full Combo (which is not allowed) on each of the remaining fifteen levels, which will unlock Beat Saver as your reward!

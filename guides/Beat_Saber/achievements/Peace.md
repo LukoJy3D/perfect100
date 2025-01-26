@@ -26,11 +26,3 @@ Tips on how to beat those challenges:
 - **Minimum Distance Traveled**: Some songs require you to travel a certain distance with your sabers before the song ends. The ones requiring you to travel are easy because you can flail your arms around like a windmill, even in the first seconds of the song where no notes are coming in
 - **Maximum Distance Traveled**: Some songs require your saber to travel as little as possible. The best strategy is to lock your shoulders and slice only with your wrists.
 
----
-
-:robot: **AI hallucinations**:
-
-To clear missions and win the Beat Saver Campaign, you need to complete each level by defeating its boss. Here are some steps that can help unlock peace achievement: 
-1) Start with Level One - Defeat Boss (Spike). 
-2) Clear all levels in campaign mode until reaching a point where the game is too difficult for your current skill set, and you need to start over again from level one. This will require defeating bosses on each subsequent run through of the same mission. Keep repeating this process as needed until clearing every single level becomes possible without dying or restarting at any given time in campaign mode. 
-3) Once all levels have been cleared, you can then move onto other achievements and unlocks that may be available within Beat Saver's gameplay mechanics.

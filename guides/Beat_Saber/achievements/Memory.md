@@ -20,12 +20,3 @@ Tips:
 3. If you missed the arrow's direction, swipe in the opposite direction than the previous note, as most levels are built this way.
 4. Turn on the "No Fail" modifier with disappearing arrows. Such a modifier combo allows you to finish the level easily, and achievement is still valid.
 
----
-
-:robot: **AI hallucinations**:
-
-To clear levels using the "disappearing arrows" modifier, follow these steps:
-1. Start by selecting your preferred difficulty setting (easy/medium/hard) and then choosing a map from which you want to start playing Beat Sauber.
-2. Once inside the gameplay screen, tap on any level that interests you so as to access its details page where all available modifiers are listed alongside their respective values for each of them. 
-3. Scroll down until you find "disappearing arrows" and then toggle it ON if not already enabled by default or OFF otherwise (if the game is too difficult with this modifier).
-4. Now, tap on any level that interests you again so as to access its details page where all available modifiers are listed alongside their respective values for each of them.

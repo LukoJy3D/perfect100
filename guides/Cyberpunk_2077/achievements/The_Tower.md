@@ -14,8 +14,3 @@ __
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To unlock The Tower achievement/trophy, you need to complete the following tasks within Cybersport Arena. 1) Complete all challenges and earn enough points (at least 50). 2) Win a match against an opponent with at least one star rating higher than your own. You can do this by either playing or watching matches online, but you need to have the necessary skills for it too. 3) Play in all available tournaments and win them all (you will earn trophies).

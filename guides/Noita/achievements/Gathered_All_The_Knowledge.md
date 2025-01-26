@@ -22,14 +22,3 @@ Another approach is to aquire [Essence of Earth](https://noita.wiki.gg/wiki/Esse
 
 A complete list of orbs can be found on the Noita wiki [Orbs of True Knowledge page](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) and navigating with the help of the [map](https://noita.wiki.gg/wiki/Maps) (major spoilers)
 
----
-
-:robot: **AI hallucinations**:
-
-To gather all knowledge achievement, you need to complete the following tasks.
-
-1. Complete level one of Noita and collect enough experience points (XP). To do this, start by exploring each area until you find an object or character that can be interacted with in some way. You will receive XP for any interaction performed on objects/characters within a given environment. Once you have accumulated the required amount of XP to advance to level two, repeat these steps again and collect more experience points (XP) from each area until you reach your goal.
-
-2. Complete all levels in Noita by defeating enemies or solving puzzles that appear throughout gameplay. To do this, start with exploring areas within the current environment where there are no visible obstacles blocking access to new locations/areas. You will encounter various types of characters and objects along your journey through each level which can be interacted upon in some way for XP or other rewards (such as weapons).
-
-3. Collect all knowledge achievement by completing the game's objectives, such as defeating a boss character at the end of an area. To do this, start with exploring areas within each level where there are no visible obstacles blocking access to new locations/areas until you reach your goal. You will encounter various types of characters and objects along your journey through Noita which can be interacted upon in some way for XP or other rewards (such as weapons).

@@ -14,11 +14,3 @@ _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-1. To complete the first NCPD scanner hustling, you need to go through the following steps:
-
-- Go into your inventory menu (press 'I' on controller)
-- Press Y or B for yes/no if prompted by a message that says "Scan Scanner" and select it. This will activate NCPD scanner hustling in Santo Domingo.

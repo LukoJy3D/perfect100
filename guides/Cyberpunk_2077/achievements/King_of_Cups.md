@@ -14,8 +14,3 @@ __
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To earn King Of Cups achievement, you need to complete the quest "The Vault" which is located on level 15. Once inside The Vault, collect all of its contents and exit through one of two doors at opposite ends of the room before time runs out (the timer starts when entering).

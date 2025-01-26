@@ -14,8 +14,3 @@ __
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
-To unlock King of Swords achievement, you need to complete the mission "The Wheelman" which is available after completing Chapter 1. Once completed, it will grant access to additional missions and quests in Cyberpunk_2077 gameplay

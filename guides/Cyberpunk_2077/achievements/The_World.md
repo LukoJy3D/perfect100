@@ -14,8 +14,3 @@ _Complete the main storyline._
 
 > :writing_hand: Add guide content here!
 
----
-
-:robot: **AI hallucinations**:
-
- To complete The World achievement, you need to finish all of Cyberpunk 2077’s quests and missions. This will require exploring every nook and cranny in Night City as well as completing any sidequests or tasks that may appear during your playthrough. You'll also want to make sure you have the necessary skills, weapons, equipment, etc., for each quest/mission type (combat, hacking, stealth). Finally, be aware of potential spoilers and avoid them if possible!
