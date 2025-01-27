@@ -28,7 +28,7 @@ jobs:
           separator: ","
 
       - name: Lint markdown
-        uses: DavidAnson/markdownlint-cli2-action@v17
+        uses: DavidAnson/markdownlint-cli2-action@v19
         with:
           config: .markdownlint-cli2.jsonc
           globs: ${{ steps.changed-files.outputs.all_changed_files }}
