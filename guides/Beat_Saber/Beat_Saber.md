@@ -46,7 +46,7 @@ Objective: _Clear any level on hard difficulty and get at least 100 combo withou
 
 ## [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" alt="'Expert' achievement icon" width="96" height="96">
 
-Owned by **45.9%** of players
+Owned by **45.8%** of players
 
 Objective: _Clear any level on expert difficulty without any modifiers._
 
@@ -54,7 +54,7 @@ Objective: _Clear any level on expert difficulty without any modifiers._
 
 ## [You Are Ready](achievements/You_Are_Ready.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg" alt="'You Are Ready' achievement icon" width="96" height="96">
 
-Owned by **42.3%** of players
+Owned by **42.4%** of players
 
 Objective: _Finish the tutorial._
 
@@ -94,7 +94,7 @@ Objective: _Get 100 kilometers travelled hand distance or more._
 
 ## [Memory](achievements/Memory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" alt="'Memory' achievement icon" width="96" height="96">
 
-Owned by **24.9%** of players
+Owned by **24.8%** of players
 
 Objective: _Clear any level with disappearing arrows modifier._
 
@@ -110,7 +110,7 @@ Objective: _Clear any level on expert difficulty and get at least 500 combo with
 
 ## [Supreme](achievements/Supreme.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" alt="'Supreme' achievement icon" width="96" height="96">
 
-Owned by **12.6%** of players
+Owned by **12.5%** of players
 
 Objective: _Get full combo on any level on expert difficulty without any modifiers._
 
@@ -174,7 +174,7 @@ Objective: _Get rank S on at least 15 different levels on hard difficulty (solo 
 
 ## [Progress](achievements/Progress.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8a7800b32758c6857521c3bce6439bbe133d92af.jpg" alt="'Progress' achievement icon" width="96" height="96">
 
-Owned by **5.6%** of players
+Owned by **5.5%** of players
 
 Objective: _Clear 30 missions in campaign._
 
