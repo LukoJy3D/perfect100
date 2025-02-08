@@ -6,7 +6,7 @@ has_children: true
 
 ## [Reached Coal Pits](achievements/Reached_Coal_Pits.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" alt="'Reached Coal Pits' achievement icon" width="96" height="96">
 
-Owned by **71.6%** of players
+Owned by **71.7%** of players
 
 Objective: __
 
@@ -22,7 +22,7 @@ Objective: __
 
 ## [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" alt="'Reached Hiisi Base' achievement icon" width="96" height="96">
 
-Owned by **36.5%** of players
+Owned by **36.6%** of players
 
 Objective: __
 
@@ -30,7 +30,7 @@ Objective: __
 
 ## [Reached Underground Jungle](achievements/Reached_Underground_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" alt="'Reached Underground Jungle' achievement icon" width="96" height="96">
 
-Owned by **22.3%** of players
+Owned by **22.4%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [Victory](achievements/Victory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg" alt="'Victory' achievement icon" width="96" height="96">
 
-Owned by **9.6%** of players
+Owned by **9.7%** of players
 
 Objective: _Victory_
 
