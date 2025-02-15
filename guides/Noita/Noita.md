@@ -38,7 +38,7 @@ Objective: __
 
 ## [Reached The Vault](achievements/Reached_The_Vault.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg" alt="'Reached The Vault' achievement icon" width="96" height="96">
 
-Owned by **18.5%** of players
+Owned by **18.6%** of players
 
 Objective: __
 
