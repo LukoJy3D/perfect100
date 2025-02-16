@@ -182,7 +182,7 @@ Objective: _Complete all Cyberpsycho Sightings._
 
 ## [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" alt="'The Wandering Fool' achievement icon" width="96" height="96">
 
-Owned by **21.6%** of players
+Owned by **21.7%** of players
 
 Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -262,7 +262,7 @@ Objective: __
 
 ## [Must Be Rats](achievements/Must_Be_Rats.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg" alt="'Must Be Rats' achievement icon" width="96" height="96">
 
-Owned by **11.4%** of players
+Owned by **11.5%** of players
 
 Objective: _Perform the Distract Enemies quickhack 30 times without drawing attention to yourself._
 
@@ -364,6 +364,14 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Westbrook._
 
 ---
 
+## [The Devil](achievements/The_Devil.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" alt="'The Devil' achievement icon" width="96" height="96">
+
+Owned by **7.7%** of players
+
+Objective: __
+
+---
+
 ## [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" alt="'Autojock' achievement icon" width="96" height="96">
 
 Owned by **7.7%** of players
@@ -372,17 +380,9 @@ Objective: _Buy all vehicles available for purchase._
 
 ---
 
-## [The Devil](achievements/The_Devil.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" alt="'The Devil' achievement icon" width="96" height="96">
-
-Owned by **7.6%** of players
-
-Objective: __
-
----
-
 ## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" alt="'Dirty Deeds' achievement icon" width="96" height="96">
 
-Owned by **7.5%** of players
+Owned by **7.6%** of players
 
 Objective: _Complete every Gig in Dogtown._
 
