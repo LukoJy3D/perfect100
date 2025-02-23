@@ -4,7 +4,7 @@ title: Reached Coal Pits
 parent: Noita
 ---
 
-## Reached Coal Pits (71.7%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" alt="'Reached Coal Pits' achievement icon" width="96" height="96">
+## Reached Coal Pits (71.6%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg" alt="'Reached Coal Pits' achievement icon" width="96" height="96">
 
 __
 
