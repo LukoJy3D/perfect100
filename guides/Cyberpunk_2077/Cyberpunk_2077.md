@@ -78,7 +78,7 @@ Objective: _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" alt="'Full Body Conversion' achievement icon" width="96" height="96">
 
-Owned by **42.0%** of players
+Owned by **42.1%** of players
 
 Objective: _Install at least one implant in each system and body part._
 
@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **36.9%** of players
+Owned by **37.0%** of players
 
 Objective: _Complete the main storyline._
 
@@ -142,7 +142,7 @@ Objective: __
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" alt="'Master Crafter' achievement icon" width="96" height="96">
 
-Owned by **30.4%** of players
+Owned by **30.5%** of players
 
 Objective: _Craft 3 Legendary items._
 
@@ -198,7 +198,7 @@ Objective: _Reach the max level in any skill._
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **20.4%** of players
+Owned by **20.5%** of players
 
 Objective: _Save President Myers._
 
@@ -214,7 +214,7 @@ Objective: __
 
 ## [V for Vendetta](achievements/V_for_Vendetta.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg" alt="'V for Vendetta' achievement icon" width="96" height="96">
 
-Owned by **19.6%** of players
+Owned by **19.7%** of players
 
 Objective: _After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds._
 
@@ -278,7 +278,7 @@ Objective: _Find all fast travel dataterms._
 
 ## [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" alt="'Spin Doctor' achievement icon" width="96" height="96">
 
-Owned by **11.1%** of players
+Owned by **11.2%** of players
 
 Objective: __
 
