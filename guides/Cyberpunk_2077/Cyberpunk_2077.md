@@ -62,7 +62,7 @@ Objective: __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
 
-Owned by **47.3%** of players
+Owned by **47.4%** of players
 
 Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" alt="'Legend of The Afterlife' achievement icon" width="96" height="96">
 
-Owned by **42.3%** of players
+Owned by **42.4%** of players
 
 Objective: _Reach max Street Cred._
 
@@ -110,7 +110,7 @@ Objective: _Complete the main storyline._
 
 ## [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" alt="'Gun Fu' achievement icon" width="96" height="96">
 
-Owned by **36.0%** of players
+Owned by **36.1%** of players
 
 Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -118,7 +118,7 @@ Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver o
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" alt="'Bushido and Chill' achievement icon" width="96" height="96">
 
-Owned by **34.0%** of players
+Owned by **34.1%** of players
 
 Objective: __
 
@@ -126,7 +126,7 @@ Objective: __
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" alt="'True Warrior' achievement icon" width="96" height="96">
 
-Owned by **32.6%** of players
+Owned by **32.7%** of players
 
 Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -134,7 +134,7 @@ Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" alt="'Judy vs Night City' achievement icon" width="96" height="96">
 
-Owned by **31.0%** of players
+Owned by **31.1%** of players
 
 Objective: __
 
@@ -166,7 +166,7 @@ Objective: __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" alt="'The Quick and the Dead' achievement icon" width="96" height="96">
 
-Owned by **25.5%** of players
+Owned by **25.6%** of players
 
 Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -174,7 +174,7 @@ Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
 ## [I Am The Law](achievements/I_Am_The_Law.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg" alt="'I Am The Law' achievement icon" width="96" height="96">
 
-Owned by **24.0%** of players
+Owned by **24.1%** of players
 
 Objective: _Complete all Cyberpsycho Sightings._
 
@@ -206,7 +206,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **20.1%** of players
+Owned by **20.2%** of players
 
 Objective: __
 
@@ -238,7 +238,7 @@ Objective: __
 
 ## [The Sun](achievements/The_Sun.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg" alt="'The Sun' achievement icon" width="96" height="96">
 
-Owned by **16.9%** of players
+Owned by **17.0%** of players
 
 Objective: __
 
@@ -246,7 +246,7 @@ Objective: __
 
 ## [To Bad Decisions!](achievements/To_Bad_Decisions_.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg" alt="'To Bad Decisions!' achievement icon" width="96" height="96">
 
-Owned by **15.9%** of players
+Owned by **16.0%** of players
 
 Objective: __
 
@@ -286,7 +286,7 @@ Objective: __
 
 ## [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" alt="'The Jungle' achievement icon" width="96" height="96">
 
-Owned by **10.8%** of players
+Owned by **10.9%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -294,7 +294,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ## [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" alt="'Mean Streets' achievement icon" width="96" height="96">
 
-Owned by **10.0%** of players
+Owned by **10.1%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
@@ -372,19 +372,19 @@ Objective: _Buy all vehicles available for purchase._
 
 ---
 
+## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" alt="'Dirty Deeds' achievement icon" width="96" height="96">
+
+Owned by **7.7%** of players
+
+Objective: _Complete every Gig in Dogtown._
+
+---
+
 ## [The Devil](achievements/The_Devil.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg" alt="'The Devil' achievement icon" width="96" height="96">
 
 Owned by **7.7%** of players
 
 Objective: __
-
----
-
-## [Dirty Deeds](achievements/Dirty_Deeds.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg" alt="'Dirty Deeds' achievement icon" width="96" height="96">
-
-Owned by **7.6%** of players
-
-Objective: _Complete every Gig in Dogtown._
 
 ---
 
@@ -454,6 +454,6 @@ Objective: __
 
 ## [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" alt="'King of Cups' achievement icon" width="96" height="96">
 
-Owned by **3.4%** of players
+Owned by **3.5%** of players
 
 Objective: __
