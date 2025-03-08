@@ -14,7 +14,7 @@ Objective: __
 
 ## [Reached Snowy Depths](achievements/Reached_Snowy_Depths.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg" alt="'Reached Snowy Depths' achievement icon" width="96" height="96">
 
-Owned by **58.4%** of players
+Owned by **58.5%** of players
 
 Objective: __
 
@@ -22,7 +22,7 @@ Objective: __
 
 ## [Reached Hiisi Base](achievements/Reached_Hiisi_Base.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg" alt="'Reached Hiisi Base' achievement icon" width="96" height="96">
 
-Owned by **36.2%** of players
+Owned by **36.3%** of players
 
 Objective: __
 

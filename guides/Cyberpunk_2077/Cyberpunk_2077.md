@@ -30,7 +30,7 @@ Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" alt="'The Wheel of Fortune' achievement icon" width="96" height="96">
 
-Owned by **56.1%** of players
+Owned by **56.2%** of players
 
 Objective: __
 
@@ -46,7 +46,7 @@ Objective: _Use a dialogue option related to V's life path 10 times._
 
 ## [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" alt="'The Hermit' achievement icon" width="96" height="96">
 
-Owned by **52.5%** of players
+Owned by **52.6%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" alt="'The High Priestess' achievement icon" width="96" height="96">
 
-Owned by **47.5%** of players
+Owned by **47.6%** of players
 
 Objective: __
 
@@ -78,7 +78,7 @@ Objective: _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" alt="'Full Body Conversion' achievement icon" width="96" height="96">
 
-Owned by **42.1%** of players
+Owned by **42.2%** of players
 
 Objective: _Install at least one implant in each system and body part._
 
@@ -86,7 +86,7 @@ Objective: _Install at least one implant in each system and body part._
 
 ## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" alt="'Life of the Road' achievement icon" width="96" height="96">
 
-Owned by **41.8%** of players
+Owned by **41.9%** of players
 
 Objective: __
 
@@ -94,7 +94,7 @@ Objective: __
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" alt="'Christmas Tree Attack' achievement icon" width="96" height="96">
 
-Owned by **41.0%** of players
+Owned by **41.1%** of players
 
 Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **37.0%** of players
+Owned by **37.1%** of players
 
 Objective: _Complete the main storyline._
 
@@ -142,7 +142,7 @@ Objective: __
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" alt="'Master Crafter' achievement icon" width="96" height="96">
 
-Owned by **30.5%** of players
+Owned by **30.6%** of players
 
 Objective: _Craft 3 Legendary items._
 
@@ -158,7 +158,7 @@ Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
 ## [To Protect and Serve](achievements/To_Protect_and_Serve.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg" alt="'To Protect and Serve' achievement icon" width="96" height="96">
 
-Owned by **27.7%** of players
+Owned by **27.8%** of players
 
 Objective: __
 
@@ -182,7 +182,7 @@ Objective: _Complete all Cyberpsycho Sightings._
 
 ## [The Wandering Fool](achievements/The_Wandering_Fool.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg" alt="'The Wandering Fool' achievement icon" width="96" height="96">
 
-Owned by **21.7%** of players
+Owned by **21.8%** of players
 
 Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
@@ -206,7 +206,7 @@ Objective: _Save President Myers._
 
 ## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
 
-Owned by **20.2%** of players
+Owned by **20.3%** of players
 
 Objective: __
 
@@ -254,7 +254,7 @@ Objective: __
 
 ## [Temperance](achievements/Temperance.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg" alt="'Temperance' achievement icon" width="96" height="96">
 
-Owned by **12.9%** of players
+Owned by **13.0%** of players
 
 Objective: __
 
@@ -278,7 +278,7 @@ Objective: _Find all fast travel dataterms._
 
 ## [Spin Doctor](achievements/Spin_Doctor.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg" alt="'Spin Doctor' achievement icon" width="96" height="96">
 
-Owned by **11.2%** of players
+Owned by **11.3%** of players
 
 Objective: __
 
@@ -334,7 +334,7 @@ Objective: _Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan
 
 ## [King of Wands](achievements/King_of_Wands.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg" alt="'King of Wands' achievement icon" width="96" height="96">
 
-Owned by **8.6%** of players
+Owned by **8.7%** of players
 
 Objective: __
 
@@ -430,7 +430,7 @@ Objective: __
 
 ## [King of Swords](achievements/King_of_Swords.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg" alt="'King of Swords' achievement icon" width="96" height="96">
 
-Owned by **5.2%** of players
+Owned by **5.3%** of players
 
 Objective: __
 
@@ -446,7 +446,7 @@ Objective: _Eliminate three bosses from the "Increased criminal activity" catego
 
 ## [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" alt="'King of Pentacles' achievement icon" width="96" height="96">
 
-Owned by **4.6%** of players
+Owned by **4.7%** of players
 
 Objective: __
 
