@@ -70,7 +70,7 @@ Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" alt="'Legend of The Afterlife' achievement icon" width="96" height="96">
 
-Owned by **42.4%** of players
+Owned by **42.5%** of players
 
 Objective: _Reach max Street Cred._
 
