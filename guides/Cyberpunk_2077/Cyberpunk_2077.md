@@ -14,7 +14,7 @@ Objective: __
 
 ## [The Lovers](achievements/The_Lovers.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg" alt="'The Lovers' achievement icon" width="96" height="96">
 
-Owned by **69.8%** of players
+Owned by **69.7%** of players
 
 Objective: __
 
@@ -22,7 +22,7 @@ Objective: __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **67.9%** of players
+Owned by **67.8%** of players
 
 Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -30,7 +30,7 @@ Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
 ## [The Wheel of Fortune](achievements/The_Wheel_of_Fortune.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg" alt="'The Wheel of Fortune' achievement icon" width="96" height="96">
 
-Owned by **56.0%** of players
+Owned by **55.9%** of players
 
 Objective: __
 
@@ -38,7 +38,7 @@ Objective: __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" alt="'Stanislavski's Method' achievement icon" width="96" height="96">
 
-Owned by **53.3%** of players
+Owned by **53.2%** of players
 
 Objective: _Use a dialogue option related to V's life path 10 times._
 
@@ -46,7 +46,7 @@ Objective: _Use a dialogue option related to V's life path 10 times._
 
 ## [The Hermit](achievements/The_Hermit.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg" alt="'The Hermit' achievement icon" width="96" height="96">
 
-Owned by **52.5%** of players
+Owned by **52.4%** of players
 
 Objective: __
 
@@ -54,7 +54,7 @@ Objective: __
 
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" alt="'The High Priestess' achievement icon" width="96" height="96">
 
-Owned by **47.5%** of players
+Owned by **47.4%** of players
 
 Objective: __
 
@@ -62,7 +62,7 @@ Objective: __
 
 ## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
 
-Owned by **47.3%** of players
+Owned by **47.2%** of players
 
 Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
@@ -70,7 +70,7 @@ Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ## [Legend of The Afterlife](achievements/Legend_of_The_Afterlife.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg" alt="'Legend of The Afterlife' achievement icon" width="96" height="96">
 
-Owned by **42.4%** of players
+Owned by **42.3%** of players
 
 Objective: _Reach max Street Cred._
 
@@ -86,7 +86,7 @@ Objective: _Install at least one implant in each system and body part._
 
 ## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" alt="'Life of the Road' achievement icon" width="96" height="96">
 
-Owned by **41.8%** of players
+Owned by **41.7%** of players
 
 Objective: __
 
@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **37.0%** of players
+Owned by **36.9%** of players
 
 Objective: _Complete the main storyline._
 
@@ -110,7 +110,7 @@ Objective: _Complete the main storyline._
 
 ## [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" alt="'Gun Fu' achievement icon" width="96" height="96">
 
-Owned by **36.1%** of players
+Owned by **36.0%** of players
 
 Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -118,7 +118,7 @@ Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver o
 
 ## [Bushido and Chill](achievements/Bushido_and_Chill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg" alt="'Bushido and Chill' achievement icon" width="96" height="96">
 
-Owned by **34.1%** of players
+Owned by **34.0%** of players
 
 Objective: __
 
@@ -126,7 +126,7 @@ Objective: __
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" alt="'True Warrior' achievement icon" width="96" height="96">
 
-Owned by **32.7%** of players
+Owned by **32.6%** of players
 
 Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -134,7 +134,7 @@ Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" alt="'Judy vs Night City' achievement icon" width="96" height="96">
 
-Owned by **31.1%** of players
+Owned by **31.0%** of players
 
 Objective: __
 
@@ -150,7 +150,7 @@ Objective: _Craft 3 Legendary items._
 
 ## [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" alt="'Two Heads, One Bullet' achievement icon" width="96" height="96">
 
-Owned by **28.8%** of players
+Owned by **28.7%** of players
 
 Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -198,7 +198,7 @@ Objective: _Reach the max level in any skill._
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **20.7%** of players
+Owned by **20.6%** of players
 
 Objective: _Save President Myers._
 
@@ -294,7 +294,7 @@ Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
 ## [Mean Streets](achievements/Mean_Streets.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg" alt="'Mean Streets' achievement icon" width="96" height="96">
 
-Owned by **10.1%** of players
+Owned by **10.0%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Heywood._
 
@@ -414,7 +414,7 @@ Objective: _Kill or incapacitate 3 enemies with one "Detonate Grenade" quickhack
 
 ## [The APB is Not Enough](achievements/The_APB_is_Not_Enough.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg" alt="'The APB is Not Enough' achievement icon" width="96" height="96">
 
-Owned by **5.6%** of players
+Owned by **5.5%** of players
 
 Objective: _Become Dogtown's most wanted criminal._
 
