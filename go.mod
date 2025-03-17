@@ -1,7 +1,5 @@
 module perfect100
 
-go 1.23
-
 toolchain go1.23.1
 
 require (
@@ -11,5 +9,5 @@ require (
 
 require (
 	github.com/andybalholm/cascadia v1.3.3 // indirect
-	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
 )
