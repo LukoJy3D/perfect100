@@ -22,7 +22,7 @@ Objective: __
 
 ## [Right Back At Ya](achievements/Right_Back_At_Ya.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg" alt="'Right Back At Ya' achievement icon" width="96" height="96">
 
-Owned by **67.7%** of players
+Owned by **67.6%** of players
 
 Objective: _Kill or incapacitate an enemy who threw a grenade at you._
 
@@ -150,7 +150,7 @@ Objective: _Craft 3 Legendary items._
 
 ## [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" alt="'Two Heads, One Bullet' achievement icon" width="96" height="96">
 
-Owned by **28.6%** of players
+Owned by **28.5%** of players
 
 Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -222,7 +222,7 @@ Objective: _After reviving with Second Heart, kill or incapacitate the enemy who
 
 ## [Breathtaking](achievements/Breathtaking.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg" alt="'Breathtaking' achievement icon" width="96" height="96">
 
-Owned by **17.8%** of players
+Owned by **17.7%** of players
 
 Objective: _Collect all items that once belonged to Johnny Silverhand._
 
@@ -230,7 +230,7 @@ Objective: _Collect all items that once belonged to Johnny Silverhand._
 
 ## [The Star](achievements/The_Star.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg" alt="'The Star' achievement icon" width="96" height="96">
 
-Owned by **17.4%** of players
+Owned by **17.3%** of players
 
 Objective: __
 
@@ -286,7 +286,7 @@ Objective: _Find all fast travel dataterms._
 
 ## [The Jungle](achievements/The_Jungle.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg" alt="'The Jungle' achievement icon" width="96" height="96">
 
-Owned by **10.8%** of players
+Owned by **10.7%** of players
 
 Objective: _Complete all gigs and NCPD Scanner Hustles in Santo Domingo._
 
@@ -446,7 +446,7 @@ Objective: _Eliminate three bosses from the "Increased criminal activity" catego
 
 ## [King of Pentacles](achievements/King_of_Pentacles.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg" alt="'King of Pentacles' achievement icon" width="96" height="96">
 
-Owned by **4.7%** of players
+Owned by **4.6%** of players
 
 Objective: __
 
