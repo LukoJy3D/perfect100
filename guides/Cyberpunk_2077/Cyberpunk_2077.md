@@ -38,7 +38,7 @@ Objective: __
 
 ## [Stanislavski's Method](achievements/Stanislavski_s_Method.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg" alt="'Stanislavski's Method' achievement icon" width="96" height="96">
 
-Owned by **53.0%** of players
+Owned by **53.1%** of players
 
 Objective: _Use a dialogue option related to V's life path 10 times._
 
@@ -52,19 +52,19 @@ Objective: __
 
 ---
 
+## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
+
+Owned by **47.2%** of players
+
+Objective: _Kill or incapacitate 300 enemies using ranged weapons._
+
+---
+
 ## [The High Priestess](achievements/The_High_Priestess.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg" alt="'The High Priestess' achievement icon" width="96" height="96">
 
 Owned by **47.2%** of players
 
 Objective: __
-
----
-
-## [True Soldier](achievements/True_Soldier.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg" alt="'True Soldier' achievement icon" width="96" height="96">
-
-Owned by **47.1%** of players
-
-Objective: _Kill or incapacitate 300 enemies using ranged weapons._
 
 ---
 
@@ -78,7 +78,7 @@ Objective: _Reach max Street Cred._
 
 ## [Full Body Conversion](achievements/Full_Body_Conversion.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg" alt="'Full Body Conversion' achievement icon" width="96" height="96">
 
-Owned by **42.0%** of players
+Owned by **42.1%** of players
 
 Objective: _Install at least one implant in each system and body part._
 
@@ -86,7 +86,7 @@ Objective: _Install at least one implant in each system and body part._
 
 ## [Life of the Road](achievements/Life_of_the_Road.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg" alt="'Life of the Road' achievement icon" width="96" height="96">
 
-Owned by **41.5%** of players
+Owned by **41.6%** of players
 
 Objective: __
 
@@ -94,7 +94,7 @@ Objective: __
 
 ## [Christmas Tree Attack](achievements/Christmas_Tree_Attack.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg" alt="'Christmas Tree Attack' achievement icon" width="96" height="96">
 
-Owned by **41.0%** of players
+Owned by **41.1%** of players
 
 Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
@@ -102,7 +102,7 @@ Objective: _Complete a Breach Protocol with a minimum of 3 daemons uploaded._
 
 ## [The World](achievements/The_World.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg" alt="'The World' achievement icon" width="96" height="96">
 
-Owned by **36.7%** of players
+Owned by **36.8%** of players
 
 Objective: _Complete the main storyline._
 
@@ -110,7 +110,7 @@ Objective: _Complete the main storyline._
 
 ## [Gun Fu](achievements/Gun_Fu.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg" alt="'Gun Fu' achievement icon" width="96" height="96">
 
-Owned by **36.0%** of players
+Owned by **36.1%** of players
 
 Objective: _Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat._
 
@@ -126,7 +126,7 @@ Objective: __
 
 ## [True Warrior](achievements/True_Warrior.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg" alt="'True Warrior' achievement icon" width="96" height="96">
 
-Owned by **32.4%** of players
+Owned by **32.5%** of players
 
 Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
@@ -134,7 +134,7 @@ Objective: _Kill or incapacitate 100 enemies using melee weapons._
 
 ## [Judy vs Night City](achievements/Judy_vs_Night_City.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg" alt="'Judy vs Night City' achievement icon" width="96" height="96">
 
-Owned by **30.8%** of players
+Owned by **30.9%** of players
 
 Objective: __
 
@@ -142,7 +142,7 @@ Objective: __
 
 ## [Master Crafter](achievements/Master_Crafter.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg" alt="'Master Crafter' achievement icon" width="96" height="96">
 
-Owned by **30.4%** of players
+Owned by **30.5%** of players
 
 Objective: _Craft 3 Legendary items._
 
@@ -150,7 +150,7 @@ Objective: _Craft 3 Legendary items._
 
 ## [Two Heads, One Bullet](achievements/Two_Heads__One_Bullet.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg" alt="'Two Heads, One Bullet' achievement icon" width="96" height="96">
 
-Owned by **28.5%** of players
+Owned by **28.6%** of players
 
 Objective: _Kill or incapacitate 2 enemies with the same sniper rifle shot._
 
@@ -166,7 +166,7 @@ Objective: __
 
 ## [The Quick and the Dead](achievements/The_Quick_and_the_Dead.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg" alt="'The Quick and the Dead' achievement icon" width="96" height="96">
 
-Owned by **25.5%** of players
+Owned by **25.6%** of players
 
 Objective: _Kill or incapacitate 50 enemies while time is slowed._
 
@@ -190,9 +190,17 @@ Objective: _Find all the tarot graffiti for the job Fool on the Hill._
 
 ## [All the President's Men](achievements/All_the_President_s_Men.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg" alt="'All the President's Men' achievement icon" width="96" height="96">
 
-Owned by **20.8%** of players
+Owned by **20.9%** of players
 
 Objective: _Save President Myers._
+
+---
+
+## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
+
+Owned by **20.6%** of players
+
+Objective: __
 
 ---
 
@@ -201,14 +209,6 @@ Objective: _Save President Myers._
 Owned by **20.6%** of players
 
 Objective: _Reach the max level in any skill._
-
----
-
-## [Arachnophobia](achievements/Arachnophobia.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg" alt="'Arachnophobia' achievement icon" width="96" height="96">
-
-Owned by **20.5%** of players
-
-Objective: __
 
 ---
 
@@ -230,7 +230,7 @@ Objective: _Collect all items that once belonged to Johnny Silverhand._
 
 ## [The Star](achievements/The_Star.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg" alt="'The Star' achievement icon" width="96" height="96">
 
-Owned by **17.3%** of players
+Owned by **17.4%** of players
 
 Objective: __
 
@@ -374,7 +374,7 @@ Objective: _Complete every Gig in Dogtown._
 
 ## [Autojock](achievements/Autojock.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg" alt="'Autojock' achievement icon" width="96" height="96">
 
-Owned by **7.7%** of players
+Owned by **7.8%** of players
 
 Objective: _Buy all vehicles available for purchase._
 
@@ -422,7 +422,7 @@ Objective: _Become Dogtown's most wanted criminal._
 
 ## [The Tower](achievements/The_Tower.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg" alt="'The Tower' achievement icon" width="96" height="96">
 
-Owned by **5.4%** of players
+Owned by **5.5%** of players
 
 Objective: __
 
@@ -454,6 +454,6 @@ Objective: __
 
 ## [King of Cups](achievements/King_of_Cups.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg" alt="'King of Cups' achievement icon" width="96" height="96">
 
-Owned by **3.5%** of players
+Owned by **3.6%** of players
 
 Objective: __

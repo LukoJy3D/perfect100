@@ -86,7 +86,7 @@ Objective: _Get 100 kilometers travelled hand distance or more._
 
 ## [Faster](achievements/Faster.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" alt="'Faster' achievement icon" width="96" height="96">
 
-Owned by **29.1%** of players
+Owned by **29.0%** of players
 
 Objective: _Clear any level with faster song speed modifier._
 
@@ -94,7 +94,7 @@ Objective: _Clear any level with faster song speed modifier._
 
 ## [Memory](achievements/Memory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" alt="'Memory' achievement icon" width="96" height="96">
 
-Owned by **24.8%** of players
+Owned by **24.7%** of players
 
 Objective: _Clear any level with disappearing arrows modifier._
 
