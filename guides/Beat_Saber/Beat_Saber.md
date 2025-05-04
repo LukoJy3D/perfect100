@@ -46,7 +46,7 @@ Objective: _Clear any level on hard difficulty and get at least 100 combo withou
 
 ## [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" alt="'Expert' achievement icon" width="96" height="96">
 
-Owned by **45.8%** of players
+Owned by **45.7%** of players
 
 Objective: _Clear any level on expert difficulty without any modifiers._
 
@@ -158,7 +158,7 @@ Objective: _Get rank SS on any level on expert difficulty without any modifiers.
 
 ## [Charge](achievements/Charge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/59844fa38df9782abd4478db605cc50ccdcf9c07.jpg" alt="'Charge' achievement icon" width="96" height="96">
 
-Owned by **7.0%** of players
+Owned by **7.1%** of players
 
 Objective: _Clear any level with 4 Lives modifier._
 
