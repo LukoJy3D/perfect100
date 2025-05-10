@@ -38,7 +38,7 @@ Objective: _Get at least rank A on any level on normal difficulty without any mo
 
 ## [Concentrate](achievements/Concentrate.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e3507956238120eb713300d3dc2e225744779b36.jpg" alt="'Concentrate' achievement icon" width="96" height="96">
 
-Owned by **56.7%** of players
+Owned by **56.6%** of players
 
 Objective: _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 
@@ -46,7 +46,7 @@ Objective: _Clear any level on hard difficulty and get at least 100 combo withou
 
 ## [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" alt="'Expert' achievement icon" width="96" height="96">
 
-Owned by **45.8%** of players
+Owned by **45.7%** of players
 
 Objective: _Clear any level on expert difficulty without any modifiers._
 
@@ -166,7 +166,7 @@ Objective: _Clear any level with 4 Lives modifier._
 
 ## [Precision](achievements/Precision.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg" alt="'Precision' achievement icon" width="96" height="96">
 
-Owned by **6.7%** of players
+Owned by **6.8%** of players
 
 Objective: _Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
 
