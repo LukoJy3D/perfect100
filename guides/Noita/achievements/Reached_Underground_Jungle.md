@@ -4,7 +4,7 @@ title: Reached Underground Jungle
 parent: Noita
 ---
 
-## Reached Underground Jungle (22.2%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" alt="'Reached Underground Jungle' achievement icon" width="96" height="96">
+## Reached Underground Jungle (22.4%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg" alt="'Reached Underground Jungle' achievement icon" width="96" height="96">
 
 __
 
