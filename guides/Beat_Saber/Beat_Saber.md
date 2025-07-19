@@ -22,7 +22,7 @@ Objective: _Clear any level on normal difficulty and get at least 50 combo witho
 
 ## [Drill](achievements/Drill.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9a2feee562e8fa4cd306893e4a86d49dc2024faa.jpg" alt="'Drill' achievement icon" width="96" height="96">
 
-Owned by **61.7%** of players
+Owned by **61.6%** of players
 
 Objective: _Get total 10 000 good cuts or more._
 
@@ -38,7 +38,7 @@ Objective: _Get at least rank A on any level on normal difficulty without any mo
 
 ## [Concentrate](achievements/Concentrate.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/e3507956238120eb713300d3dc2e225744779b36.jpg" alt="'Concentrate' achievement icon" width="96" height="96">
 
-Owned by **56.7%** of players
+Owned by **56.6%** of players
 
 Objective: _Clear any level on hard difficulty and get at least 100 combo without any modifiers._
 
@@ -46,7 +46,7 @@ Objective: _Clear any level on hard difficulty and get at least 100 combo withou
 
 ## [Expert](achievements/Expert.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg" alt="'Expert' achievement icon" width="96" height="96">
 
-Owned by **45.8%** of players
+Owned by **45.6%** of players
 
 Objective: _Clear any level on expert difficulty without any modifiers._
 
@@ -54,7 +54,7 @@ Objective: _Clear any level on expert difficulty without any modifiers._
 
 ## [You Are Ready](achievements/You_Are_Ready.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg" alt="'You Are Ready' achievement icon" width="96" height="96">
 
-Owned by **42.4%** of players
+Owned by **42.5%** of players
 
 Objective: _Finish the tutorial._
 
@@ -62,7 +62,7 @@ Objective: _Finish the tutorial._
 
 ## [Special](achievements/Special.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/f005c82f4be0b1385a9d6e4eac84d92d5d7fd85c.jpg" alt="'Special' achievement icon" width="96" height="96">
 
-Owned by **32.8%** of players
+Owned by **32.7%** of players
 
 Objective: _Get at least rank S on any level on hard difficulty without any modifiers._
 
@@ -70,7 +70,7 @@ Objective: _Get at least rank S on any level on hard difficulty without any modi
 
 ## [Warm-up](achievements/Warm_up.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/3b1ce488ff749ff147ba8149b21a85ef4f204711.jpg" alt="'Warm-up' achievement icon" width="96" height="96">
 
-Owned by **30.8%** of players
+Owned by **30.7%** of players
 
 Objective: _Clear 100 levels or more._
 
@@ -78,7 +78,7 @@ Objective: _Clear 100 levels or more._
 
 ## [Traveller](achievements/Traveller.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg" alt="'Traveller' achievement icon" width="96" height="96">
 
-Owned by **29.1%** of players
+Owned by **29.0%** of players
 
 Objective: _Get 100 kilometers travelled hand distance or more._
 
@@ -86,7 +86,7 @@ Objective: _Get 100 kilometers travelled hand distance or more._
 
 ## [Faster](achievements/Faster.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/a7b8aefc56f31c2797a6f89f76c8d23b3d018402.jpg" alt="'Faster' achievement icon" width="96" height="96">
 
-Owned by **29.0%** of players
+Owned by **28.9%** of players
 
 Objective: _Clear any level with faster song speed modifier._
 
@@ -94,7 +94,7 @@ Objective: _Clear any level with faster song speed modifier._
 
 ## [Memory](achievements/Memory.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" alt="'Memory' achievement icon" width="96" height="96">
 
-Owned by **24.7%** of players
+Owned by **24.6%** of players
 
 Objective: _Clear any level with disappearing arrows modifier._
 
@@ -102,7 +102,7 @@ Objective: _Clear any level with disappearing arrows modifier._
 
 ## [Focus](achievements/Focus.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/8dc0cc3d40cb0b42c84d24bd09b15f3af14cdc21.jpg" alt="'Focus' achievement icon" width="96" height="96">
 
-Owned by **13.0%** of players
+Owned by **12.9%** of players
 
 Objective: _Clear any level on expert difficulty and get at least 500 combo without any modifiers._
 
@@ -110,7 +110,7 @@ Objective: _Clear any level on expert difficulty and get at least 500 combo with
 
 ## [Supreme](achievements/Supreme.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg" alt="'Supreme' achievement icon" width="96" height="96">
 
-Owned by **12.5%** of players
+Owned by **12.4%** of players
 
 Objective: _Get full combo on any level on expert difficulty without any modifiers._
 
@@ -118,7 +118,7 @@ Objective: _Get full combo on any level on expert difficulty without any modifie
 
 ## [Day & Night](achievements/Day___Night.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/83cc09fe8c596a49684738859ec04bb172594d5a.jpg" alt="'Day & Night' achievement icon" width="96" height="96">
 
-Owned by **11.2%** of players
+Owned by **11.1%** of players
 
 Objective: _Get total played time 24 hours or more._
 
@@ -158,7 +158,7 @@ Objective: _Get rank SS on any level on expert difficulty without any modifiers.
 
 ## [Charge](achievements/Charge.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/59844fa38df9782abd4478db605cc50ccdcf9c07.jpg" alt="'Charge' achievement icon" width="96" height="96">
 
-Owned by **7.0%** of players
+Owned by **7.1%** of players
 
 Objective: _Clear any level with 4 Lives modifier._
 
@@ -166,7 +166,7 @@ Objective: _Clear any level with 4 Lives modifier._
 
 ## [Precision](achievements/Precision.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg" alt="'Precision' achievement icon" width="96" height="96">
 
-Owned by **6.7%** of players
+Owned by **6.8%** of players
 
 Objective: _Get rank S on at least 15 different levels on hard difficulty (solo free play only)._
 
@@ -182,7 +182,7 @@ Objective: _Clear 30 missions in campaign._
 
 ## [Not the End](achievements/Not_the_End.md) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/bfa4d78e680ee50386e1a0dd5b87aecead55d74e.jpg" alt="'Not the End' achievement icon" width="96" height="96">
 
-Owned by **3.0%** of players
+Owned by **2.9%** of players
 
 Objective: _Clear final mission in campaign._
 

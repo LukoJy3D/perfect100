@@ -4,7 +4,7 @@ title: Memory
 parent: Beat Saber
 ---
 
-## Memory (24.7%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" alt="'Memory' achievement icon" width="96" height="96">
+## Memory (24.6%) <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620980/61d16ab5d46beaf3b117b74e4ddcf0aa27dd61cc.jpg" alt="'Memory' achievement icon" width="96" height="96">
 
 _Clear any level with disappearing arrows modifier._
 
